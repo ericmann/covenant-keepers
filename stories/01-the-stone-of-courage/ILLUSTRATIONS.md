@@ -1,7 +1,7 @@
 # Book 1: The Stone of Courage — Illustration Specifications
 
 ## Cover Art (Full Color)
-**Scene:** The three kids standing at the edge of the Valley of Elah, looking down. In the distance, two armies face each other across the valley. A small figure (David) walks alone toward a massive silhouette (Goliath). The Pathfinder glows in Eli's hand.
+**Scene:** The three kids standing at the edge of the Valley of Elah, looking down. In the distance, two armies face each other across the valley. A small figure (David) walks alone toward a massive silhouette (Goliath).
 **Mood:** Wonder mixed with danger. Golden light from the setting sun. The kids are small against a vast landscape.
 **Series elements:** The Pathfinder device should be prominent. Series title treatment and book number. Consistent spine design for shelf recognition.
 

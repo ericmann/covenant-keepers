@@ -36,10 +36,10 @@ The David and Goliath story is chosen as Book 1 because virtually every kid in t
 **Ends with:** Eli picks up the Pathfinder. It's warm. It hums.
 
 ### Chapter 2: The Valley
-**Abuelo's Journal:** A later entry about the Pathfinder itself. He describes finding it, his inability to activate it, his growing belief that it's "waiting for someone."
+**Abuelo's Journal:** A later entry about the Pathfinder itself. He describes finding it, his inability to activate it without the right artifacts, his growing belief that it's "waiting for something ... or someone."
 
 **Beats:**
-- Eli touches the Pathfinder and light floods the room. All three kids are pulled through.
+- Eli touches the Pathfinder and light floods the room. The kids all close their eyes instictually and, when they open them the study is gone and so is the Pathfinder.
 - Disorienting arrival: heat, dust, the smell of sweat and animals. They're on a hillside overlooking a valley. Two armies camped on opposite ridges.
 - Jordan's reaction: pure disbelief. "This is a hallucination." Sofia's reaction: "This is AMAZING." Eli's reaction: quiet recognition. He knows this place.
 - They see the Israelite camp — tense, afraid. Soldiers who won't make eye contact with each other.
@@ -73,7 +73,7 @@ The David and Goliath story is chosen as Book 1 because virtually every kid in t
 
 ### Chapter 5: The Stream
 **Beats:**
-- While David prepares, the kids debate. Jordan: "We can't take his weapon before a fight." Sofia: "We can't just watch a kid get killed." Eli: "We're not here to change the story. We're here to understand it."
+- While David prepares, the kids debate. Jordan: "We can't take his weapon before a fight." Sofia: "We can't just watch a kid get killed." Eli: "I don't think we're here to change the story. We're here to understand it."
 - First articulation of Rule 1 (they can't change Biblical events) — learned through instinct, not lecture.
 - Eli approaches the stream where David selected his stones. The water is cold, clear. He can see stones on the bottom.
 - Sofia notices the fog getting thicker. The hum Eli hears intensifies. Soldiers in the camp start looking uncertain — the fear that had momentarily broken when David spoke is creeping back.
@@ -86,10 +86,10 @@ The David and Goliath story is chosen as Book 1 because virtually every kid in t
 - The confrontation. Goliath mocks David. The army watches from the ridge.
 - This should be genuinely tense despite the reader knowing the outcome. The kids are *there*. The ground shakes when Goliath walks. David looks impossibly small.
 - The Fade pushes hard — the fog rolls into the valley, sounds muffle, the watching army starts to waver. The moment teeters.
-- David speaks: "You come to me with sword and spear and javelin, but I come to you in the name of the Lord of hosts." The fog hesitates. David's faith is the counterpressure.
+- David speaks: "You come to me with sword and spear and javelin, but I come to you in the name of the Lord of hosts." The fog pulls back slightly. David's faith is the counterpressure.
 - The sling. The stone. Goliath falls.
 
-**Ends with:** The valley erupts. The fog scatters. But Eli's eyes are on the streambed. Four remaining stones. And one of them is glowing.
+**Ends with:** The valley erupts. The fog scatters rapidly, like a sudden cloudbreak. But Eli's eyes are on the streambed. Four remaining stones. And one of them is glowing.
 
 ### Chapter 7: The Stone
 **Beats:**
@@ -97,13 +97,13 @@ The David and Goliath story is chosen as Book 1 because virtually every kid in t
 - One stone is faintly luminous — warm to the touch, like the Pathfinder.
 - Eli picks it up. He understands something he didn't before: David's courage wasn't about the stone or the sling. It was about who he trusted. The stone was just a stone. The faith made it enough.
 - Rule 2 in action: the relic appeared because Eli understood the *meaning*, not just the facts.
-- The Pathfinder hums in Eli's pocket, pulling them back.
+- The kids hear a hum. It gets louder and louder until ...
 
 **Ends with:** The world dissolves into light.
 
 ### Chapter 8: The First Slot
 **Beats:**
-- The kids are back in Abuelo's study. Same moment they left. No time has passed.
+- The kids are back in Abuelo's study. Same moment they left. No time has passed. Eli is still holding the stone.
 - Eli places the stone in the Pathfinder. The first slot glows. The hum becomes a note — something almost musical.
 - They stare at eleven empty slots.
 - Jordan, still processing: "That was real." Not a question. Not quite belief. But not denial anymore.
