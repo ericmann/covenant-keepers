@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# AI concept art (generated, not committed)
+concept-art/
+
+# Build artifacts
+*.pdf
+*.epub
+*.mobi
+*.docx
+
+# KDP export files
+kdp-export/
