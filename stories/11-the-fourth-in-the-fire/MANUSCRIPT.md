@@ -16,51 +16,51 @@
 
 Ten notes.
 
-Eli stood at Abuelo's desk, his hand resting on the Pathfinder, and listened. The hum had changed over the months — grown from a single tone in his chest to something richer, fuller. Ten symbols glowed around the bronze face in a slow, breathing pulse. Ten moments preserved. Ten promises anchored.
+Eli stood at Abuelo's desk, looking down at the Pathfinder. Ten symbols glowed around the bronze face in a slow, breathing pulse. Ten moments preserved. Ten promises anchored. Two engravings remained rough and faint — unfinished sketches in the metal, waiting.
 
-The melody was almost a song now. Almost. It kept reaching for a phrase it couldn't finish, like a sentence missing its last word.
+The melody was almost a song now. Almost. It kept reaching for a phrase it couldn't finish, like a sentence missing its last word. But tonight, the hum was quieter than usual. Subdued. The Pathfinder sat on its leather cloth, warm but still, like an engine idling.
 
-"You hear it, don't you?" Abuelo said from the doorway.
+"It's waiting for something," Abuelo said from the doorway.
 
 Eli looked up. His grandfather leaned against the frame, reading glasses pushed onto his forehead, a mug of tea in his scarred hands. He looked thinner than when the summer started, but his eyes were the same — warm and sharp, the kind that made you feel like you'd been understood before you opened your mouth.
 
-"It's louder," Eli said. "Every time we come back, it's louder."
+"It's been like this all afternoon," Eli said. "Humming, but not — building. Not the way it usually does before."
 
-"Two left," Elena said. She was sitting cross-legged on the floor, Abuelo's journal open in her lap, flipping pages like she was looking for something she'd lost. "Two slots. Two adventures."
+"Two left," Elena said. She was sitting cross-legged on the floor, Abuelo's journal open in her lap, flipping pages like she was looking for something she'd lost. "Two slots. Two adventures. So why isn't it doing the thing?"
 
-Jordan stood at the window, arms crossed, hood up. He was watching the street. The rubber band on his wrist snapped once, twice. He didn't turn around.
+Abuelo sipped his tea. His hand found the smooth stone in his pocket — the one from his first dig, the one he always rubbed when he was thinking hard. "Maybe it's not ready yet."
 
-"This one is Babylon," Eli said quietly.
+Eli touched the bronze surface. Warm. Patient. But no surge, no pull. He'd felt the Pathfinder's call ten times now, and every time it had been insistent — a hum that built into a roar, a warmth that became a demand. This was different. This was the Pathfinder holding its breath.
 
-Abuelo set down his tea. His hand found the smooth stone in his pocket — the one from his first dig, the one he always rubbed when he was thinking hard. "You've been to Babylon before."
+"Maybe it's not us it's waiting for," Elena said, glancing toward the window.
 
-"Daniel," Jordan said from the window. "The lions' den. The Daniel adventure." He still didn't turn around. "Same empire. Same kind of trap."
+From downstairs, the front door opened and closed. One knock — then the door, because somewhere during the last ten adventures they'd stopped being neighbors and started being whatever they were now.
 
-Abuelo nodded slowly. "Same empire. Different fire." He crossed to the desk and opened his journal to a page marked with a faded ribbon. "I was in Hillah three years ago. The ruins of Babylon. There's a structure there — brick, enormous, scorched black. The locals call it the furnace."
+"It's me," Jordan called from the hallway. His footsteps came up the stairs, slow and deliberate. He appeared in the doorway of the study, hood up, arms crossed, the rubber band on his wrist already twisting between his fingers. He nodded at Abuelo, then looked at the Pathfinder.
 
-Elena looked up. "Like *the* furnace?"
+"Still quiet?" he asked.
 
-"Like a furnace," Abuelo said carefully. "I don't make claims I can't prove. But I stood inside those ruins, and the air felt wrong. Cold where it should have been warm. Empty where it should have been — full." He paused. "I wrote something that night. I didn't understand it then."
+The Pathfinder answered for itself.
 
-He read aloud, his voice quiet: "'The most sacred space is not the one where God prevents the fire. It's the one where He walks into it with you.'"
+The hum surged — sharp and sudden, like a held breath released all at once. The ten symbols flared, their glow intensifying from a soft pulse to a steady blaze. The two remaining engravings trembled in the bronze. The melody rose a full step, then another, climbing toward something urgent.
 
-The Pathfinder pulsed. The hum rose a half-step.
+Jordan froze in the doorway. "I didn't touch it."
 
-Eli looked at Elena. She was already on her feet. Jordan had turned from the window, his face unreadable behind his glasses.
+"You didn't have to," Abuelo said quietly. He was staring at the Pathfinder with an expression Eli had never seen before — not surprise, exactly. Recognition. "It knows. It's always known. It needs all three of you."
 
-Abuelo stepped back from the desk. He looked at the three of them — really looked, the way he did before every adventure now, like he was memorizing their faces.
+The hum was building fast now — faster than any previous adventure. No time to read the journal. No time to research the destination. No time to prepare.
 
-"Abuelo," Eli said. "You went to Babylon. You stood in the furnace ruins. But you didn't find the relic."
+"Abuelo —" Eli started.
 
-Abuelo's hand closed around the smooth stone in his pocket. "No. I felt it — the warmth, the sense that something sacred had happened in that place. But the shard stayed where it was. I picked it up and put it back." He smiled, and the smile had years in it. "It wasn't waiting for me."
+Abuelo stepped back from the desk. He looked at the three of them — really looked, the way he did before every adventure now, like he was memorizing their faces. His voice was steady but his eyes were bright.
 
-"It was waiting for us," Elena said. Not bragging. Just understanding.
+"I don't know where it's sending you," he said. "But I wrote something once, at a dig site I've never forgotten." He paused. "'The most sacred space is not the one where God prevents the fire. It's the one where He walks into it with you.'"
 
-"I spent fifty years searching," Abuelo said quietly. "I thought the search was the point. It wasn't. The search was preparation. For you three." He cleared his throat, and Eli could see the emotion he was pushing down — not sadness, but something bigger. Pride and awe and the peculiar peace of a man who had finally made sense of his own story.
+The Pathfinder pulsed hard. Elena scrambled to her feet. Jordan stepped forward from the doorway, his arms dropping to his sides.
 
-"Two more," he said softly. "Be careful."
+"Two more," Abuelo said softly. "Be careful."
 
-Eli picked up the Pathfinder.
+Eli's hands closed around the Pathfinder.
 
 The warmth hit his palms first, then his chest, then everything. The hum became a chord, then a roar, then silence — the deep, consuming silence of the space between moments.
 
@@ -84,7 +84,7 @@ Eli opened his eyes and the sun slammed into them — white, relentless, bouncin
 
 "I know this place," Elena said. She was scanning the horizon, hands shading her eyes. "Babylon. We've been here."
 
-She was right. The architecture in the distance — massive walls of glazed brick, the blue and gold of the Ishtar Gate catching the sun — was familiar from their sixth adventure. The same towering walls. The same vast plain stretching to the Euphrates. The same sense of an empire so large it bent the horizon.
+She was right. The architecture in the distance — massive walls of glazed brick, the blue and gold of the Ishtar Gate catching the sun — was familiar from the Daniel adventure. The same towering walls. The same vast plain stretching to the Euphrates. The same sense of an empire so large it bent the horizon.
 
 But something was different. Last time, they had arrived in a functioning court — political, dangerous, but alive. The colors had been sharp. The city had buzzed with purpose.
 
@@ -538,7 +538,15 @@ Eli felt the words land. He felt them land the way the three men's declaration h
 
 Elena wiped her eyes with the back of her hand and stood up. She crossed the room and put her arms around Jordan. She didn't say anything. Jordan stiffened for a moment, then didn't.
 
-Eli let them have the moment. He turned to Abuelo's journal — the one that always lay open on the desk, the one that always seemed to know what they needed.
+Abuelo was sitting in the wooden chair by the window. He hadn't moved since they'd left — because no time had passed, it never did — but his face had changed. He was looking at Jordan with something too large for words. He waited until Elena stepped back, until Jordan had put his glasses on again and taken a breath.
+
+"I was in Hillah six years ago," Abuelo said quietly. "The ruins of Babylon. There's a structure there — brick, enormous, scorched black after twenty-six centuries. The locals call it the furnace." He paused. "I stood inside those ruins, and I felt it. The warmth, the sense that something sacred had happened in that place. I found the shard. I picked it up." His hand closed around the smooth stone in his pocket. "And I put it back. Because it wasn't waiting for me."
+
+"It was waiting for us," Elena said. Not bragging. Just understanding.
+
+"I spent fifty years searching," Abuelo said. "I thought the search was the point. It wasn't." He looked at the three of them — Eli by the desk, Elena standing with her arms still half-raised, Jordan by the window with his reflection staring back. "The search was preparation. For you three." He cleared his throat. "And what Jordan just said about a God who walks into the fire — that's not something I could have taught you. That's something you had to see."
+
+Eli let the words settle. He turned to Abuelo's journal — the one that always lay open on the desk, the one that always seemed to know what they needed.
 
 The last entry was different from the others. Instead of dense text and margin notes, the page held a drawing. A mountain. Simple pencil strokes — a peak, a ridge, a winding path up one side. At the base, two figures: one tall, one small. A father and a son. Climbing.
 

@@ -45,31 +45,39 @@ He paused. His eyes moved to the one empty slot on the Pathfinder. Something cro
 
 "It's the hardest one," Abuelo said. "Not to find. To carry."
 
-Jordan sat on the windowsill with his hood up. His glasses caught the light from the eleven glowing symbols and threw tiny reflections across the wall. He'd been fidgeting with the rubber band on his wrist since he arrived, snapping it against his skin in a rhythm only he could hear.
+The Pathfinder hummed — low, patient, the way it had all afternoon. Eleven notes holding steady but not building. Waiting. Eli had felt the Pathfinder's call eleven times now, and he knew the difference between its resting state and its ready state. This was neither. This was the Pathfinder listening for something.
 
-"So we just wait," Jordan said.
+Elena threw the ball again. Caught it. "So when does —"
 
-"We just wait."
+The front door opened downstairs. One knock, then the handle — the way Jordan always came in now. Footsteps on the stairs. The study door pushed open, and Jordan stood in the frame, hood up, glasses reflecting the glow of eleven symbols. The rubber band on his wrist was already twisting between his fingers.
 
-"Great. My favorite activity."
+"Hey," he said. "Sorry — Mom needed me to finish unpacking a shelf. Did I miss —"
 
-Elena threw the ball again. Caught it. Threw it. Caught it.
+The Pathfinder answered before he finished the sentence.
+
+The hum surged. Eleven notes that had been holding steady for hours suddenly climbed — not one half-step but three, four, the melody soaring toward something urgent and vast. The symbols blazed from their steady pulse to a fierce, white-hot glare. The twelfth slot — the empty one, the rough scratch of a thorn — pulsed with a light Eli had never seen before.
+
+Jordan froze in the doorway. "I didn't even —"
+
+"It knows," Abuelo said. The same words he'd said last time. The same quiet recognition. "It's always needed all three of you."
+
+Jordan crossed the study and dropped onto the windowsill. His glasses caught the light from the blazing symbols and threw tiny reflections across the wall. "So we just wait?"
+
+"I don't think we're waiting anymore," Eli said.
 
 The study smelled the way it always smelled — old books and cinnamon and the faint mineral scent of artifacts that had been pulled from the earth decades ago. Maps on every wall, connected by colored strings. Journals stacked in columns on the long table. The glass cases with their fragments of ancient things.
 
 But the room felt different tonight. Charged. Like the air before a thunderstorm, when the pressure drops and every hair on your arm stands up and you can taste metal on the back of your tongue.
 
-Eli felt the hum start in his chest. Low. Almost nothing. The faintest vibration, like a tuning fork held too far away to hear.
+Elena stopped throwing the ball. She sat up. Her arms were covered in goosebumps.
 
-Elena stopped throwing the ball.
-
-"I'm cold," she said. She sat up. Her arms were covered in goosebumps. "Eli."
+"I'm cold," she said. "Eli."
 
 Jordan pulled his hood tighter. "Everything just got blurry. Like —"
 
 The Pathfinder screamed.
 
-Not screamed — *sang*. A note so loud and clear it rattled the glass cases and knocked a journal off the table. The eleven completed symbols blazed white. The twelfth slot — the empty one, the rough scratch of a thorn — pulsed with a light Eli had never seen before. Not amber. Not gold. Something older. Something that had been waiting a very long time.
+Not screamed — *sang*. A note so loud and clear it rattled the glass cases and knocked a journal off the table. The eleven completed symbols blazed white. The twelfth slot burned. Not amber. Not gold. Something older. Something that had been waiting a very long time.
 
 The pull hit Eli like a fist in the sternum. He gasped. His fingers locked around the edges of the disc so hard his knuckles went white.
 
