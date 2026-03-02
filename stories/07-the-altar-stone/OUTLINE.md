@@ -21,9 +21,9 @@
 ## Chapter Beats
 1. Present day. Eli is anxious — the Fade is escalating and he feels responsible. Transport to Mount Carmel.
 2. The setup: Israel divided. Ahab and Jezebel's corruption. The prophets of Baal everywhere. Elijah is a wanted man.
-3. The challenge issued. 450 vs. 1. The odds are absurd. Sofia loves it. Jordan finds it reckless.
+3. The challenge issued. 450 vs. 1. The odds are absurd. Elena loves it. Jordan finds it reckless.
 4. The prophets of Baal spend hours calling to their god. Nothing. Elijah taunts them. The silence of a false god is deafening.
 5. Elijah builds the altar. Twelve stones. Drenches it in water three times. The Fade rolls in thick.
 6. Elijah prays. Simple. Direct. Fire from heaven consumes everything — altar, stones, water, all of it.
 7. The Fade tries to rewrite the moment: "Coincidence. Weather. Luck." But a stone from the altar glows through the fire.
-8. Return. Seventh slot. Eli, shaking: "I don't know if I could have done what he did." Sofia: "You already have. Every time you pick up the Pathfinder."
+8. Return. The seventh symbol transforms. Eli, shaking: "I don't know if I could have done what he did." Elena: "You already have. Every time you pick up the Pathfinder."

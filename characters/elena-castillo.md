@@ -1,10 +1,20 @@
-# Sofia Castillo
+# Elena Castillo
 
 ## Basics
 - **Age:** 10
 - **Role:** The spark. The doer.
 - **Family:** Daughter of [unnamed parents], granddaughter of Professor Hector Castillo. Younger sister to Eli.
-- **Appearance:** [To be defined — provide to illustrator]
+- **Appearance:**
+  - Dark brown hair, long enough for a ponytail — almost always pulled back; loose strands escape constantly
+  - Warm brown skin, slightly darker than Eli's from being outdoors more
+  - Dark brown eyes, sharp and quick — always scanning, always moving
+  - Small for 10 but compact and strong; built like a soccer player
+  - Wears a bright-colored t-shirt (reds, yellows, oranges — never pastels), athletic shorts or leggings, and well-worn running shoes
+  - A braided friendship bracelet on her left wrist she never takes off
+  - Skinned knees and scuffed elbows are constant; she always has at least one bandage somewhere
+  - Posture: bouncy, forward-leaning, ready to move — she doesn't sit still, she perches
+  - Resting expression is a half-grin, slightly challenging — like she's daring the world to keep up
+  - Distinguishing feature: a gap between her front teeth that shows when she grins (which is often)
 - **Heritage:** Latina (Mexican-American). More likely than Eli to pepper conversation with Spanish when excited or frustrated.
 
 ## Personality
@@ -45,8 +55,8 @@ Impatience. She wants to fix everything right now and gets frustrated when God's
 ## Key Moments by Book
 - **Book 1:** Wants to fight Goliath herself. Has to learn that this isn't her battle.
 - **Book 5:** Furious at the slow march around Jericho. Her impatience is at its peak. The walls falling is the first real crack in her "just DO something" worldview.
-- **Book 9:** The Ruth book. The quiet one. Sofia watches a woman whose courage is entirely expressed through loyalty, hard work, and showing up. It fundamentally changes how she defines bravery.
+- **Book 9:** The Ruth book. The quiet one. Elena watches a woman whose courage is entirely expressed through loyalty, hard work, and showing up. It fundamentally changes how she defines bravery.
 - **Book 12:** Stands firm in the darkest moment not by charging forward but by choosing to wait. The hardest thing she's ever done — and the bravest.
 
-## The Fade's Effect on Sofia
-She gets cold. Physically, bone-deep cold. This is particularly effective because Sofia is always warm, always in motion. The cold forces her to stop, and stopping is what she fears most.
+## The Fade's Effect on Elena
+She gets cold. Physically, bone-deep cold. This is particularly effective because Elena is always warm, always in motion. The cold forces her to stop, and stopping is what she fears most.

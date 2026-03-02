@@ -25,7 +25,7 @@
 
 ### Ch 2: The Coat
 - They witness Jacob giving Joseph the coat. The brothers' jealousy is raw and ugly.
-- Sofia: "This isn't going to end well." She can feel it.
+- Elena: "This isn't going to end well." She can feel it.
 - The coat is beautiful but it's a target on Joseph's back.
 
 ### Ch 3: The Pit
@@ -57,7 +57,7 @@
 - At the moment of forgiveness, a thread from the original coat — caught on a stone, preserved for decades — begins to glow.
 
 ### Ch 8: Return
-- The relic secured. Third slot fills. Three notes harmonizing.
+- The relic dissolves during transport. The third symbol on the Pathfinder transforms. Three notes harmonizing.
 - Jordan is shaken. "He forgave them. After everything. How?"
 - Eli: "Maybe that's the point. Maybe forgiveness isn't about what they deserve."
 - Jordan doesn't respond. But he's thinking about his dad.

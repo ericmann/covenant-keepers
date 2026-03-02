@@ -3,8 +3,18 @@
 ## Basics
 - **Age:** 70s
 - **Role:** The mentor (mostly absent).
-- **Family:** Grandfather to Eli and Sofia. Widower (wife deceased before series begins). His son/daughter (the kids' parent) is largely off-page.
-- **Appearance:** [To be defined — provide to illustrator. Think weathered Indiana Jones professor type. Reading glasses, tanned skin, calloused hands from decades of fieldwork.]
+- **Family:** Grandfather to Eli and Elena. Widower (wife deceased before series begins). His son/daughter (the kids' parent) is largely off-page.
+- **Appearance:**
+  - White hair, thick, swept back from his forehead — once jet black, now silver-white and a little wild
+  - Deep brown skin, weathered and lined from decades in the field — laugh lines around his eyes, deep creases at the corners of his mouth
+  - Dark brown eyes, warm and sharp at the same time — the kind that make you feel seen
+  - Medium height, once broad-shouldered, now slightly stooped; still has the frame of a man who spent years crouching in trenches
+  - Reading glasses — half-moon, gold-rimmed — usually perched on the end of his nose or pushed up on his forehead
+  - Wears a linen button-down shirt (always slightly rumpled, sleeves rolled to the elbows), khaki trousers, leather sandals at home
+  - Calloused hands, scarred knuckles, dirt permanently under his fingernails — fieldwork hands
+  - A leather-banded wristwatch (analog, old, still ticking) he never takes off
+  - Posture: upright despite his age; moves carefully since the fall but with quiet dignity
+  - Distinguishing features: the reading glasses, the watch, and a habit of rubbing his thumb across a smooth stone he keeps in his pocket (a talisman from his first dig)
 - **Heritage:** Mexican-American. First-generation college graduate. Speaks Spanish, English, Hebrew, Greek, Arabic, and working knowledge of Aramaic.
 
 ## Personality
@@ -25,7 +35,7 @@ Abuelo speaks primarily through his journal entries, which open each chapter. Th
 **Example journal entry:**
 > *March 14, 2019 — Tell es-Sultan, Jericho*
 > The walls here are older than anyone wants to admit. Bronze Age, certainly, but the foundation stones feel earlier. I spent the morning arguing with Dr. Feldman about the acoustic properties of the tell — whether concentrated sound at specific frequencies could destabilize mudbrick construction. She thinks I'm reaching. Maybe I am. But I keep thinking about those trumpets. Seven priests. Seven days. Seven times on the seventh day. There's a precision to it that doesn't feel ceremonial. It feels engineered.
-> Sofia would say I'm overthinking it. She'd be right.
+> Elena would say I'm overthinking it. She'd be right.
 
 ## Presence Across the Series
 - **Books 1–3:** Hospitalized after a fall. The kids find his study and the Pathfinder. He's off-page except through his journals.

@@ -27,4 +27,4 @@
 6. Nineveh repents. Massively. The entire city turns. It should feel miraculous.
 7. Jonah's fury. He wanted them destroyed. God's mercy enrages him. The Fade feeds this: "They don't deserve forgiveness." The vine, the worm, God's question.
 8. The relic: the coin, found at the harbor where Jonah first ran, glowing. It appeared at the place of running, not the place of arrival. The meaning: second chances begin at the moment you recognize you're running.
-9. Return. Jordan's midpoint observation. Eight slots filled. The tone is shifting.
+9. Return. Jordan's midpoint observation. Eight symbols now glowing on the Pathfinder. The tone is shifting.

@@ -2,20 +2,22 @@
 
 ## Premise
 
-Twelve-year-old Eli Castillo and his ten-year-old sister Sofia are spending the summer with their grandfather, Professor Hector "Abuelo" Castillo, a retired Biblical archaeologist. When Abuelo is hospitalized after a fall, the kids and their skeptical neighbor Jordan Park discover a hidden study in his house containing a lifetime of research — and a strange bronze device called the Pathfinder.
+Twelve-year-old Eli Castillo and his ten-year-old sister Elena are spending the summer with their grandfather, Professor Hector "Abuelo" Castillo, a retired Biblical archaeologist. When Abuelo is hospitalized after a fall, the kids and their skeptical neighbor Jordan Park discover a hidden study in his house containing a lifetime of research — and a strange bronze device called the Pathfinder.
 
-The Pathfinder is an ancient compass-like instrument with twelve empty settings arranged like a clock face, each engraved with a symbol. When Eli touches it, the device activates and pulls the three kids backward through time into a Biblical event.
+The Pathfinder is an ancient compass-like instrument with twelve faint symbols arranged like a clock face — rough engravings barely visible in the bronze, like unfinished sketches. When Eli touches it, the device activates and pulls the three kids backward through time into a Biblical event.
 
-Through Abuelo's journals, their mission becomes clear: twelve Covenant Relics are scattered across sacred history. Each is a physical artifact from a moment where God's faithfulness was on display. An unseen force — the Fade — is working to erase these moments from memory. The kids must find each relic, witness the event firsthand, and return the relic to the Pathfinder before the memory is lost.
+Through Abuelo's journals, their mission becomes clear: twelve Covenant Relics are scattered across sacred history. Each is a physical artifact from a moment where God's faithfulness was on display. An unseen force — the Fade — is working to erase these moments from memory. The kids must find each relic and witness the event firsthand. When they do, the relic dissolves during transport home — but the corresponding symbol on the Pathfinder transforms, sharp and glowing, confirming the memory has been preserved.
 
 ## The Pathfinder
 
-- Bronze, heavy, warm to the touch
-- Twelve slots arranged in a circle, each engraved with a symbol corresponding to a relic
-- When a relic is placed, the slot glows faintly and the Pathfinder hums
-- As more slots fill, the hum becomes a tone — almost like music
+- Bronze, heavy, warm to the touch — about the size of a dinner plate
+- Twelve symbols arranged in a circle like a clock face, each an engraving corresponding to a relic (a stone, a branch, a thread, a staff, a horn, a seal, an altar stone, a coin, a sheaf, a crown jewel, a lamp shard, a tomb chip)
+- Before completion, each symbol is a rough, faint engraving — barely visible, like an unfinished sketch in bronze
+- When the kids find the relic in the past: they pick it up, it glows, triggers the return — but their hands are empty when they arrive in the present. The relic dissolves during transport.
+- Back in the present, the corresponding symbol on the Pathfinder transforms: lines sharpen, the surface polishes smooth, color appears like enamel inlay, and a faint glow settles into the engraving (visible in dim light, like glow-in-the-dark)
+- As more symbols complete, the hum becomes a tone — almost like music. Each new symbol adds a note.
 - It is never explained what the Pathfinder is or who made it. It is old. It is purpose-built. And it chose these kids.
-- In Book 12, the completed Pathfinder opens to reveal a mirror — reflecting the character of God back to whoever holds it
+- In Book 12, the twelve completed symbols together form a reflective surface — a mirror reflecting the character of God back to whoever holds it
 
 ## The Fade
 
@@ -23,7 +25,7 @@ The series antagonist is not a person but a force. The Fade is a creeping, cold 
 
 **Manifestation:** Grey fog, patches of silence, colors draining, people suddenly doubting what they've witnessed.
 
-**Detection:** Sofia gets cold. Eli hears a low hum. Jordan's vision blurs at the edges.
+**Detection:** Elena gets cold. Eli hears a low hum. Jordan's vision blurs at the edges.
 
 **Behavior across the series:**
 - Books 1–4: Peripheral. A creeping fog on the edges. Present but not aggressive.
@@ -69,7 +71,7 @@ Each book follows roughly this structure:
 4. **Rising tension:** The Fade appears. The critical moment is in danger.
 5. **Crisis:** The moment of truth — for the Biblical figure and for the kids.
 6. **Relic:** The artifact reveals itself. The kids understand the promise.
-7. **Return:** Back in the present. Relic placed in the Pathfinder. Brief reflection. Hook toward next adventure.
+7. **Return:** Back in the present. The relic dissolves during transport — the kids' hands are empty. But the corresponding symbol on the Pathfinder has transformed: sharp lines, polished bronze, colored enamel, a faint glow. Brief reflection. Hook toward next adventure.
 
 ## Abuelo's Journal
 
@@ -80,6 +82,20 @@ Each chapter opens with a short excerpt from Abuelo's field journal. These entri
 - Reveal Abuelo's personality and lifetime of searching
 - Become more personal and urgent in later books
 - Eventually hint that Abuelo knew more about the Fade than he let on
+
+## Settings
+
+### Abuelo's House — Exterior
+Tall, narrow Victorian. Dark wood shutters, paint slightly peeling. A porch that creaks in all the right places. Wind chimes made of old keys hang from the eaves, clinking in the slightest breeze. The yard is overgrown but not neglected — wildflowers instead of a lawn, a stone birdbath listing slightly to one side.
+
+### Abuelo's House — Interior
+Bookshelves line every hallway. Maps in multiple languages are thumbtacked to the walls. Ancient artifacts sit mixed with everyday items — a clay jar from a dig site next to a box of Cheerios, a bronze arrowhead used as a paperweight on a stack of junk mail. The house smells like old books and cinnamon. Every room feels like a library that grew legs and wandered into a home.
+
+### The Hidden Study
+Upstairs hallway, behind a bookshelf with a brass latch hidden behind a thick book of maps. The shelf swings inward. The room is smaller than expected. Maps cover every wall, pinned with colored tacks and connected by strings. Journals are stacked on a long table in columns, each labeled by year. Glass cases hold artifacts — a clay oil lamp, a bronze arrowhead, a fragment of cloth so old it might crumble if you breathed on it. A single window lets in late afternoon light. The Pathfinder sits on a leather cloth on the desk, like it's the most important thing in the room — because it is.
+
+### Jordan's House
+Next door to Abuelo's. Modest, with a recent move-in feel — boxes still stacked in the garage, a yard that hasn't been personalized yet. The contrast with Abuelo's overgrown, artifact-filled home is deliberate. Jordan's world is still unsettled.
 
 ## Themes by Book
 

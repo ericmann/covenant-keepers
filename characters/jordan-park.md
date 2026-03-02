@@ -4,7 +4,17 @@
 - **Age:** 11
 - **Role:** The questioner. The skeptic-becoming-seeker.
 - **Family:** Lives with his mom next door to Abuelo's house. Parents recently divorced. Dad is mostly absent. Has a younger sister he worries about.
-- **Appearance:** [To be defined — provide to illustrator]
+- **Appearance:**
+  - Straight black hair, a little too long — falls over his forehead and ears; he hides behind it when uncomfortable
+  - Light golden-brown skin
+  - Dark brown eyes, observant — tends to watch before engaging; his gaze is steady and a little guarded
+  - Average height for 11, slim build — looks like he's still growing into his limbs
+  - Wears a dark hoodie (navy or charcoal) even in warm weather — the hood is armor
+  - Graphic tees underneath (science puns, retro video game logos), jeans, and clean white sneakers
+  - Glasses — rectangular, dark frames; he pushes them up when making a point
+  - Posture: arms crossed or hands in pockets; leans against things rather than standing straight
+  - Resting expression is skeptical — one eyebrow slightly raised, mouth pressed flat. When genuinely moved, his face goes completely open and unguarded.
+  - Distinguishing feature: the glasses and a habit of fidgeting with a rubber band on his wrist when anxious
 - **Heritage:** Korean-American.
 
 ## Personality
@@ -17,7 +27,7 @@
 
 ## Voice
 - Qualifiers everywhere: "I mean," "but what if," "okay but," "technically"
-- Longer, more complex sentences than Sofia but less formal than Eli
+- Longer, more complex sentences than Elena but less formal than Eli
 - Defaults to observation over participation: "Did you guys notice that..." or "Is it just me or..."
 - Sarcasm is his native language but it softens across the series
 - When he's genuinely moved, he goes very quiet and speaks simply
@@ -36,14 +46,14 @@ This is the spine of the series. Jordan's arc is the most important thread.
 - **Books 3–5:** "I can't explain this." Joseph's story (Book 3) hits close — betrayal, abandonment, family breaking apart. He starts asking real questions, not just skeptical ones.
 - **Books 6–8:** "Maybe there's something real here." The Jonah story (Book 8) is a turning point — he identifies with running from something you're not sure you believe in. His midpoint observation ("Maybe we're supposed to notice") surprises even him.
 - **Books 9–11:** "I think I believe this but I'm scared to say it." The Nativity (Book 11) breaks something open in him. It's not evidence. It's presence. He can't argue with what he felt.
-- **Book 12:** He chooses faith. Not loudly, not dramatically. He tells Eli and Sofia he wants to keep looking. That's enough.
+- **Book 12:** He chooses faith. Not loudly, not dramatically. He tells Eli and Elena he wants to keep looking. That's enough.
 
 ## Core Flaw
 He holds people (and God) at arm's length because he's been hurt. His parents' divorce shattered his trust that the world is reliable. If God is real, then God let his family fall apart. He needs to reconcile that before he can believe.
 
 ## Relationships
 - **Eli:** His closest friend in the trio. Respects Eli's intelligence and that Eli takes his questions seriously rather than dismissing them. They bond over being "the thinkers."
-- **Sofia:** Friction early on — she thinks his doubt is laziness; he thinks her faith is naïve. Over the series this becomes genuine mutual respect. She charges; he questions; together they cover the gaps.
+- **Elena:** Friction early on — she thinks his doubt is laziness; he thinks her faith is naïve. Over the series this becomes genuine mutual respect. She charges; he questions; together they cover the gaps.
 - **Abuelo:** Fascinated by him. Abuelo represents something Jordan has never encountered — a brilliant, rational man who also believes deeply. This combination is confusing and compelling.
 
 ## Key Moments by Book
@@ -59,5 +69,5 @@ His vision blurs at the edges. Peripheral vision goes grey, then contracts. This
 ## Important Notes for Writing Jordan
 - **Never mock his doubt.** His questions are valid. The story respects them.
 - **No dramatic conversion scene.** His faith is earned through 12 books of honest wrestling. A sudden altar call would betray the character.
-- **He's not a project.** Eli and Sofia don't "win him over." They're his friends who happen to believe. The experiences do the work.
+- **He's not a project.** Eli and Elena don't "win him over." They're his friends who happen to believe. The experiences do the work.
 - **His pain is real.** The divorce isn't backstory decoration. It's the lens through which he processes everything about trust, faithfulness, and promises kept.

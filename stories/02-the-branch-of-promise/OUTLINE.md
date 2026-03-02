@@ -32,7 +32,7 @@
 
 ### Ch 3: "The Mockery"
 - Extended immersion in the social cost of Noah's obedience.
-- Sofia is furious at the mockers. Eli holds her back.
+- Elena is furious at the mockers. Eli holds her back.
 - The Fade manifests as a subtle wrongness — the sky is too clear, the sun too bright. Everything *looks* fine. Which is exactly the problem.
 
 ### Ch 4: "The Door"
@@ -56,6 +56,6 @@
 
 ### Ch 8: "The Rainbow"
 - The kids secure the branch. The Pathfinder pulls them back.
-- Second slot fills. The hum becomes richer — two notes now.
+- The second symbol transforms — sharp lines, polished bronze, a faint green glow like a living leaf. The hum becomes richer — two notes now.
 - Jordan, quietly: "He waited a year on that boat. Because he believed something he couldn't see."
 - Eli opens Abuelo's journal. A sketch of a colorful coat. Notes about a boy sold by his brothers.

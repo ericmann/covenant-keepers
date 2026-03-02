@@ -26,4 +26,4 @@
 5. Arrested. The king's anguish — Darius doesn't want this. But the law is the law. He sealed it himself.
 6. The den. The seal stone pressed into place. The king's sleepless night. The kids wait in the darkness near the den.
 7. Morning. The stone rolled away. Daniel alive. The Fade retreats from the den's mouth. The seal stone glows.
-8. Return. Sixth slot. Jordan: "He didn't do anything special. He just didn't stop being who he was." The kids acknowledge: the Fade is changing. Something is escalating.
+8. Return. The sixth symbol transforms. Jordan: "He didn't do anything special. He just didn't stop being who he was." The kids acknowledge: the Fade is changing. Something is escalating.

@@ -12,7 +12,7 @@ The Fade is not a character — it is a force. It does not speak, does not monol
 
 ## How the Kids Detect It
 Each child experiences the Fade differently:
-- **Sofia:** Gets cold. Bone-deep, sudden cold. Significant because she's always warm and in motion.
+- **Elena:** Gets cold. Bone-deep, sudden cold. Significant because she's always warm and in motion.
 - **Eli:** Hears a low hum. Like tinnitus but lower, more resonant. Gets louder as the Fade approaches the heart of a story.
 - **Jordan:** Vision blurs at the edges. Peripheral vision goes grey, then contracts. Metaphorically mirrors his journey — the Fade narrows his sight.
 

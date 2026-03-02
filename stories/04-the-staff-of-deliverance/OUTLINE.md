@@ -26,4 +26,4 @@
 5. The final plague. The weight of death. This chapter must be handled with care for the age group.
 6. The exodus begins. Chaos, joy, terror all mixed. Hundreds of thousands of people moving.
 7. The Red Sea. Pharaoh's army behind. Water ahead. The ultimate impossible situation. Moses raises the staff. The relic splinters from it at the moment of obedience.
-8. Return. Fourth slot. Eli understands: God doesn't call the qualified. He qualifies the called.
+8. Return. The fourth symbol transforms. Eli understands: God doesn't call the qualified. He qualifies the called.

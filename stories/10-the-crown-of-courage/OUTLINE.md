@@ -6,7 +6,7 @@
 | **Biblical Event** | Esther (Esther 1–10) |
 | **Relic** | A jewel from Esther's crown |
 | **Theme** | "For such a time as this." Courage to speak up when you'd rather stay safe. |
-| **Primary Character Focus** | Sofia and Eli together — both tested on using their position/voice |
+| **Primary Character Focus** | Elena and Eli together — both tested on using their position/voice |
 | **Fade Intensity** | High — openly aggressive; targets Esther's fear directly |
 | **Word Target** | 10,000–12,000 |
 | **Chapter Count** | 8–10 |
@@ -26,4 +26,4 @@
 5. The Fade saturates the palace. Esther's fear is overwhelming. Every rational instinct says stay silent.
 6. Esther approaches the king uninvited. The longest walk of her life. The golden scepter extends.
 7. The banquet. Esther reveals Haman's plot. The reversal. A jewel from her crown falls and glows.
-8. Return. Tenth slot. Two remaining. The kids know the endgame is approaching. The Pathfinder hums almost constantly now.
+8. Return. The tenth symbol transforms. Two remaining. The kids know the endgame is approaching. The Pathfinder hums almost constantly now.

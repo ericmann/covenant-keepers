@@ -33,7 +33,7 @@ Eli noticed it the second Mom's car pulled into the driveway — that familiar s
 
 "He's stable. He fell yesterday, remember? They're keeping him for observation." She tried to smile. "He'd want you to make yourselves at home."
 
-Sofia was already out of the car, backpack slung over one shoulder, staring up at the house like it was a fortress waiting to be conquered. "Race you to the attic," she said.
+Elena was already out of the car, backpack slung over one shoulder, staring up at the house like it was a fortress waiting to be conquered. "Race you to the attic," she said.
 
 "There's no race," Eli said. But she was already gone.
 
@@ -47,13 +47,13 @@ The kid on the porch was about Eli's height, with dark hair that fell over his f
 
 "I'm Eli. My sister's —"
 
-"HERE." Sofia appeared behind Eli like she'd been teleported. "I'm Sofia. Want to explore? This house has, like, a thousand rooms."
+"HERE." Elena appeared behind Eli like she'd been teleported. "I'm Elena. Want to explore? This house has, like, a thousand rooms."
 
 Jordan looked at her, then at Eli, then at the house. He shrugged. "I mean, I was just going to say hi and leave, but... sure. There's nothing else to do."
 
 That was how Jordan ended up with them when they found the room.
 
-It was Sofia who noticed it, of course. She was running her hand along a bookshelf in the upstairs hallway — not reading the spines, just touching them, the way she touched everything — when her fingers caught on a brass latch hidden behind a thick book of maps.
+It was Elena who noticed it, of course. She was running her hand along a bookshelf in the upstairs hallway — not reading the spines, just touching them, the way she touched everything — when her fingers caught on a brass latch hidden behind a thick book of maps.
 
 "Eli. Come here."
 
@@ -73,9 +73,9 @@ And on the desk, sitting on a leather cloth like it was the most important thing
 
 "What is *that*?" Jordan said from the doorway. He hadn't come all the way in. His arms were crossed.
 
-Eli stepped closer. The disc was heavy-looking, with a greenish patina like very old bronze. Twelve small slots were arranged in a circle around its face, each engraved with a tiny symbol he couldn't quite make out. A stone. A branch. A horn. Others he'd need a magnifying glass to see.
+Eli stepped closer. The disc was heavy-looking, with a greenish patina like very old bronze. Twelve faint symbols were arranged in a circle around its face — rough engravings, barely visible, like unfinished sketches in the metal. He could almost make out the shapes if he squinted: a stone, a branch, a horn. Others were too faint to read, more suggestion than carving.
 
-"It looks like a compass," Sofia said. "A really old one."
+"It looks like a compass," Elena said. "A really old one."
 
 "It's not a compass," Eli said, though he didn't know why he was so sure.
 
@@ -95,7 +95,7 @@ It was warm. Not room-temperature warm — *alive* warm, like holding something 
 
 The light came from everywhere.
 
-Eli didn't remember closing his eyes, but they were shut — squeezed tight against a brightness that had flooded Abuelo's study like the sun had fallen through the ceiling. He could feel Sofia gripping his arm. He could hear Jordan saying something, but the words were lost in the hum, which had risen from his chest into his whole body, into the air, into everything.
+Eli didn't remember closing his eyes, but they were shut — squeezed tight against a brightness that had flooded Abuelo's study like the sun had fallen through the ceiling. He could feel Elena gripping his arm. He could hear Jordan saying something, but the words were lost in the hum, which had risen from his chest into his whole body, into the air, into everything.
 
 Then it stopped.
 
@@ -103,7 +103,7 @@ Heat hit him first. Dry, heavy heat, the kind that sits on your skin and doesn't
 
 Eli opened his eyes.
 
-They were standing on a hillside. Brown grass crunched under his sandals — *sandals?* He looked down. His sneakers were gone. He was wearing a rough, undyed tunic that itched at the neck. Sofia, beside him, was dressed the same way, her hair covered by a cloth. Jordan looked like he was wearing a burlap sack and wasn't happy about it.
+They were standing on a hillside. Brown grass crunched under his sandals — *sandals?* He looked down. His sneakers were gone. He was wearing a rough, undyed tunic that itched at the neck. Elena, beside him, was dressed the same way, her hair covered by a cloth. Jordan looked like he was wearing a burlap sack and wasn't happy about it.
 
 "What," Jordan said flatly, "is happening."
 
@@ -111,7 +111,7 @@ Below them, spread across the ridge and spilling down toward a valley, was an ar
 
 Across the valley — which was wide, with a shallow stream glinting at the bottom — was another camp. Bigger. Louder. Red and black banners snapping in the hot wind.
 
-"Eli," Sofia breathed. "Do you know where we are?"
+"Eli," Elena breathed. "Do you know where we are?"
 
 He did. He'd read about this valley in Abuelo's journals, seen it in photographs, traced the geography on maps pinned to the walls of the study that was now — somehow — very far away.
 
@@ -131,7 +131,7 @@ The voice was speaking words Eli somehow understood, and they were terrible in t
 
 Eli looked across the valley. On the far ridge, in front of the other army, a figure stood alone. Even at this distance, Eli could tell the figure was enormous — a full head taller than anyone near him, with armor that caught the sun in blinding flashes of bronze. A spear rested over his shoulder like a fence post.
 
-Sofia's hand found Eli's arm again. She squeezed hard.
+Elena's hand found Eli's arm again. She squeezed hard.
 
 "That's Goliath," Eli said.
 
@@ -139,7 +139,7 @@ He was not a cartoon. He was not a Sunday School flannel board. He was a man the
 
 Jordan took a step backward. "Okay. This is a hallucination. We ate something bad. We're —"
 
-"This is *amazing*," Sofia said, but her voice had a shake in it that Eli had never heard before.
+"This is *amazing*," Elena said, but her voice had a shake in it that Eli had never heard before.
 
 Eli said nothing. He stood on the hillside above the Israelite camp, holding nothing, wearing someone else's clothes, three thousand years from home, and watched Goliath raise his spear toward the sky and roar.
 
@@ -159,7 +159,7 @@ Nobody in the camp looked at them twice. The rough tunics, the sandals, the dust
 
 "Is anyone going to ask who we are?" Jordan said, ducking under a tent rope. "Because nobody's asking who we are, and that's weird."
 
-"Just go with it," Sofia said.
+"Just go with it," Elena said.
 
 "I *am* going with it. I'm pointing out that it's weird while going with it."
 
@@ -185,13 +185,13 @@ And deep in his chest, quiet but steady, something hummed.
 
 "Does it feel weird to you guys?" Eli said. "Not the time-travel weird. Something else."
 
-"I'm cold," Sofia said. She rubbed her arms. "Which makes no sense because it's literally a million degrees."
+"I'm cold," Elena said. She rubbed her arms. "Which makes no sense because it's literally a million degrees."
 
 Jordan squinted toward the hills. "Is that fog? It doesn't look like regular fog."
 
 They didn't have a name for it. Not yet. But Eli felt it — a wrongness at the edges of the day, like something pressing in, trying to squeeze the color out.
 
-They spent the afternoon watching the camp. Sofia wanted to explore; Eli wanted to understand. Jordan kept making observations nobody asked for that turned out to be useful.
+They spent the afternoon watching the camp. Elena wanted to explore; Eli wanted to understand. Jordan kept making observations nobody asked for that turned out to be useful.
 
 "Those guys haven't moved in hours," he said, pointing to a group of soldiers near the supply tents. "And that officer has walked the same patrol route six times. He's not checking the perimeter. He's pacing. This whole army is stuck."
 
@@ -259,7 +259,7 @@ Eli watched David try on Saul's armor — the bronze helmet that sat too low ove
 
 He took it off. Piece by piece. The helmet. The mail. The sword belt. He set them on the ground at Saul's feet and walked out of the tent with nothing but his staff, his sling, and the leather pouch at his belt.
 
-Sofia grabbed Eli's arm. "He's going to the stream."
+Elena grabbed Eli's arm. "He's going to the stream."
 
 They followed. The late afternoon light turned the creek to copper. David crouched at the water's edge, his hand moving through the shallow current, fingers closing around stones — testing weight, smoothness, balance. He chose five. Dropped them one by one into his shepherd's bag.
 
@@ -285,7 +285,7 @@ Eli watched David stand, cinch the bag closed, and turn toward the valley. "I do
 
 "We have to get one of those stones."
 
-Sofia said it like she was announcing they needed to grab an extra juice box from the cooler. Simple. Obvious. Let's go.
+Elena said it like she was announcing they needed to grab an extra juice box from the cooler. Simple. Obvious. Let's go.
 
 "We can't take his weapon right before a fight," Jordan said. "That's — even if this is a hallucination, that's messed up."
 
@@ -311,7 +311,7 @@ He trailed off. He didn't know what would happen. He just knew, in the same way 
 
 "We wait."
 
-Sofia looked like waiting was a physical injury. She paced along the creek bank, kicking stones into the water, arms wrapped around herself.
+Elena looked like waiting was a physical injury. She paced along the creek bank, kicking stones into the water, arms wrapped around herself.
 
 "Are you okay?" Eli asked.
 
@@ -341,7 +341,7 @@ Alone.
 
 No armor. No sword. No army behind him. Just a kid with a sling and five smooth stones and something inside him that the fog couldn't touch.
 
-Sofia stopped pacing. Jordan stopped squinting. Eli stopped breathing.
+Elena stopped pacing. Jordan stopped squinting. Eli stopped breathing.
 
 David walked into the valley.
 
@@ -361,7 +361,7 @@ David crossed the streambed in three steps, water splashing over his sandals, an
 
 Because it was silent. Completely, impossibly silent. Two armies on opposing ridges, thousands of soldiers, and not a single voice. Not a cough. Not the clink of armor. Just David's footsteps and the buzz of flies in the heat.
 
-Eli, Sofia, and Jordan had followed as far as the streambed. They crouched behind a low outcrop of rock and watched.
+Eli, Elena, and Jordan had followed as far as the streambed. They crouched behind a low outcrop of rock and watched.
 
 Goliath started walking too.
 
@@ -369,11 +369,11 @@ He came down from the Philistine ridge like a landslide — slow, inevitable, so
 
 The ground vibrated with each step.
 
-"Oh no," Sofia whispered.
+"Oh no," Elena whispered.
 
 The fog moved. Eli watched it slide down the hillside behind them and pour into the valley like something spilled. Colors drained where it passed — the brown dirt went grey, the green scrub along the creek went flat, even the sky seemed to lose a shade of blue. Sound muffled. The hum in Eli's chest was so loud now it was almost a sound outside his body.
 
-Sofia was shivering. Jordan kept blinking, rubbing his eyes, his face tight with frustration.
+Elena was shivering. Jordan kept blinking, rubbing his eyes, his face tight with frustration.
 
 On the ridge behind them, Eli could feel the army wavering. Not moving — wavering, like a candle flame in a draft. The thin hope was guttering out.
 
@@ -409,7 +409,7 @@ Then the valley exploded.
 
 The Israelite army erupted from the ridge — screaming, surging forward, the fear of forty days burned away in a single, impossible moment. The Philistines broke. Eli could see them running, scattering across the far ridge like startled birds, and the grey fog that had crept into the valley scattered with them — shredding apart like mist in sudden sunlight, pulling back from the valley floor in ragged tatters until the air was clear and hot and bright.
 
-Sofia grabbed Eli's shoulder. Her fingers were warm again.
+Elena grabbed Eli's shoulder. Her fingers were warm again.
 
 "Eli. The stream. *Look.*"
 
@@ -431,7 +431,7 @@ The army swept past them like a river breaking its banks.
 
 Soldiers poured down the hillside and through the stream, shouting and waving weapons, forty days of paralyzed fear converted into pure, reckless pursuit. The noise was enormous. After the silence of the confrontation, it felt like standing inside a thunderclap.
 
-"Move!" Sofia grabbed Eli and Jordan and pulled them sideways, behind the outcrop, as a wave of soldiers crashed through the shallow water. "The stream — we need to get to the stones before someone steps on them!"
+"Move!" Elena grabbed Eli and Jordan and pulled them sideways, behind the outcrop, as a wave of soldiers crashed through the shallow water. "The stream — we need to get to the stones before someone steps on them!"
 
 They scrambled over the rocks. The water was cold around Eli's ankles, shockingly cold after the day's heat. Soldiers rushed past on both sides, paying the three kids no attention at all.
 
@@ -443,7 +443,7 @@ Eli knelt in the stream. The water swirled around his knees.
 
 "That's it," Jordan said. He was staring at the stone with an expression Eli couldn't read — not disbelief, exactly. More like a person watching a magic trick and trying to decide whether to be amazed or suspicious. "That's the relic."
 
-"Pick it up," Sofia urged. "Before someone —"
+"Pick it up," Elena urged. "Before someone —"
 
 "Wait." Eli held up his hand. The hum was back — or rather, it had never left, but now it had changed. It wasn't a warning anymore. It was something gentler. An invitation.
 
@@ -461,7 +461,7 @@ He reached down and picked up the stone.
 
 It was warm. The same alive warmth as the Pathfinder — that sense of holding something with a heartbeat. The glow brightened in Eli's palm, then settled into a steady, soft pulse.
 
-"Whoa," Sofia whispered.
+"Whoa," Elena whispered.
 
 Jordan opened his mouth, closed it, and opened it again. Nothing came out.
 
@@ -471,17 +471,17 @@ The hum rose. Not just in Eli's chest now — in the air, in the water, in the s
 
 "Hold on," Eli said, though he didn't know what to hold on to.
 
-The light spread from the stone in his hand — not harsh, not blinding, but warm and total, filling the valley, erasing the creek and the rocks and the sky, replacing everything with pure, golden brightness.
+The light spread from the stone in his hand — not harsh, not blinding, but warm and total, filling the valley, erasing the creek and the rocks and the sky, replacing everything with pure, golden brightness. And in his palm, the stone was dissolving. Not crumbling — dissolving, like sugar in warm water, its edges softening into light, its weight melting away until Eli was holding nothing but a fading glow between his fingers.
 
-Eli felt Sofia's hand on his arm. Jordan's shoulder against his. The warmth of the stone against his palm. And then — gently, like waking from a dream you didn't want to leave — the world dissolved.
+Eli felt Elena's hand on his arm. Jordan's shoulder against his. The warmth where the stone had been, still lingering in his palm like a memory. And then — gently, like waking from a dream you didn't want to leave — the world dissolved.
 
 ---
 
-## Chapter 8: The First Slot
+## Chapter 8: The First Symbol
 
 *From the journal of Professor Hector Castillo:*
 *December 24, 2020 — Home office, Christmas Eve*
-*The house is quiet tonight. Eli and Sofia sent a video — they've gotten so big. Sofia lost another tooth. Eli is reading a book about archaeology. Probably my fault. I sat with the Pathfinder tonight and thought about the people it was made for. Not me. I've always known that, even when I didn't want to admit it. It's waiting for someone braver. Someone young enough to believe without needing proof first. I pray I get to see it.*
+*The house is quiet tonight. Eli and Elena sent a video — they've gotten so big. Elena lost another tooth. Eli is reading a book about archaeology. Probably my fault. I sat with the Pathfinder tonight and thought about the people it was made for. Not me. I've always known that, even when I didn't want to admit it. It's waiting for someone braver. Someone young enough to believe without needing proof first. I pray I get to see it.*
 
 ---
 
@@ -491,11 +491,13 @@ He was standing in Abuelo's study. The same study. The same desk. The same maps 
 
 The same moment. No time had passed at all.
 
-The Pathfinder sat on the desk in front of him. And in his right hand, smooth and warm and impossible, he was still holding the stone.
+Eli looked down at his right hand. It was open. Empty. The stone was gone.
+
+He could still feel it — the phantom warmth in his palm, the smooth weight of it — but there was nothing there. Just the fading tingle of light between his fingers, like the afterimage of a sparkler.
 
 "Did that just —" Jordan started.
 
-"Yes," Sofia said.
+"Yes," Elena said.
 
 "And we were really —"
 
@@ -505,19 +507,23 @@ Jordan looked down at himself. Sneakers. T-shirt. No rough tunic. He touched his
 
 "That was real," he said. It wasn't a question. It wasn't quite belief, either. It was the sound of someone standing at the edge of something enormous — not ready to step over, but not willing to step back.
 
-Eli looked at the stone in his hand. In Abuelo's study, it had stopped glowing — but it was still warm. Still smooth. Still holding the heat of a valley three thousand years gone.
+"The stone," Eli said quietly. "It's gone. I was holding it, and then..."
 
 He looked at the Pathfinder.
 
-Twelve slots stared up at him. Twelve small circles, each engraved with a symbol. The first one — a tiny carved stone — matched the shape of the relic in his palm perfectly.
+It sat on the desk where they'd left it. But something had changed. Eli leaned closer, and his breath caught.
 
-Eli placed the stone in the slot.
+The first symbol — a faint engraving of a stone, barely visible before, little more than a rough scratch in the bronze — had transformed. The lines were sharp now, precise, as if a master engraver had spent hours on every curve. The surface within the engraving was polished smooth, and a warm amber color filled it like enamel inlay, rich and deep. A faint glow pulsed from within — not bright, but steady, like a coal that would never go out.
 
-It clicked into place with a sound that was too perfect to be mechanical — a small, clean *snick*, like the last piece of a puzzle finding its home. The slot lit up, a soft amber glow, and the Pathfinder hummed. Not the warning hum. Not the rising crescendo. A single, clear note, like a tuning fork struck once and held. Almost music. Almost a voice.
+The Pathfinder hummed. Not the warning hum. Not the rising crescendo. A single, clear note, like a tuning fork struck once and held. Almost music. Almost a voice.
 
-The three of them stared at the device. One slot filled, glowing warm. Eleven empty, dark.
+Elena stepped closer. "It changed. The little picture — it *changed.*"
 
-Sofia grinned. It was her full grin — the one that meant trouble and adventure and *let's go* all at once. "When do we go again?"
+"The stone didn't come back with us," Eli said slowly, understanding settling over him like a blanket. "But it's here. It's *in* the symbol."
+
+The three of them stared at the device. One symbol complete — sharp, glowing, alive. Eleven others still faint and rough around the circle, barely-there scratches in old bronze, waiting.
+
+Elena grinned. It was her full grin — the one that meant trouble and adventure and *let's go* all at once. "When do we go again?"
 
 "We don't even know how it works," Jordan said. But he was leaning closer, studying the Pathfinder with something that looked dangerously close to curiosity.
 
@@ -533,7 +539,7 @@ But Eli wasn't. None of them were.
 
 He set the journal down and looked at his sister, who was already reaching for another notebook, and at Jordan, who was pretending he wasn't interested while reading the spines of every book on the nearest shelf.
 
-Eleven empty slots. Eleven promises waiting to be remembered.
+Eleven faint symbols. Eleven promises waiting to be remembered.
 
 The Pathfinder hummed its single, quiet note in the fading light, patient as a prayer.
 

@@ -19,14 +19,14 @@
 - The relic is humble — a shard of pottery from a lamp in a stable. Not a crown, not a sword. A light in a dark place.
 
 ## Chapter Beats
-1. Present day. Eleven slots filled after this one. The Pathfinder is almost complete. The hum is audible across the room. Abuelo, present now, watches them go with something between pride and grief.
+1. Present day. Eleven symbols will be glowing after this one. The Pathfinder is almost complete. The hum is audible across the room. Abuelo, present now, watches them go with something between pride and grief.
 2. Bethlehem. A census is underway. The town is crowded, chaotic, indifferent. The Fade is everywhere — not as fog but as busyness, distraction, the feeling that nothing important is happening here.
 3. The shepherds. Night. Cold. Dirty, exhausted men doing invisible work. The kids sit among them. Jordan: "Why here? Why them?"
 4. The angel appears. The glory of the Lord. The shepherds are terrified. Then: "Do not be afraid. I bring you good news of great joy." The Fade recoils — not from power but from the sheer *specificity* of the announcement. This message is for THESE men. On THIS night.
 5. The journey to Bethlehem. The shepherds half-running, half-stumbling in the dark. Hope and terror mixing.
 6. The stable. It's not quaint. It's a cave with animals and smell and hay. And in the middle of it, a young woman and a baby in a feeding trough. The God of the universe, arriving as a helpless infant.
 7. The lamp. A small clay lamp near the manger, barely holding its flame. A shard of pottery falls from its base and glows. The relic of the most humble arrival in all of history.
-8. Return. Eleventh slot. Jordan is quiet for a long time. Finally: "I don't have words for this." Eli doesn't push. Sofia takes his hand. One slot remains.
+8. Return. The eleventh symbol transforms. Jordan is quiet for a long time. Finally: "I don't have words for this." Eli doesn't push. Elena takes his hand. One symbol remains.
 
 ## Critical Notes
 - This book must be handled with reverence without becoming stiff or churchy. The awe should feel earned, not imposed.

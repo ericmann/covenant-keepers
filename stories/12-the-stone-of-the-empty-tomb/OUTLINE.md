@@ -15,14 +15,14 @@
 - The final adventure. Everything converges here.
 - **The crucifixion is referenced but not depicted.** The kids arrive on Saturday — the day between. The worst day. The day when it's over and nothing has happened yet. The focus is the Resurrection morning, not the suffering.
 - **The Fade's final form** is not fog or cold or blurred vision. It's grief. Despair. The crushing weight of "it's over." The Fade doesn't need to erase this memory — the human experience of loss does the work.
-- **Jordan's arc resolves.** He chooses faith. Not loudly. Not dramatically. He tells Eli and Sofia he wants to keep looking. That's enough.
+- **Jordan's arc resolves.** He chooses faith. Not loudly. Not dramatically. He tells Eli and Elena he wants to keep looking. That's enough.
 - **The Pathfinder's reveal:** The completed device opens to show a mirror. The relics, together, reflect the character of God back to whoever holds them. The Fade doesn't die in battle — it simply has nowhere left to take hold. You can't erase what's been remembered.
 - **Abuelo's final line:** "I always wondered who it was waiting for."
 
 ## Chapter Beats
 
-### Ch 1: The Last Slot
-- Present day. Abuelo is home, recovered. He sits with the kids and looks at the Pathfinder — eleven slots glowing, one empty.
+### Ch 1: The Last Symbol
+- Present day. Abuelo is home, recovered. He sits with the kids and looks at the Pathfinder — eleven symbols glowing, one still faint.
 - His journal entry for this chapter is different — written to the kids directly. "If you're reading this, you've come further than I ever did. The last relic is the one I searched for my entire life. I never found it. I think I know why."
 - The Pathfinder activates with more force than ever. The pull is almost violent.
 
@@ -44,7 +44,7 @@
 ### Ch 5: Before Dawn
 - Sunday morning. Still dark. Mary Magdalene and the other women prepare burial spices.
 - The kids follow at a distance. The Fade is oppressive — the heaviest it's ever been.
-- Sofia is cold. Colder than she's ever been. Eli's hum is a roar. Jordan can barely see.
+- Elena is cold. Colder than she's ever been. Eli's hum is a roar. Jordan can barely see.
 
 ### Ch 6: The Stone
 - They arrive at the tomb. The Roman seal. The massive stone. Guards posted.
@@ -62,18 +62,18 @@
 - The Fade retreats. Not dramatically. Not in a flash of light. It simply thins and fades, as darkness does at sunrise.
 
 ### Ch 9: The Mirror
-- The Pathfinder pulls them home. The twelfth slot fills.
+- The Pathfinder pulls them home. The twelfth symbol transforms.
 - The device opens. Inside: not a weapon, not a map, not a treasure. A mirror.
-- The twelve relics, arranged in their slots, reflect light inward and back out. What the mirror shows isn't the kids' faces — it shows the character of God, assembled from twelve acts of faithfulness: courage, promise, forgiveness, deliverance, obedience, faithfulness, truth, mercy, loyalty, purpose, hope, and life.
+- The twelve completed symbols reflect light inward and back out, forming a single luminous surface. What the mirror shows isn't the kids' faces — it shows the character of God, assembled from twelve acts of faithfulness: courage, promise, forgiveness, deliverance, obedience, faithfulness, truth, mercy, loyalty, purpose, hope, and life.
 - The Fade doesn't die in a climactic battle. It has nowhere left to take hold. You can't erase what's been remembered.
 
 ### Ch 10: Home
 - Abuelo is waiting. He sees the completed Pathfinder. He sees his grandchildren. He smiles.
 - "I always wondered who it was waiting for."
-- Jordan, to Eli and Sofia: "I want to keep looking." That's it. That's enough.
+- Jordan, to Eli and Elena: "I want to keep looking." That's it. That's enough.
 - The Pathfinder's twelve notes harmonize into something that sounds like a song.
 - The kids sit in Abuelo's study, surrounded by a lifetime of searching, holding the thing that was found.
-- Final image: the Pathfinder on the desk, twelve slots glowing, warm, humming its quiet song.
+- Final image: the Pathfinder on the desk, twelve symbols glowing, warm, humming its quiet song.
 
 ## Critical Notes
 - The crucifixion is NOT shown. The kids arrive after. The grief and loss are conveyed through the disciples' reactions and the oppressive atmosphere, not graphic depiction.

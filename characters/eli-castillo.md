@@ -3,20 +3,30 @@
 ## Basics
 - **Age:** 12
 - **Role:** The heart. The believer.
-- **Family:** Son of [unnamed parents], grandson of Professor Hector Castillo. Older brother to Sofia.
-- **Appearance:** [To be defined — provide to illustrator]
-- **Heritage:** Latino (Mexican-American). Bilingual — occasionally uses Spanish with Abuelo and Sofia.
+- **Family:** Son of [unnamed parents], grandson of Professor Hector Castillo. Older brother to Elena.
+- **Appearance:**
+  - Thick, dark brown hair — slightly wavy, often falling across his forehead; he pushes it back when thinking
+  - Warm brown skin, olive undertone
+  - Brown eyes, expressive — tend to go wide when he's working something out
+  - Average height for 12, lean build — not athletic, not scrawny
+  - Wears a worn-in field jacket (khaki, too many pockets — inherited from Abuelo) over a plain t-shirt
+  - Jeans and scuffed sneakers; the sneakers are always untied
+  - Carries a small notebook and pencil stub in the jacket pocket
+  - Posture: tends to hunch slightly when thinking, stands straighter when he's sure of something
+  - Resting expression is serious/thoughtful — looks older than 12 until he smiles, which makes him look younger
+  - Distinguishing feature: a thin scar on his left palm from a camping trip (occasionally visible when he holds the Pathfinder)
+- **Heritage:** Latino (Mexican-American). Bilingual — occasionally uses Spanish with Abuelo and Elena.
 
 ## Personality
 - Curious, earnest, sometimes too serious for his own good
 - Loves history and reads voraciously
 - Has a quiet faith he doesn't talk about much but that runs deep
 - Tends to overthink and freeze when things get overwhelming
-- The peacemaker between Sofia's impulsiveness and Jordan's skepticism
+- The peacemaker between Elena's impulsiveness and Jordan's skepticism
 - Uses vocabulary slightly above his age level — a product of all that reading
 
 ## Voice
-- Longer sentences than Sofia, more careful word choices
+- Longer sentences than Elena, more careful word choices
 - Asks "why" and "what does this mean" questions
 - Internal monologue leans reflective — he processes by thinking, not talking
 - When stressed, he gets quieter, not louder
@@ -36,8 +46,8 @@
 He wants to control the outcome. He trusts God in theory but struggles to let go in practice. When he can't figure out the "right" answer, he freezes.
 
 ## Relationships
-- **Sofia:** Loves her fiercely but she exhausts him. She acts before he can think, which both frustrates and secretly impresses him.
-- **Jordan:** Respects Jordan's intelligence. Takes his questions seriously when Sofia dismisses them. Sees a friend, not a project.
+- **Elena:** Loves her fiercely but she exhausts him. She acts before he can think, which both frustrates and secretly impresses him.
+- **Jordan:** Respects Jordan's intelligence. Takes his questions seriously when Elena dismisses them. Sees a friend, not a project.
 - **Abuelo:** Hero worship tempered by real relationship. Eli wants to be like Abuelo but is beginning to realize Abuelo had his own doubts and fears.
 
 ## Key Moments by Book

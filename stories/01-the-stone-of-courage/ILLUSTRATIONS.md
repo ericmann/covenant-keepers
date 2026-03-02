@@ -7,7 +7,7 @@
 - **Line weight:** Medium, with variation for depth and emphasis. Heavier lines for foreground subjects, lighter for environmental suggestion.
 - **Characters:** Semi-realistic. Not cartoonish, not photorealistic. Must be recognizable and consistent across all 12 books. Establish model sheets with the illustrator before beginning.
 - **The Fade:** When present, represented as a few wisps of textured fog at the margins. Subtle enough that a first-time reader might not notice, but recognizable to returning readers.
-- **The Pathfinder:** Consistent design in every appearance. Bronze, circular, twelve slots. Simple enough to be recognizable at small sizes.
+- **The Pathfinder:** Consistent design in every appearance. Bronze, circular, twelve engraved symbols arranged in a circle. Incomplete symbols are faint, rough sketches; completed symbols are sharp, polished, with colored enamel and a faint glow. Simple enough to be recognizable at small sizes.
 
 ---
 
@@ -29,13 +29,13 @@
 
 ### Illustration 1 — "The Hidden Study"
 **Placement:** Chapter 1, after the bookcase opens
-**Scene:** The three kids framed by the open bookcase doorway, peering into shadow. Eli in front, Sofia pushing past, Jordan hanging back. The room beyond is suggested by a few shapes — the corner of a map, the edge of a desk, a faint glow from the Pathfinder.
+**Scene:** The three kids framed by the open bookcase doorway, peering into shadow. Eli in front, Elena pushing past, Jordan hanging back. The room beyond is suggested by a few shapes — the corner of a map, the edge of a desk, a faint glow from the Pathfinder.
 **Focus:** The kids' body language and the doorway. The study is mystery, not inventory.
 **Size:** Half-page
 
 ### Illustration 2 — "The Pathfinder"
 **Placement:** Chapter 1, when Eli picks it up
-**Scene:** Close-up of the Pathfinder in Eli's hands. A bronze disc with twelve empty slots in a circle, each marked with a small symbol. Light beginning to emanate from the center. Eli's fingers curled around the edges.
+**Scene:** Close-up of the Pathfinder in Eli's hands. A bronze disc with twelve faint engraved symbols arranged in a circle — rough, barely visible, like unfinished sketches in the metal. Light beginning to emanate from the center. Eli's fingers curled around the edges.
 **Focus:** The device itself. This establishes the most important recurring object in the series. Keep the symbols small but distinct.
 **Size:** Quarter-page, centered
 
@@ -69,10 +69,10 @@
 **Focus:** The space between them. David moving forward, Goliath stationary. This is the centerpiece illustration of the book.
 **Size:** Full-page
 
-### Illustration 8 — "The First Slot"
-**Placement:** Chapter 8, placing the relic
-**Scene:** Eli's hand placing the smooth stone into the first slot of the Pathfinder. The slot glows. The other eleven slots are dark and empty. Sofia and Jordan visible in the background — Sofia grinning, Jordan leaning in with guarded curiosity.
-**Focus:** The glowing slot and the contrast with the empty ones. Warm light from the single filled slot; the rest in shadow.
+### Illustration 8 — "The First Symbol"
+**Placement:** Chapter 8, the symbol transforms
+**Scene:** Close-up of the Pathfinder on the desk. The first symbol — a stone — is now sharp, polished, filled with warm amber enamel, and glowing faintly. The other eleven symbols are barely-there scratches in old bronze. Eli's empty hands hover above the device. Elena and Jordan visible in the background — Elena grinning, Jordan leaning in with guarded curiosity.
+**Focus:** The transformed symbol and the contrast with the faint, unfinished ones. Warm light from the single completed symbol; the rest in shadow.
 **Size:** Half-page
 
 ---
@@ -86,8 +86,17 @@ For each illustration, generate 2–3 concept images using image generation tool
 
 Annotate each AI reference image with notes on what to keep and what to change. The illustrator should interpret the concepts in their own consistent style, not reproduce the AI output.
 
+### ComfyUI Pipeline
+
+All AI-generated concept art is produced via ComfyUI with Flux.1-dev. See `comfyui/README.md` for full setup instructions.
+
+- **Cover prompt:** `comfyui/prompts/covers/book-01-stone-of-courage.txt`
+- **Interior prompts:** `comfyui/prompts/interiors/book-01/` (8 files, one per illustration)
+- **Character LoRAs:** Trained per-character for consistency — see `comfyui/training/README.md`
+- **Workflows:** Build interactively in ComfyUI GUI using settings documented in `comfyui/workflows/`
+
 ## Consistency Notes (Apply to All 12 Books)
 
 - **The Fade:** Always fog/mist with a slightly different texture than natural weather. Kept to the margins in Books 1–4.
-- **The Pathfinder:** Same design in every appearance. The number of glowing slots should match the book number minus one (Book 1 ends with 1 slot filled, Book 2 begins with 1 and ends with 2, etc.).
+- **The Pathfinder:** Same design in every appearance. The number of glowing, completed symbols should match the book number minus one (Book 1 ends with 1 symbol complete, Book 2 begins with 1 and ends with 2, etc.). Incomplete symbols are faint, rough engravings; completed symbols are sharp, polished, colored, and glowing.
 - **Characters:** Consistent clothing, hair, build across all books. Establish model sheets before beginning illustration work.

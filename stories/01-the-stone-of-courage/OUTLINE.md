@@ -27,9 +27,9 @@ The David and Goliath story is chosen as Book 1 because virtually every kid in t
 **Abuelo's Journal:** Entry about the Valley of Elah, dated years ago. He describes finding smooth stones in a streambed and wondering if they were *the* stones. Personal note about courage — "I've spent my life looking for evidence of God's faithfulness. Sometimes I wonder if I've been too afraid to simply trust it."
 
 **Beats:**
-- Eli and Sofia arrive at Abuelo's house for the summer. Abuelo is already in the hospital (the fall happened the day before they arrived). Mom/Dad are handling logistics off-page.
+- Eli and Elena arrive at Abuelo's house for the summer. Abuelo is already in the hospital (the fall happened the day before they arrived). Mom/Dad are handling logistics off-page.
 - The house is old, eccentric, full of artifacts. Quick establishing details.
-- They meet Jordan from next door. He's standoffish, bored, clearly lonely. Sofia drags him along.
+- They meet Jordan from next door. He's standoffish, bored, clearly lonely. Elena drags him along.
 - Exploring the house, Eli finds a bookcase that moves. Behind it: Abuelo's hidden study.
 - The study: maps on the walls, journals stacked everywhere, artifacts under glass. And on the desk, the Pathfinder.
 
@@ -41,7 +41,7 @@ The David and Goliath story is chosen as Book 1 because virtually every kid in t
 **Beats:**
 - Eli touches the Pathfinder and light floods the room. The kids all close their eyes instictually and, when they open them the study is gone and so is the Pathfinder.
 - Disorienting arrival: heat, dust, the smell of sweat and animals. They're on a hillside overlooking a valley. Two armies camped on opposite ridges.
-- Jordan's reaction: pure disbelief. "This is a hallucination." Sofia's reaction: "This is AMAZING." Eli's reaction: quiet recognition. He knows this place.
+- Jordan's reaction: pure disbelief. "This is a hallucination." Elena's reaction: "This is AMAZING." Eli's reaction: quiet recognition. He knows this place.
 - They see the Israelite camp — tense, afraid. Soldiers who won't make eye contact with each other.
 - From across the valley, a voice. Deep, impossibly loud. Goliath's challenge.
 
@@ -54,7 +54,7 @@ The David and Goliath story is chosen as Book 1 because virtually every kid in t
 - The kids blend into the camp (the Pathfinder seems to make them fit — period clothing, unremarkable presence). This is rule-building: they can interact, they're present, but they're not protagonists.
 - They experience the camp's fear. These aren't cowards — they're professional soldiers. But 40 days of a giant screaming at you has ground them down.
 - The Fade: first, subtle appearance. A fog at the edge of the valley that shouldn't be there. Colors seem slightly washed. The kids don't name it yet — Eli just feels that something is "wrong."
-- Jordan tries to rationalize everything. Sofia wants to explore. Eli is trying to figure out what they're supposed to do here.
+- Jordan tries to rationalize everything. Elena wants to explore. Eli is trying to figure out what they're supposed to do here.
 - They spot a kid about Eli's age arriving at camp with food for his brothers. David.
 
 **Ends with:** David hears Goliath's challenge and doesn't flinch. Everyone else does.
@@ -73,10 +73,10 @@ The David and Goliath story is chosen as Book 1 because virtually every kid in t
 
 ### Chapter 5: The Stream
 **Beats:**
-- While David prepares, the kids debate. Jordan: "We can't take his weapon before a fight." Sofia: "We can't just watch a kid get killed." Eli: "I don't think we're here to change the story. We're here to understand it."
+- While David prepares, the kids debate. Jordan: "We can't take his weapon before a fight." Elena: "We can't just watch a kid get killed." Eli: "I don't think we're here to change the story. We're here to understand it."
 - First articulation of Rule 1 (they can't change Biblical events) — learned through instinct, not lecture.
 - Eli approaches the stream where David selected his stones. The water is cold, clear. He can see stones on the bottom.
-- Sofia notices the fog getting thicker. The hum Eli hears intensifies. Soldiers in the camp start looking uncertain — the fear that had momentarily broken when David spoke is creeping back.
+- Elena notices the fog getting thicker. The hum Eli hears intensifies. Soldiers in the camp start looking uncertain — the fear that had momentarily broken when David spoke is creeping back.
 - The Fade is targeting the army's fragile hope. If they lose faith in David before he fights, the meaning of the moment is lost.
 
 **Ends with:** David walks toward the valley with his sling. Alone.
@@ -97,17 +97,18 @@ The David and Goliath story is chosen as Book 1 because virtually every kid in t
 - One stone is faintly luminous — warm to the touch, like the Pathfinder.
 - Eli picks it up. He understands something he didn't before: David's courage wasn't about the stone or the sling. It was about who he trusted. The stone was just a stone. The faith made it enough.
 - Rule 2 in action: the relic appeared because Eli understood the *meaning*, not just the facts.
-- The kids hear a hum. It gets louder and louder until ...
+- The glow intensifies in Eli's palm. The hum rises — louder, filling the air, filling the valley. The stone grows warm, then hot with light. Eli feels the relic dissolving, light pouring between his fingers, as the world dissolves with it.
 
-**Ends with:** The world dissolves into light.
+**Ends with:** The world dissolves into light. The stone is gone.
 
-### Chapter 8: The First Slot
+### Chapter 8: The First Symbol
 **Beats:**
-- The kids are back in Abuelo's study. Same moment they left. No time has passed. Eli is still holding the stone.
-- Eli places the stone in the Pathfinder. The first slot glows. The hum becomes a note — something almost musical.
-- They stare at eleven empty slots.
+- The kids are back in Abuelo's study. Same moment they left. No time has passed. Eli's hands are empty — the stone is gone.
+- But the Pathfinder has changed. The first symbol — a faint engraving of a stone, barely visible before — has transformed. The lines are sharp and precise. The surface is polished smooth. A warm amber color fills the engraving like enamel inlay, and a faint glow pulses from within, visible even in the afternoon light.
+- The Pathfinder hums. Not the warning hum. A single, clear note — almost musical. Almost a voice.
+- They stare at eleven faint, unfinished symbols still waiting around the circle.
 - Jordan, still processing: "That was real." Not a question. Not quite belief. But not denial anymore.
-- Sofia: "When do we go again?"
+- Elena: "When do we go again?"
 - Eli opens Abuelo's journal to a new page. A sketch of an olive branch. Notes about a dove, a flood, and a promise.
 
 **Ends with:** The Pathfinder pulses once, faintly, as if acknowledging: eleven more.

@@ -66,7 +66,7 @@ vocabulary. Fast pacing. Show don't tell.
 
 Character voices:
 - Eli: Thoughtful, cautious, uses bigger vocabulary than his age suggests
-- Sofia: Direct, physical, speaks in short bursts, uses action verbs
+- Elena: Direct, physical, speaks in short bursts, uses action verbs
 - Jordan: Dry, questioning, uses qualifiers ("I mean..." "But what if...")
 
 Chapter outline:

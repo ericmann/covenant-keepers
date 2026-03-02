@@ -13,7 +13,7 @@ covenant-keepers/
 ├── SERIES-BIBLE.md          # Overarching premise, rules, themes, series arc
 ├── characters/              # Detailed character profiles
 │   ├── eli-castillo.md
-│   ├── sofia-castillo.md
+│   ├── elena-castillo.md
 │   ├── jordan-park.md
 │   ├── abuelo-castillo.md
 │   └── the-fade.md
