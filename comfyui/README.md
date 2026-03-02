@@ -60,14 +60,81 @@ Install via ComfyUI Manager or clone into `ComfyUI/custom_nodes/`:
 
 ## Workflow Overview
 
-### Phase 1: Character Bootstrap
+### Phase 1a: Initial Character Generation (no PuLID)
 
-Use `workflows/character-bootstrap.json` (build interactively in ComfyUI):
+Since these are fictional characters, the very first batch has no reference face — PuLID can't help yet. Start with pure text-to-image generation.
 
-1. Load Flux.1-dev + PuLID Flux II (weight ~0.3) + vintage style LoRA
-2. Generate 30-40 candidate images per character using prompts from `prompts/characters/`
-3. Curate 15-20 images per character that are internally consistent (same face, build, features)
-4. Train character LoRAs (see `training/README.md`)
+**Build this workflow in the ComfyUI GUI (node → connection → node):**
+
+1. **Load Diffusion Model** (UNETLoader) → `flux1-dev.safetensors`, weight_dtype: `default`
+2. **DualCLIPLoader** → clip_name1: `t5xxl_fp16.safetensors`, clip_name2: `clip_l.safetensors`, type: `flux`
+   - This loads the two text encoders Flux requires. **Not** PuLID — that has its own loader.
+3. **VAELoader** → `ae.safetensors`
+4. **CLIPTextEncode** (positive) → connect CLIP output from DualCLIPLoader → paste character prompt from `prompts/characters/<name>.txt` + style keywords from `prompts/covers/style-positive.txt`
+5. **CLIPTextEncode** (negative) → connect same CLIP output → paste negative from `prompts/covers/style-negative.txt`
+6. *(Optional)* **LoraLoader** → connect between Load Diffusion Model and KSampler model inputs → select vintage style LoRA, strength_model: `0.6`, strength_clip: `0.6`
+7. **EmptyLatentImage** → width: `768`, height: `1024`, batch_size: `1`
+8. **KSampler** → connect model (from Load Diffusion Model or LoraLoader), positive/negative conditioning, latent_image from EmptyLatentImage → steps: `30`, cfg: `3.5`, sampler_name: `euler`, scheduler: `normal`, seed: vary per generation
+9. **VAEDecode** → connect samples output from KSampler + VAE from VAELoader
+10. **SaveImage** → connect image output from VAEDecode
+
+**Workflow:**
+```
+Load Diffusion Model ──→ (optional LoraLoader) ──→ KSampler ──→ VAEDecode ──→ SaveImage
+DualCLIPLoader ──→ CLIPTextEncode (pos) ──→ KSampler (positive)
+                ──→ CLIPTextEncode (neg) ──→ KSampler (negative)
+VAELoader ──→ VAEDecode (vae)
+EmptyLatentImage ──→ KSampler (latent_image)
+```
+
+Generate 30-40 images per character. Pick the 1-3 best faces — these become your reference for Phase 1b.
+
+Save this workflow to `workflows/character-bootstrap-text-only.json` via ComfyUI's menu (Workflow → Export).
+
+### Phase 1b: PuLID-Guided Refinement
+
+Now that you have a good reference face, add PuLID nodes to enforce face consistency across more variations.
+
+**Add these nodes to the Phase 1a workflow:**
+
+1. **PulidFluxModelLoader** → `pulid_flux_v0.9.0.safetensors`
+2. **PulidFluxEvaClipLoader** → loads the EVA02-CLIP model (downloads automatically on first run)
+3. **PulidFluxInsightFaceLoader** → provider: `CPU` (or `CUDA`) — loads the AntelopeV2 face analysis model
+4. **LoadImage** → select your best reference face from Phase 1a
+5. **ApplyPulidFlux** → connect:
+   - `model` ← from Load Diffusion Model (or LoraLoader output)
+   - `pulid` ← from PulidFluxModelLoader
+   - `eva_clip` ← from PulidFluxEvaClipLoader
+   - `face_analysis` ← from PulidFluxInsightFaceLoader
+   - `ref_image` ← from LoadImage
+   - Settings: weight: `0.3`, start_at: `0.0`, end_at: `1.0`
+   - Output `model` → connects to KSampler (replacing the direct model connection)
+
+**Updated workflow:**
+```
+Load Diffusion Model ──→ (LoraLoader) ──→ ApplyPulidFlux ──→ KSampler ──→ VAEDecode ──→ SaveImage
+PulidFluxModelLoader ──→ ApplyPulidFlux (pulid)
+PulidFluxEvaClipLoader ──→ ApplyPulidFlux (eva_clip)
+PulidFluxInsightFaceLoader ──→ ApplyPulidFlux (face_analysis)
+LoadImage (reference face) ──→ ApplyPulidFlux (ref_image)
+DualCLIPLoader ──→ CLIPTextEncode (pos/neg) ──→ KSampler
+VAELoader ──→ VAEDecode
+EmptyLatentImage ──→ KSampler
+```
+
+Generate 20-30 more images per character with face consistency. Curate a total of 15-20 images per character for the training dataset — these should have:
+- Same face shape and features across all images
+- Consistent skin tone, hair style, build
+- Key distinguishing features present (glasses, bracelet, scar, etc.)
+- Variety of angles and expressions (front, 3/4, profile)
+
+Save curated images to `training/datasets/<character-name>/` and create caption `.txt` files (see `training/README.md`).
+
+Save this workflow to `workflows/character-bootstrap-pulid.json`.
+
+### Phase 1c: Train Character LoRAs
+
+Train a LoRA for each character using AI-Toolkit — see `training/README.md` for full instructions.
 
 ### Phase 2: Cover Generation
 
@@ -99,27 +166,44 @@ Character LoRA activation tokens (e.g., `eli_castillo`) should be included direc
 
 ## Workflow JSON Files
 
-The JSON files in `workflows/` are best created interactively in the ComfyUI GUI and exported. Build these four workflows:
+The `workflows/` directory is for **saving workflows you build** in the ComfyUI GUI — there are no pre-built JSON files to load. Build each workflow interactively following the node-by-node instructions above, then export via Workflow → Export.
 
-### 1. `character-bootstrap.json` — Character Image Generation
-**Nodes:** Load Checkpoint (Flux.1-dev) → Apply PuLID Flux II (weight 0.3) → Apply LoRA (vintage style, weight 0.6) → CLIP Text Encode (use prompts from `prompts/characters/`) → KSampler (steps: 30, cfg: 3.5, sampler: euler, scheduler: normal) → VAE Decode → Save Image
-**Resolution:** 768x1024
-**Purpose:** Generate 30-40 candidate images per character for LoRA training dataset curation.
+**Important:** Flux.1-dev uses a different architecture than SD1.5/SDXL checkpoints. You must use:
+- **Load Diffusion Model** (UNETLoader) — not "Load Checkpoint" (CheckpointLoaderSimple)
+- **DualCLIPLoader** — clip_name1: `t5xxl_fp16.safetensors`, clip_name2: `clip_l.safetensors`, type: `flux`
+- **VAELoader** — `ae.safetensors`
 
-### 2. `cover-generation.json` — Full-Color Cover Art
-**Nodes:** Load Checkpoint (Flux.1-dev) → Apply LoRA x3 (character LoRA weight 0.8, vintage style LoRA #1 weight 0.6, vintage style LoRA #2 weight 0.4) → CLIP Text Encode (positive from `prompts/covers/book-NN-*.txt` + `style-positive.txt`, negative from `style-negative.txt`) → KSampler (steps: 40, cfg: 3.5, sampler: euler, scheduler: normal) → VAE Decode → Save Image
-**Resolution:** 832x1216 (2:3 portrait)
-**Notes:** Load multiple character LoRAs simultaneously for scenes with multiple kids. Adjust character LoRA weights down to 0.6 each when loading 3+ LoRAs to prevent interference.
+These three nodes replace the single "Load Checkpoint" node used with SD1.5/SDXL models.
 
-### 3. `interior-generation.json` — B&W Line Art
-**Nodes:** Load Checkpoint (Flux.1-dev) → Apply LoRA x2 (character LoRA weight 0.7, lineart LoRA weight 0.8) → CLIP Text Encode (positive from `prompts/interiors/book-NN/*.txt` + `style-positive.txt`, negative from `style-negative.txt`) → KSampler (steps: 30, cfg: 3.5, sampler: euler, scheduler: normal) → VAE Decode → Save Image
-**Resolution:** 768x768 (spot), 768x1024 (half-page), 1024x1024 (full-page)
-**Post-processing:** Threshold to pure B&W if needed (Image → Adjustments → Threshold in any image editor, or add a threshold node in ComfyUI).
+### Workflow Summary
 
-### 4. `outpaint-wraparound.json` — Wrap-Around Cover Extension
-**Nodes:** Load Image (front cover) → FLUX.1 Fill (outpaint left, 50% extension) → Save Image
-**Resolution:** Input 832x1216 → Output ~2560x1216 (front + spine + back)
-**Notes:** The outpainted region naturally simplifies, which is ideal for the back cover/spine where text will be overlaid. May need 2-3 generations to get a clean fade.
+| Workflow | Purpose | Key Nodes | Resolution |
+|----------|---------|-----------|------------|
+| `character-bootstrap-text-only.json` | Phase 1a: Initial character generation | UNETLoader + DualCLIPLoader + VAELoader + (opt. LoraLoader) + KSampler | 768x1024 |
+| `character-bootstrap-pulid.json` | Phase 1b: PuLID-guided face-consistent generation | Above + PulidFluxModelLoader + PulidFluxEvaClipLoader + PulidFluxInsightFaceLoader + ApplyPulidFlux | 768x1024 |
+| `cover-generation.json` | Phase 2: Full-color cover art | UNETLoader + DualCLIPLoader + VAELoader + LoraLoader x3 + KSampler (steps 40) | 832x1216 |
+| `interior-generation.json` | Phase 3: B&W line art | UNETLoader + DualCLIPLoader + VAELoader + LoraLoader x2 + KSampler | 768x768 to 1024x1024 |
+| `outpaint-wraparound.json` | Wrap-around cover extension | Load Image + FLUX.1 Fill (outpaint left) | 832x1216 → ~2560x1216 |
+
+### Cover Generation Notes
+
+- Load multiple character LoRAs simultaneously for scenes with multiple kids (chain LoraLoader nodes)
+- Character LoRA weight: `0.8` (reduce to `0.6` each when loading 3+ LoRAs to prevent interference)
+- Vintage style LoRA #1 weight: `0.6`, #2 weight: `0.4`
+- KSampler: steps `40`, cfg `3.5`, sampler `euler`, scheduler `normal`
+
+### Interior Generation Notes
+
+- Character LoRA weight: `0.7`, lineart LoRA weight: `0.8`
+- KSampler: steps `30`, cfg `3.5`, sampler `euler`, scheduler `normal`
+- Resolutions: 768x768 (spot), 768x1024 (half-page), 1024x1024 (full-page)
+- Post-processing: threshold to pure B&W if needed (image editor or threshold node in ComfyUI)
+
+### Outpaint Notes
+
+- Input: 832x1216 front cover → Output: ~2560x1216 (front + spine + back)
+- The outpainted region naturally simplifies, ideal for back cover/spine where text will be overlaid
+- May need 2-3 generations to get a clean fade
 
 ## Production Checklist (Single-Pass Workflow)
 
@@ -133,33 +217,35 @@ Follow this order to produce all illustrations in one focused session.
 - [ ] Place all LoRAs in `ComfyUI/models/loras/`
 
 ### Step 2: Bootstrap Characters (~2 hours)
-- [ ] Build `character-bootstrap.json` workflow in ComfyUI GUI (node graph above)
-- [ ] Generate 30-40 images for Eli using `prompts/characters/eli-castillo.txt`
-- [ ] Generate 30-40 images for Elena using `prompts/characters/elena-castillo.txt`
-- [ ] Generate 30-40 images for Jordan using `prompts/characters/jordan-park.txt`
-- [ ] Generate 30-40 images for Abuelo using `prompts/characters/abuelo-castillo.txt`
+- [ ] Build Phase 1a workflow in ComfyUI GUI (see node-by-node instructions above)
+- [ ] For each character (Eli, Elena, Jordan, Abuelo):
+  - [ ] Generate 30-40 images using `prompts/characters/<name>.txt` (Phase 1a, no PuLID)
+  - [ ] Pick 1-3 best faces as reference
+  - [ ] Add PuLID nodes for Phase 1b workflow, use best face as reference
+  - [ ] Generate 20-30 more images with PuLID face consistency
 - [ ] Curate 15-20 best images per character (consistent face, features, build)
 - [ ] Save to `training/datasets/<character-name>/`
 - [ ] Create `.txt` caption files for each image (activation token + description)
 
 ### Step 3: Train Character LoRAs (~4 hours)
-- [ ] Run `python run.py config/config-eli-castillo.yaml`
-- [ ] Run `python run.py config/config-elena-castillo.yaml`
-- [ ] Run `python run.py config/config-jordan-park.yaml`
-- [ ] Run `python run.py config/config-abuelo-castillo.yaml`
+- [ ] From the AI-Toolkit directory, run training for each character (see `training/README.md` for full paths):
+  - [ ] `python run.py /full/path/to/covenant-keepers/comfyui/training/config-eli-castillo.yaml`
+  - [ ] `python run.py /full/path/to/covenant-keepers/comfyui/training/config-elena-castillo.yaml`
+  - [ ] `python run.py /full/path/to/covenant-keepers/comfyui/training/config-jordan-park.yaml`
+  - [ ] `python run.py /full/path/to/covenant-keepers/comfyui/training/config-abuelo-castillo.yaml`
 - [ ] Validate each LoRA (generate test images, check consistency)
 - [ ] Copy trained `.safetensors` to `ComfyUI/models/loras/`
 
 ### Step 4: Generate Covers (~3 hours)
-- [ ] Build `cover-generation.json` workflow in ComfyUI GUI
+- [ ] Build cover-generation workflow in ComfyUI GUI (same base nodes as Phase 1a + LoraLoader chain)
 - [ ] Generate covers for Books 1-12 using prompts from `prompts/covers/`
 - [ ] Select best generation for each book (generate 4-8 candidates each)
-- [ ] Build `outpaint-wraparound.json` workflow
+- [ ] Build outpaint-wraparound workflow
 - [ ] Extend each cover for wrap-around (spine + back)
 - [ ] Save finals to `output/covers/`
 
 ### Step 5: Generate Interiors (~6 hours)
-- [ ] Build `interior-generation.json` workflow in ComfyUI GUI
+- [ ] Build interior-generation workflow in ComfyUI GUI (same base nodes + lineart LoRA)
 - [ ] For each book (1-12), generate 8 interiors using prompts from `prompts/interiors/book-NN/`
 - [ ] Select best generation for each illustration (generate 4-8 candidates each)
 - [ ] Post-process: threshold to pure B&W if needed
@@ -189,7 +275,7 @@ comfyui/
 │       ├── style-positive.txt   # Shared positive style keywords
 │       ├── book-01/             # 8 illustration prompts + style-negative.txt
 │       ├── book-02/ ... book-12/
-├── workflows/                   # ComfyUI workflow JSON (build in GUI, export here)
+├── workflows/                   # ComfyUI workflow JSON (build in GUI, export here — no pre-built files)
 └── training/                    # LoRA training config and instructions
     ├── README.md
     ├── config.yaml              # Reference/template config

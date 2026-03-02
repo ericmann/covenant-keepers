@@ -4,38 +4,61 @@
 
 Each main character gets a custom LoRA trained on 15-20 curated images. This bakes character identity into the model so every generation is consistent without fighting the style LoRA.
 
+**Tool boundaries:** ComfyUI handles image generation (Phases 1-3). AI-Toolkit handles LoRA training (this document). They are separate tools with separate installs — AI-Toolkit does not run inside ComfyUI.
+
 ## Prerequisites
 
-- [AI-Toolkit](https://github.com/ostris/ai-toolkit) installed
+- [AI-Toolkit](https://github.com/ostris/ai-toolkit) installed (cloned and set up separately from ComfyUI)
 - Flux.1-dev base model
-- 15-20 curated character images per character (from the bootstrap phase)
+- 15-20 curated character images per character (from the bootstrap phase — see `../README.md` Phases 1a/1b)
 
 ## Bootstrap Process (Generating Training Data)
 
-Since these are fictional illustrated characters, we bootstrap from text descriptions:
+Since these are fictional illustrated characters, we bootstrap from text descriptions using a two-pass approach. All image generation is done in **ComfyUI** — see `../README.md` for detailed node-by-node workflow instructions.
 
-1. Open `workflows/character-bootstrap.json` in ComfyUI
-2. Load Flux.1-dev + PuLID Flux II (weight ~0.3) + vintage style LoRA
-3. Use the character prompt from `prompts/characters/<name>.txt`
-4. Generate 30-40 candidate images per character at 768x1024
-5. Curate the best 15-20 images that are internally consistent:
-   - Same face shape and features across all images
-   - Consistent skin tone, hair style, build
-   - Key distinguishing features present (glasses, bracelet, scar, etc.)
-   - Variety of angles and expressions (front, 3/4, profile)
-6. Save curated images to `training/datasets/<character-name>/` (one folder per character)
-7. Create caption files (same filename with `.txt` extension) containing the activation token
+### Pass 1: Text-Only Generation (Phase 1a)
+
+Generate initial candidates without PuLID (no reference face exists yet):
+
+1. Build the Phase 1a workflow in ComfyUI (UNETLoader + DualCLIPLoader + VAELoader + CLIPTextEncode + KSampler + VAEDecode + SaveImage — see `../README.md` for exact node wiring)
+2. Use the character prompt from `../prompts/characters/<name>.txt`
+3. Generate 30-40 candidate images per character at 768x1024
+4. Pick the 1-3 best faces — these become your reference for Pass 2
+
+### Pass 2: PuLID-Guided Refinement (Phase 1b)
+
+Use the best face from Pass 1 as a reference to enforce consistency:
+
+1. Add PuLID nodes to the workflow (PulidFluxModelLoader + PulidFluxEvaClipLoader + PulidFluxInsightFaceLoader + ApplyPulidFlux — see `../README.md` Phase 1b)
+2. Load your best reference face via LoadImage node
+3. ApplyPulidFlux weight: `0.3`, start_at: `0.0`, end_at: `1.0`
+4. Generate 20-30 more images per character
+
+### Curate the Dataset
+
+From both passes, curate 15-20 images per character that are internally consistent:
+- Same face shape and features across all images
+- Consistent skin tone, hair style, build
+- Key distinguishing features present (glasses, bracelet, scar, etc.)
+- Variety of angles and expressions (front, 3/4, profile)
+
+Save curated images to `datasets/<character-name>/` (one folder per character).
+Create caption files (same filename with `.txt` extension) containing the activation token.
 
 ## Training
 
-Per-character configs are provided — one for each character:
+Per-character configs are provided — one for each character. Run these from the **AI-Toolkit** directory, passing the full path to the config file in this repository:
 
 ```bash
-python run.py config/config-eli-castillo.yaml
-python run.py config/config-elena-castillo.yaml
-python run.py config/config-jordan-park.yaml
-python run.py config/config-abuelo-castillo.yaml
+cd /path/to/ai-toolkit
+
+python run.py /path/to/covenant-keepers/comfyui/training/config-eli-castillo.yaml
+python run.py /path/to/covenant-keepers/comfyui/training/config-elena-castillo.yaml
+python run.py /path/to/covenant-keepers/comfyui/training/config-jordan-park.yaml
+python run.py /path/to/covenant-keepers/comfyui/training/config-abuelo-castillo.yaml
 ```
+
+Replace `/path/to/ai-toolkit` and `/path/to/covenant-keepers` with your actual paths. AI-Toolkit's `run.py` expects to be run from its own directory.
 
 Or use Flux Gym for a GUI-based workflow. Each config has character-appropriate sample prompts for validation during training.
 
