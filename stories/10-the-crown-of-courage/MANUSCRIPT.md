@@ -8,7 +8,7 @@
 
 *From the journal of Professor Hector Castillo:*
 *April 9, 2019 — Susa (Shushan), Iran*
-*The ruins here are barely ruins anymore. Windblown foundations, column stumps, the ghost of a palace that once made Versailles look modest. I stood in what archaeologists call the Apadana — the great audience hall — and tried to picture it. A hundred and twenty-seven provinces. Couriers riding from India to Ethiopia. A king whose word could make a nation rise or fall. And somewhere in this machine of power, a young Jewish woman with a secret that could kill her. I've never found physical evidence of Esther. No inscription. No seal. No tomb. But I've never stood in a place that felt more haunted by someone I couldn't find.*
+*The ruins of the palace at Susa are barely ruins anymore. But I stood in the great audience hall and tried to picture it — a king whose word could end a nation, and somewhere in this machine of power, a young Jewish woman with a secret that could kill her. I've never found physical evidence of Esther, but I've never stood in a place that felt more haunted by someone I couldn't find.*
 
 ---
 
@@ -74,7 +74,7 @@ The last thing Eli heard was his grandfather's voice, quiet and steady: "Remembe
 
 *From the journal of Professor Hector Castillo:*
 *April 10, 2019 — Susa, Iran*
-*The Persians built for permanence. Where the Babylonians used mud brick and ambition, the Persians used limestone and cedar imported from Lebanon. I spent the morning sketching column bases — each one carved with double-headed bulls, each one capable of supporting a ceiling forty feet high. The palace at Susa wasn't a building. It was a statement. Everything here says: We are in charge. We have always been in charge. We will always be in charge. I imagine what it felt like to be a conquered person walking these halls. The architecture alone would have crushed any rebellion before it started.*
+*The Persians built to make you feel small. Columns forty feet high, carved with double-headed bulls. The palace wasn't a building — it was a statement. Everything here says: We are in charge. I imagine what it felt like to walk these halls as a conquered person. The building alone would have crushed any rebellion.*
 
 ---
 
@@ -102,7 +102,7 @@ A group of guards marched past the courtyard entrance. Bronze armor. Spears held
 
 "Less animated," Elena muttered. "Got it."
 
-Eli pulled them behind a pillar as the guards' footsteps faded. His mind was already racing — sorting through Abuelo's journals, matching what he saw to what he'd read. The layout. The style. The period. This was the Achaemenid Empire at its peak, the largest empire the world had ever seen. A hundred and twenty-seven provinces stitched together by roads and fear and the absolute authority of one man on one throne.
+Eli pulled them behind a pillar as the guards' footsteps faded. His mind was already racing — sorting through Abuelo's journals, matching what he saw to what he'd read. The layout. The style. The period. This was the Persian Empire at its peak, the largest empire the world had ever seen. A hundred and twenty-seven provinces stitched together by roads and fear and the absolute authority of one man on one throne.
 
 "This place is huge," Elena said. She was craning her neck, trying to see the top of a column. "Like, actually huge. Not storybook huge."
 
@@ -112,7 +112,7 @@ Eli pulled them behind a pillar as the guards' footsteps faded. His mind was alr
 
 They moved through the palace like shadows. The architecture was designed to overwhelm — every hallway wider than necessary, every doorway flanked by carved reliefs of the king conquering someone, every surface polished until it reflected. Eli felt it pressing on him. Not physically. Psychologically. The palace said *you are small* in every language at once.
 
-They found the inner court through a series of increasingly opulent hallways. Here the tiles were lapis lazuli — actual gemstones set into the floor. Tapestries of white and violet linen hung from silver rings on marble columns. Couches of gold and silver lined the walls.
+They found the inner court through a series of increasingly opulent hallways. Here the tiles were lapis lazuli — a deep blue gemstone, bluer than the sky — set into the floor. Tapestries of white and violet linen hung from silver rings on marble columns. Couches of gold and silver lined the walls.
 
 And at the center of it all, on a throne that seemed carved from a single block of white stone, sat the king.
 
@@ -144,7 +144,7 @@ Elena's hands curled into fists at her sides. "So she just pretends? Every day? 
 
 Eli looked at Jordan. Something in his friend's voice sounded older than eleven.
 
-A man entered the throne room, and the air changed. Eli felt it — a subtle shift, like the barometric pressure dropping before a storm. The courtiers moved aside. Not in fear, exactly. In deference. In recognition that this man occupied a different category of power.
+A man entered the throne room, and the air changed. Eli felt it — a subtle shift, like the air getting heavy before a storm. The courtiers moved aside. Not in fear, exactly. In deference. In recognition that this man occupied a different category of power.
 
 Haman.
 
@@ -172,7 +172,7 @@ Eli's stomach went cold.
 
 *From the journal of Professor Hector Castillo:*
 *November 17, 2018 — British Museum, London*
-*I spent the afternoon with the Cyrus Cylinder. Beautiful thing. A clay barrel inscribed with Cyrus the Great's declaration of religious tolerance — the policy that allowed the Jews to return to Jerusalem. But Xerxes wasn't Cyrus. The Persian Empire under Xerxes was a machine of absolute power, and machines don't have mercy. They have efficiency. I keep thinking about how empires destroy people — not with swords, always, but with paperwork. A decree. A seal. A date. Everything done in proper order, through proper channels, perfectly legal, perfectly evil.*
+*Empires don't always destroy people with swords. Sometimes they use paperwork. A decree. A seal. A date. Everything done through proper channels, perfectly legal, perfectly evil. That's what makes the Esther story so terrifying.*
 
 ---
 
@@ -194,7 +194,7 @@ Elena grabbed Eli's sleeve. "What are they saying?"
 
 "Destroy them," Jordan repeated. "You mean —"
 
-"All of them. Every Jewish person in the Persian Empire. Haman cast lots to pick the date. The king signed the decree." Eli swallowed. "It's already done. It's law."
+"All of them. Every Jewish person in the Persian Empire. Haman cast lots — like rolling dice to let fate decide — to pick the date. The king signed the decree." Eli swallowed. "It's already done. It's law."
 
 They found the decree posted on a column near the palace gate. It was written in three scripts — Persian, Elamite, Aramaic — stamped with the king's seal in wax as red as blood. The language was formal. Bureaucratic. It listed dates and procedures. It authorized the killing and plundering of an entire people with the dry precision of a tax document.
 
@@ -246,7 +246,7 @@ And in his wake, the air turned grey.
 
 *From the journal of Professor Hector Castillo:*
 *April 12, 2019 — Susa, Iran*
-*I found myself thinking about Mordecai's message today. Not the famous line — everyone knows that one. I mean the line before it. "Do not think that because you are in the king's palace you alone of all the Jews will escape." That's not a pep talk. It's a warning. Mordecai isn't inspiring Esther. He's telling her the truth: your safety is an illusion. The palace walls won't save you. You have two choices — speak and maybe die, or stay silent and certainly die. There's no third option where everything works out and nobody has to be brave.*
+*Mordecai's message isn't a pep talk. It's a warning: your safety is an illusion. The palace walls won't save you. Two choices — speak and maybe die, or stay silent and certainly die. There's no third option where nobody has to be brave.*
 
 ---
 
@@ -282,13 +282,9 @@ Not a battle cry. Not a declaration of faith so confident it left no room for do
 
 The three days that followed were the quietest Eli had ever experienced in any adventure.
 
-No battles. No marching armies. No miracles from heaven. No dramatic confrontation. Just silence. Heavy, deliberate, suffocating silence. The palace went on around them — servants cooking, guards patrolling, Haman scheming in the king's court. The machine of empire kept grinding forward, oblivious to the woman in the inner chambers who was choosing between her life and her people.
+Esther fasted. Her attendants fasted with her — hollow-eyed women moving through the queen's chambers like ghosts, pouring water they didn't drink, arranging food they didn't eat. The palace went on around them — servants cooking, guards patrolling, Haman scheming. The machine kept grinding forward, oblivious to the woman choosing between her life and her people.
 
-Esther fasted. Her attendants fasted with her — hollow-eyed women moving through the queen's chambers like ghosts, pouring water they didn't drink, arranging food they didn't eat. The scent of untouched fruit hung in the air, sweet and useless.
-
-Eli saw her on the second morning — sitting on the edge of her bed, thin and grey, hands folded in her lap. Not praying aloud. Not pacing. Not rehearsing speeches or planning strategies. Just sitting. Just being still with whatever was inside her.
-
-On the second afternoon, Eli found himself standing at a window overlooking the palace gardens. The flowers were spectacular — roses and lilies imported from across the empire, irrigated by channels that cost more than most villages earned in a year. Beautiful and meaningless. The whole palace was like that. Every surface was beautiful. Underneath, the machinery of genocide turned with bureaucratic precision.
+Eli saw her on the second morning — sitting on the edge of her bed, thin and grey, hands folded in her lap. Not praying aloud. Not pacing. Just sitting. Just being still with whatever was inside her.
 
 "She's terrified," Elena whispered. They were watching from a corridor, hidden behind a tapestry.
 
@@ -330,7 +326,7 @@ She looked at Eli. Her dark eyes were steady.
 
 *From the journal of Professor Hector Castillo:*
 *April 14, 2019 — Susa, Iran*
-*I couldn't sleep last night. I lay on my cot in the dig tent and thought about what it means to be positioned. Not qualified. Not chosen because you're the strongest or the smartest. Positioned. You're already here. You're already inside. The question isn't whether you can do something — it's whether you will. How many moments like that pass every day? How many doors do we not walk through because the scepter might not come out? The Esther story terrifies me, not because of what she risks, but because I recognize the silence she almost chose.*
+*What does it mean to be positioned? You're already here. You're already inside. The question isn't whether you can do something — it's whether you will. The Esther story terrifies me because I recognize the silence she almost chose.*
 
 ---
 
@@ -396,7 +392,7 @@ They stayed.
 
 *From the journal of Professor Hector Castillo:*
 *February 3, 2020 — Home office*
-*I have a colleague in Tehran who sent me floor plans of the Susa palace reconstruction. The distance from the queen's quarters to the inner court of the throne room is roughly sixty meters. Sixty meters. That's not even a city block. A person could walk it in under a minute. But I keep thinking about what each step cost Esther. Every pace was a choice to keep going. Every heartbeat was a chance to turn back. The architecture of Persian palaces was designed to make people feel small — long hallways, soaring ceilings, guards at every corner. The building itself was telling her to go back. Sixty meters. The longest walk in human history.*
+*The distance from the queen's quarters to the throne room is sixty meters. Not even a city block. But every step was a choice to keep going. Every heartbeat was a chance to turn back. Sixty meters. The longest walk in human history.*
 
 ---
 
@@ -488,7 +484,7 @@ Courage wasn't the absence of fear. It was walking sixty meters while fear screa
 
 *From the journal of Professor Hector Castillo:*
 *April 15, 2019 — Susa, Iran*
-*The banquet hall. I found what might be its foundation today — a square platform of cut limestone, larger than I expected. Esther's strategy was masterful. She didn't blurt out the truth in the throne room. She invited the king to dinner. She set the stage. She created a space where the truth could land with maximum impact. People forget that Esther wasn't just brave — she was strategic. Her courage was guided by wisdom. She didn't throw herself at the problem. She walked toward it, step by careful step, and chose the exact right moment to speak.*
+*Esther didn't blurt out the truth in the throne room. She invited the king to dinner. She set the stage. People forget that Esther wasn't just brave — she was smart. She chose the exact right moment to speak.*
 
 ---
 
@@ -570,7 +566,9 @@ Esther didn't notice. She was speaking to the king's attendants, issuing command
 
 It stopped at Elena's feet.
 
-Elena looked down at it. Then she looked up at Eli.
+Elena looked down. The jewel sat on the stone floor, pulsing with amber light, warm as a heartbeat. She stared at it for a long moment, her face shifting through something Eli couldn't name — surprise, then wonder, then something fiercer. Something earned.
+
+She looked up at Eli.
 
 "It appeared when she spoke," Elena said. Her voice was barely a whisper. "Not when Haman was taken away. Not when the Jews were saved. Not when the king held out the scepter. When she pointed at Haman and said his name out loud. When she chose to open her mouth and tell the truth."
 
@@ -598,6 +596,8 @@ Jordan looked at her. Then at the jewel. Then at his own hands.
 
 "Yeah," he said. "I think I am. And it scares me to say that."
 
+Nobody said anything. The words hung in the air, and Eli let them hang.
+
 The jewel pulsed in Elena's palm. The light brightened. The hum climbed. And the world began to dissolve into warm, golden brightness — the palace, the torches, the echoes of Esther's voice all softening, blurring, fading into the music that was carrying them home.
 
 Elena held the jewel tight. She felt it dissolving — the edges going soft, the weight melting away, the warmth spreading through her fingers until she was holding nothing but light.
@@ -612,7 +612,7 @@ But she could still feel it.
 
 *From the journal of Professor Hector Castillo:*
 *December 1, 2020 — Home office, late*
-*I've been rereading my notes on positioning. Not battlefield positioning — life positioning. The idea that you end up where you are for reasons you can't always see. That the path that brought you to this door, this moment, this impossible choice, wasn't random. It was preparation. Esther didn't choose to be queen. She didn't choose to be Jewish in a Persian court. She didn't choose to be the one person in the empire who could walk uninvited into the king's throne room and have a chance of surviving. But she was all of those things. And when the moment came, she had to decide what that positioning meant. I think about my grandchildren and I wonder — what are they being positioned for? What door are they going to have to walk through?*
+*Esther didn't choose to be queen. She didn't choose to be Jewish in a Persian court. But she was all of those things, and when the moment came, she had to decide what it meant. I think about my grandchildren and I wonder — what are they being positioned for?*
 
 ---
 
@@ -693,10 +693,6 @@ He stopped. His eyes dropped to his journals, stacked in their careful columns o
 Elena stood up. The cold was gone from her bones. The phantom warmth of the jewel had settled into something deeper — a steadiness, a resolve that hadn't been there before.
 
 "Then we keep going," she said. Not impulsive. Not reckless. Just certain.
-
-Eli looked at his sister and saw how far she'd come. The girl who had wanted to fight Goliath herself. The girl who had raged at the slow march around Jericho. The girl who had watched Ruth glean in a field and learned that showing up every day was its own kind of courage. And now — the girl who had stood in a Persian palace and watched a queen walk sixty meters through terror, and understood that courage wasn't volume. It was the choice to open your mouth when keeping it shut would keep you alive.
-
-She'd grown. They all had.
 
 Jordan pushed his glasses up. The rubber band on his wrist was still. For once, he wasn't fidgeting.
 

@@ -8,7 +8,7 @@
 
 *From the journal of Professor Hector Castillo:*
 *April 19, 2018 — Babylon ruins, Hillah, Iraq*
-*The Persian administrative quarter is mostly rubble now. Mudbrick walls dissolved by twenty-six centuries of rain and wind. But the drainage channels are still intact — Babylonian engineering at its finest. I found a fragment of a clay seal impression today. Probably a customs stamp. Nothing remarkable. But I held it in my palm and thought about Daniel — a man who held an office in a government that wasn't his, in a country that wasn't his home, and never once bent. His enemies searched his entire life for a flaw and found nothing. Nothing. Think about that. The only vulnerability they could find was his faithfulness. That's the kind of integrity that gets you killed.*
+*Found a fragment of a clay seal today in the rubble. Held it and thought about Daniel — a man who worked for a government that wasn't his, in a country that wasn't his home, and never once bent. His enemies searched his whole life for a flaw and found nothing. The only weakness they could find was his faithfulness.*
 
 ---
 
@@ -86,7 +86,7 @@ And then the smell of old books and cinnamon was gone, replaced by something Eli
 
 *From the journal of Professor Hector Castillo:*
 *April 21, 2018 — Babylon ruins, Hillah, Iraq*
-*People get the setting wrong. They imagine a primitive den of lions, like a zoo with torches. But this was Babylon under Persian rule — the most sophisticated bureaucracy the ancient world had ever seen. Darius didn't rule with muscle. He ruled with paper. A hundred and twenty satraps governing provinces, three administrators overseeing the satraps, and above them all — Daniel. A Jewish exile who had outlasted four kings and two empires. He wasn't powerful because he was strong. He was powerful because in fifty years of court politics, nobody had ever found a single thing he'd done wrong. That kind of record doesn't happen by accident. It happens by discipline. Every day. Every decision. Every closed door.*
+*People picture a cave with torches, but this was the most organized government the ancient world had ever seen. Daniel had outlasted four kings and two empires. He wasn't powerful because he was strong — he was powerful because in fifty years, nobody found a single thing he'd done wrong. That doesn't happen by accident.*
 
 ---
 
@@ -100,7 +100,7 @@ They were dressed for the place. Linen robes, light and finely woven. Leather sa
 
 "How do you know?" Jordan asked.
 
-"The lions on the walls. The glazed brick. This is the Processional Way — or somewhere connected to it." He'd seen photographs in Abuelo's books. Reconstructions in museums. But those were dead things behind glass. This was alive. The bricks were warm. The air smelled of frankincense and heated stone.
+"The lions on the walls. The glazed brick. This is the Processional Way — or somewhere connected to it." He'd seen photographs in Abuelo's books. Reconstructions in museums. But those were dead things behind glass. This was alive. The bricks were warm. The air smelled of frankincense — a sweet-smelling incense — and heated stone.
 
 Voices echoed from somewhere ahead — low, formal, the kind of voices that belonged to men who measured every word before they spoke it.
 
@@ -126,11 +126,11 @@ Jordan was watching a cluster of officials near a columned archway. Three men, y
 
 He was right. Eli watched the three officials lean in close, speaking behind their hands, their eyes following Daniel until he disappeared through a far doorway.
 
-"Daniel runs the government," Eli said. "He's one of three administrators who oversee all 120 provincial governors. And he's better at it than anyone else. The king is about to promote him above the other two."
+"Daniel basically runs the government," Eli said. "The king has 120 governors who run different parts of the kingdom, and Daniel keeps them all in line. He's the best at it. The king is about to promote him over everyone else."
 
-"So the other two want him gone," Jordan said.
+"So everyone else wants him gone," Jordan said.
 
-"Not just the other two. Everyone who benefits from the system the way it is. Daniel's honest. Completely honest. In a court full of people skimming from the top, he's the one person who won't play along."
+"Exactly. Daniel's completely honest. In a court full of people cheating the system, he's the one person who won't play along."
 
 Elena frowned. "So they'll make up a charge. Frame him for something."
 
@@ -162,7 +162,7 @@ Something was waiting for them in this palace. And it had gotten here first.
 
 *From the journal of Professor Hector Castillo:*
 *October 9, 2019 — Home office, 11 PM*
-*I keep coming back to the structure of the trap. It's brilliant, in a terrible way. Daniel's enemies couldn't find a flaw in his character — so they weaponized his greatest strength. They built a law around his faithfulness. Pray to anyone but the king for thirty days, and the punishment is death. It wasn't aimed at all people of faith. It was aimed at one man. One habit. One open window facing Jerusalem. They knew he wouldn't stop. They were counting on it. That's what makes it so chilling — they didn't attack his weakness. They attacked his integrity.*
+*The trap was brilliant and terrible. Daniel's enemies couldn't find a flaw — so they built a law around his greatest strength. Pray to anyone but the king for thirty days, and you die. They knew he wouldn't stop. They didn't attack his weakness. They attacked his goodness.*
 
 ---
 
@@ -182,7 +182,7 @@ The official spoke. The proposal was simple, even elegant. A thirty-day decree: 
 
 "It's tradition in our provinces," the official added. "A way to strengthen the bond between the throne and the people."
 
-Other officials murmured agreement. Heads nodded. The room had the choreographed feel of something planned well in advance, every supporter placed, every objection anticipated.
+Other officials murmured agreement. Heads nodded. The room had the rehearsed feel of something planned well in advance, every supporter placed, every objection anticipated.
 
 "It's a trap," Jordan whispered. He was pressed against a column, half hidden in shadow. "They don't care about honoring the king. This is about Daniel."
 
@@ -234,7 +234,7 @@ The hum in Eli's chest tightened like a wire pulled taut.
 
 *From the journal of Professor Hector Castillo:*
 *October 10, 2019 — Home office, 2 AM (couldn't sleep)*
-*I've been thinking about Daniel's window. He could have closed it. He could have prayed silently, in a back room, with the curtains drawn. God would have heard him. Nobody would have known. It would have been the reasonable thing to do — the safe thing, the smart thing. But Daniel didn't open his window because he was making a statement. He opened his window because that's what he'd always done. The integrity wasn't in the gesture. It was in the consistency. He didn't become a man of faith in that moment. He'd been becoming one every single day for fifty years. The window was just where everyone else finally noticed.*
+*Daniel could have closed the window. He could have prayed silently. Nobody would have known. But he opened his window because that's what he'd always done. He didn't become a man of faith in that moment — he'd been becoming one every single day for fifty years. The window was just where everyone else finally noticed.*
 
 ---
 
@@ -270,7 +270,7 @@ Daniel crossed the room. He stopped at the window.
 
 Eli could feel the pressure again — stronger now, insistent, wrapping around the moment like a hand closing. *Close the curtains. Pray in your heart. You can be faithful quietly. Isn't quiet faith still faith?*
 
-The thought was seductive because it was almost true. Almost. The gap between "almost true" and "true" was the width of a window.
+The thought was tempting because it was almost true. Almost. The gap between "almost true" and "true" was the width of a window.
 
 Daniel opened the shutters.
 
@@ -314,7 +314,7 @@ Downstairs, a fist pounded on the door.
 
 *From the journal of Professor Hector Castillo:*
 *April 22, 2018 — Hotel room, Hillah, Iraq*
-*Darius is the most interesting person in this story, and nobody talks about him. He was a conqueror. He'd taken Babylon. He commanded the largest empire in the ancient world. And when they brought Daniel before him, the text says he was "deeply distressed." He spent the rest of the day trying to find a loophole in his own law. The most powerful man alive, and he was powerless — trapped by his own decree, his own seal, his own signature. The irony is precise and terrible: the king made the law, the law caught the faithful man, and the king couldn't save him. Daniel had more freedom on his knees than Darius had on his throne.*
+*Nobody talks about Darius, but he's the most interesting person in this story. The most powerful man alive spent all day trying to find a loophole in his own law — and couldn't. The king made the law, the law caught the faithful man, and the king couldn't save him. Daniel had more freedom on his knees than Darius had on his throne.*
 
 ---
 
@@ -382,7 +382,7 @@ The guards closed around him. The procession formed. And through the torchlit co
 
 *From the journal of Professor Hector Castillo:*
 *April 23, 2018 — Babylon ruins, early morning*
-*I found the pit today. Or what's left of it — a depression in the administrative quarter, lined with cut stone, deeper than anything else on the site. The archaeologists here call it a cistern. Maybe. But cisterns don't have grooves for a rolling stone at the entrance. Cisterns don't have scratches on the interior walls at a height no human arm could reach. I held my lamp over the edge and the darkness was absolute. I thought about Daniel standing at that lip, looking down into nothing, and choosing not to be afraid. Or maybe choosing to be afraid and going in anyway. I'm not sure which is braver.*
+*Found the pit today — a stone-lined hole deeper than anything else on the site. Cisterns don't have grooves for a rolling stone at the entrance, or scratches on the walls higher than any person could reach. I thought about Daniel looking down into that darkness and going in anyway. I'm not sure if that's bravery or something bigger.*
 
 ---
 
@@ -432,7 +432,11 @@ In the palace above them, Darius paced his chamber. Eli could hear the footsteps
 
 The night was endless.
 
-Elena fell asleep against Eli's shoulder sometime around what felt like midnight. Jordan sat awake, his glasses reflecting the faintest light from somewhere — starlight leaking through a crack, maybe, or the glow of the five symbols on the Pathfinder hidden under Eli's robe, still warm against his chest.
+Sometime around what felt like midnight, a sound came from behind the stone — a deep, heavy shifting, like something massive rolling over. Elena's hand shot out and grabbed Eli's arm, her fingers digging in hard. They all froze. Through the sealed entrance, the low rumble of a lion's breath vibrated the stone. Then silence.
+
+Elena didn't let go for a long time.
+
+Later, she dozed against Eli's shoulder. Jordan sat awake, his glasses reflecting the faint glow of the five symbols on the Pathfinder hidden under Eli's robe.
 
 "Eli." Jordan's voice, very quiet.
 
@@ -464,13 +468,13 @@ And then, so gradually he almost missed it, the darkness began to thin.
 
 *From the journal of Professor Hector Castillo:*
 *April 23, 2018 — Babylon ruins, sunrise*
-*I climbed out of the pit at dawn. The light came over the eastern wall and hit the cut stone and I stood there in it, covered in two thousand years of dust, and I wept. Not because I found anything. Because I felt something. Standing where Daniel stood, at the bottom of the dark, I felt what he must have felt when the first light came through the opening above: that the night is never the end of the story. I am a man of evidence and documentation. I have no evidence for what I felt. I'm documenting it anyway.*
+*Climbed out of the pit at dawn. The light hit the stone and I stood there covered in dust, and I cried. Standing where Daniel stood, I felt what he must have felt when morning came: the night is never the end of the story. I have no proof for what I felt. I'm writing it down anyway.*
 
 ---
 
 Grey light crept down the corridor. Dawn. The earliest edge of it, pale and thin, seeping through the cracks in the stone above.
 
-Eli was on his feet before he fully woke. Elena stirred beside him, rubbing her eyes. Jordan was already standing, his back flat against the wall, his gaze fixed on the sealed stone.
+Elena was on her feet first. She stood facing the sealed stone, fists clenched at her sides, jaw set — like she was daring the morning to bring bad news. Eli scrambled up beside her. Jordan was already standing, his back flat against the wall.
 
 Footsteps. Coming fast. The sharp rhythm of a man walking with desperate purpose.
 
@@ -536,7 +540,7 @@ The hum became music.
 
 *From the journal of Professor Hector Castillo:*
 *December 3, 2020 — Hospital bed, 6 AM*
-*I've been thinking about seals. About things we declare permanent that God declares temporary. The Medes and Persians built their entire legal system on the idea that a royal decree could never be undone. Unchangeable law. Permanent. Sealed. And God answered with an angel and a sunrise and a broken stamp in the dirt. I think about the things in my own life I've treated as sealed — failures I decided were final, doors I declared closed. Maybe the seal was never as permanent as I thought. Maybe morning was always coming. I should tell the children. There's so much I should tell them. Soon. I promise. Soon.*
+*I've been thinking about things we say are permanent that God says are temporary. The law couldn't be changed. The seal couldn't be broken. And God answered with an angel and a sunrise and a broken stamp in the dirt. Maybe the seal was never as permanent as I thought. I need to tell the children more. Soon.*
 
 ---
 

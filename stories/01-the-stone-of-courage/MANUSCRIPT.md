@@ -19,7 +19,7 @@ Drafting workflow (see AGENTS.md):
 
 *From the journal of Professor Hector Castillo:*
 *June 3, 2019 — Valley of Elah, Israel*
-*The streambed was almost dry today. I crouched there for an hour, turning smooth stones over in my hands. The right size, the right weight — the kind a shepherd boy could carry in a pouch. The valley is quiet now. Just wind and dry grass and the ghosts of two armies. I've spent forty years looking for evidence of God's faithfulness. Sometimes I wonder if I've been too afraid to simply trust it.*
+*The streambed was almost dry today. I crouched there for an hour, turning smooth stones over in my hands — the right size, the right weight, the kind a shepherd boy could carry in a pouch. The valley is quiet now. Just wind and dry grass and the ghosts of two armies. I've spent forty years looking for evidence of God's faithfulness. Sometimes I wonder if I've been too afraid to simply trust it.*
 
 ---
 
@@ -41,7 +41,7 @@ The house was exactly like Eli remembered — maybe more so, like it had been co
 
 He was examining a framed photograph of Abuelo at a dig site when the doorbell rang.
 
-The kid on the porch was about Eli's height, with dark hair that fell over his forehead and a look on his face like he'd already decided this conversation wasn't going to be interesting.
+The kid on the porch was about Eli's height, with dark hair that fell over his forehead and rectangular dark-framed glasses slightly too big for his face. He had a look on his face like he'd already decided this conversation wasn't going to be interesting.
 
 "Hey," the kid said. "My mom told me to come over and check on you. I'm Jordan. I live next door."
 
@@ -73,7 +73,7 @@ And on the desk, sitting on a leather cloth like it was the most important thing
 
 "What is *that*?" Jordan said from the doorway. He hadn't come all the way in. His arms were crossed.
 
-Eli stepped closer. The disc was heavy-looking, with a greenish patina like very old bronze. Twelve faint symbols were arranged in a circle around its face — rough engravings, barely visible, like unfinished sketches in the metal. He could almost make out the shapes if he squinted: a stone, a branch, a horn. Others were too faint to read, more suggestion than carving.
+Eli stepped closer. The disc was heavy-looking, with the greenish tint of very old bronze. Twelve faint symbols were arranged in a circle around its face — rough engravings, barely visible, like unfinished sketches in the metal. He could almost make out the shapes if he squinted: a stone, a branch, a horn. Others were too faint to read, more suggestion than carving.
 
 "It looks like a compass," Elena said. "A really old one."
 
@@ -89,7 +89,7 @@ It was warm. Not room-temperature warm — *alive* warm, like holding something 
 
 *From the journal of Professor Hector Castillo:*
 *September 12, 2020 — Home office, after midnight*
-*I've catalogued the disc six ways and I still can't identify the alloy. Bronze base, but the composition is wrong for any period I know. The twelve settings correspond to... something. Symbols I've seen scattered across a dozen dig sites on three continents. I think the device is a key. Or a vessel. Or both. But I can't make it do anything. It sits on my desk and does nothing. I'm beginning to believe it's waiting — not for the right artifact, but for the right person.*
+*I've studied the disc every way I know how, and I still can't figure out what it's made of. The twelve little pictures around the edge match symbols I've seen at dig sites all over the world. I think it's waiting for something — not the right artifact, but the right person.*
 
 ---
 
@@ -135,7 +135,7 @@ Elena's hand found Eli's arm again. She squeezed hard.
 
 "That's Goliath," Eli said.
 
-He was not a cartoon. He was not a Sunday School flannel board. He was a man the size of a nightmare, and his voice carried across the valley like a physical thing, pressing against Eli's chest.
+He was not a cartoon. He was not a picture in a Bible storybook. He was a man the size of a nightmare, and his voice carried across the valley like a physical thing, pressing against Eli's chest.
 
 Jordan took a step backward. "Okay. This is a hallucination. We ate something bad. We're —"
 
@@ -149,7 +149,7 @@ Eli said nothing. He stood on the hillside above the Israelite camp, holding not
 
 *From the journal of Professor Hector Castillo:*
 *June 4, 2019 — Valley of Elah, Israel*
-*The Biblical text says Goliath challenged the Israelites twice a day for forty days. Forty days. I stood in this valley today and tried to imagine what that does to a person — hearing that voice at dawn and again at dusk, every single day, with no answer and no end in sight. Fear is rarely sudden. It's usually a slow erosion, like water wearing down stone. By day forty, those soldiers weren't afraid of Goliath anymore. They were afraid of everything.*
+*Goliath challenged the Israelites twice a day for forty days. I stood in this valley and tried to imagine hearing that voice every morning and every night, with no end in sight. Fear is rarely sudden — it wears you down slowly, like water on stone. By day forty, those soldiers weren't just afraid of Goliath. They were afraid of everything.*
 
 ---
 
@@ -191,7 +191,17 @@ Jordan squinted toward the hills. "Is that fog? It doesn't look like regular fog
 
 They didn't have a name for it. Not yet. But Eli felt it — a wrongness at the edges of the day, like something pressing in, trying to squeeze the color out.
 
-They spent the afternoon watching the camp. Elena wanted to explore; Eli wanted to understand. Jordan kept making observations nobody asked for that turned out to be useful.
+They spent the afternoon moving through the camp. Elena couldn't just watch — she had to do something. When she saw a boy about their age struggling to carry two heavy water jars up the hill from the stream, she jogged over and grabbed one without asking.
+
+"Thanks," the boy said. He looked exhausted. His eyes kept flicking toward the valley. "My brother's down there. In the front lines."
+
+"Is he okay?" Elena asked.
+
+The boy shrugged. The shrug said everything his voice wouldn't.
+
+Elena carried the jar all the way to the cook fire and set it down hard. When she came back, her jaw was tight. "He's terrified," she said. "That kid. He's our age and he's carrying water for an army that's too scared to fight."
+
+Jordan, meanwhile, kept making observations nobody asked for that turned out to be useful.
 
 "Those guys haven't moved in hours," he said, pointing to a group of soldiers near the supply tents. "And that officer has walked the same patrol route six times. He's not checking the perimeter. He's pacing. This whole army is stuck."
 
@@ -217,7 +227,7 @@ David just stood there, looking toward the valley like he was listening to somet
 
 *From the journal of Professor Hector Castillo:*
 *June 5, 2019 — Valley of Elah, Israel*
-*What strikes me about the text is David's question. Not "Can he be beaten?" Not "How tall is he?" David asks, "Who is this uncircumcised Philistine who defies the armies of the living God?" He reframed the entire situation. Every soldier saw a giant and measured themselves against him. David saw a giant and measured the giant against God. That question wasn't ignorance — it was the most aggressive act of faith in the chapter.*
+*What gets me is David's question. Every soldier looked at Goliath and thought, "He's too big to fight." David looked at Goliath and thought, "He's too big to miss." David didn't measure himself against the giant. He measured the giant against God. That changes everything.*
 
 ---
 
@@ -279,7 +289,7 @@ Eli watched David stand, cinch the bag closed, and turn toward the valley. "I do
 
 *From the journal of Professor Hector Castillo:*
 *September 15, 2020 — Home office*
-*I keep thinking about the space between knowing and understanding. I know the facts of David and Goliath. I could lecture on Philistine military tactics, the acoustic geography of the Elah Valley, the probable weight of Goliath's armor. But knowing all of that isn't the same as standing in the stream and picking up a stone when everything in you says run. I wonder sometimes if understanding is what the Pathfinder requires. Not knowledge. Understanding.*
+*I know all the facts about David and Goliath — how sound carries in that valley, how heavy Goliath's armor was. But knowing facts isn't the same as standing in the stream and picking up a stone when everything in you says run. Maybe the Pathfinder doesn't need someone who knows the stories. Maybe it needs someone who understands them.*
 
 ---
 
@@ -315,21 +325,19 @@ Elena looked like waiting was a physical injury. She paced along the creek bank,
 
 "Are you okay?" Eli asked.
 
-"I'm cold." She scowled at the sky. "Why am I *cold*? It's the desert."
+"Fine." But she wasn't. She was pacing tighter circles, kicking rocks harder. Something was pulling the fight out of her.
 
-Eli looked toward the valley. The mist he'd noticed earlier had thickened. It wasn't moving like natural fog — it crept along the ground in thin fingers, reaching up the hillside toward the camp. Where it touched, the grass looked grey. The late sunlight seemed dimmer, though the sky was clear.
+Eli looked toward the valley. The mist he'd noticed earlier had thickened. But it was different this time — not just creeping fog. The sounds of the camp were going muffled, as if someone had stuffed cotton in Eli's ears. A soldier nearby was sharpening a sword, and the scraping sounded far away, thin, like a memory of a sound instead of the real thing.
 
 The hum in his chest was louder now. Not painful, but insistent, like a warning he couldn't quite decode.
 
-In the camp, soldiers were shifting restlessly. The cautious hope that had sparked when David spoke to Saul — that brief flicker of *maybe, maybe this kid is crazy enough to try* — was draining away. Eli watched a sergeant shake his head and turn from the valley. Two younger soldiers set down their spears and sat with their backs to the ridge, not watching anymore.
-
-The fear was coming back. Not because of Goliath this time. Because of something quieter, something that pressed in at the edges and made the bright afternoon feel thin and fragile.
+In the camp, the courage was draining out of people's faces. Eli could actually see it happening — the sergeant who'd been standing tall a minute ago now had the same slack, hopeless look as everyone else. Two younger soldiers set down their spears and sat with their backs to the ridge, not watching anymore. Their faces had gone blank, as if someone had wiped the bravery right off them.
 
 "Something's wrong," Eli said.
 
-"Yeah," Jordan said. He was squinting, rubbing his eyes like he had dust in them. "Everything's blurry at the edges. I thought it was the heat."
+"Yeah," Jordan said. He was turning his head back and forth, frowning. "Is it quieter? Everything sounds like it's underwater."
 
-It wasn't the heat. Eli didn't know what it was, but it wasn't the heat. It was the wrongness he'd felt since they arrived — amplified now, pushing against the fragile moment like a hand pressing down on a bruise.
+It wasn't the heat. It wasn't the distance. It was the wrongness he'd felt since they arrived — amplified now, draining the sound and the courage out of the valley like water out of a cracked bowl.
 
 From the ridge, Goliath's evening challenge thundered across the valley. The soldiers braced for it, the way you brace for a blow you know is coming and can't dodge. Shoulders tight. Eyes down.
 
@@ -351,7 +359,7 @@ David walked into the valley.
 
 *From the journal of Professor Hector Castillo:*
 *March 8, 2021 — Home office, 3 AM*
-*I can't sleep. I keep coming back to the moment before the stone flies. That silence. Every battle has noise — the clash, the screaming, the chaos. But this one has a silence first. David speaks, Goliath mocks, and then there's a moment where the whole valley holds its breath. I think that silence is the point. It's the space between faith declared and faith proven. That's where courage lives — in the gap.*
+*I can't sleep. I keep thinking about the silence before the stone flies. David speaks, Goliath mocks, and then the whole valley holds its breath. That silence is where courage lives — in the gap between saying you trust God and finding out if you really do.*
 
 ---
 
@@ -373,7 +381,7 @@ The ground vibrated with each step.
 
 The fog moved. Eli watched it slide down the hillside behind them and pour into the valley like something spilled. Colors drained where it passed — the brown dirt went grey, the green scrub along the creek went flat, even the sky seemed to lose a shade of blue. Sound muffled. The hum in Eli's chest was so loud now it was almost a sound outside his body.
 
-Elena was shivering. Jordan kept blinking, rubbing his eyes, his face tight with frustration.
+Elena's arms were wrapped tight around herself. Jordan had gone pale and quiet, staring at the giant with unfocused eyes, as if his mind was telling him to look away and he couldn't.
 
 On the ridge behind them, Eli could feel the army wavering. Not moving — wavering, like a candle flame in a draft. The thin hope was guttering out.
 
@@ -413,9 +421,11 @@ Elena grabbed Eli's shoulder. Her fingers were warm again.
 
 "Eli. The stream. *Look.*"
 
-He turned. The creek was churning with soldiers splashing through it, chasing the retreating army. But near the outcrop where they'd been crouching, in a shallow pool where the water eddied against the stones, something glowed.
+He turned. The creek was churning with soldiers splashing through it, chasing the retreating army. But Elena was pointing at something specific — a shallow pool near the outcrop where the water swirled against the stones. Her eyes were locked on a spot in the streambed, sharp and certain.
 
-Four stones sat in the streambed where David had knelt. Four of the five he'd chosen. And one of them — a small, smooth, pale stone no different from a thousand others — was shining with a faint, warm light, like a coal that hadn't quite gone out.
+"There," she said. "See the glow? Right there, by the flat rock."
+
+Four stones sat in the streambed where David had knelt. Four of the five he'd chosen. And one of them — a small, smooth, pale stone no different from a thousand others — was shining with a faint, warm light, like a coal that hadn't quite gone out. Elena had spotted it from ten feet away.
 
 ---
 
@@ -423,7 +433,7 @@ Four stones sat in the streambed where David had knelt. Four of the five he'd ch
 
 *From the journal of Professor Hector Castillo:*
 *November 2, 2020 — Home office*
-*I've been wrong about the relics. I keep thinking of them as artifacts — objects with historical and spiritual significance, like a museum piece behind glass. But I'm starting to think they're more like anchors. They hold a moment in place. The stone isn't special because David threw it. It's special because of what David believed when he picked it up. The faith made the stone matter — not the other way around.*
+*I've been wrong about the relics. They're not museum pieces. They're more like anchors — they hold a moment in place. The stone isn't special because David threw it. It's special because of what David believed when he picked it up. The faith made the stone matter, not the other way around.*
 
 ---
 
@@ -453,11 +463,7 @@ Not *I'm strong enough.* Not *I have a plan.* Not *I've figured out the angle an
 
 The stone was just a stone. It could have been any stone from any stream in any country. David's courage wasn't in the rock. It was in the hand that threw it — or, deeper than that, in the heart that trusted God when trusting made no sense at all.
 
-Eli understood.
-
-Not just the facts. Not just the story he'd heard in Sunday School a dozen times. He understood it the way you understand cold water — not because someone described it, but because you were standing in it.
-
-He reached down and picked up the stone.
+Eli reached down and picked up the stone.
 
 It was warm. The same alive warmth as the Pathfinder — that sense of holding something with a heartbeat. The glow brightened in Eli's palm, then settled into a steady, soft pulse.
 
@@ -481,7 +487,7 @@ Eli felt Elena's hand on his arm. Jordan's shoulder against his. The warmth wher
 
 *From the journal of Professor Hector Castillo:*
 *December 24, 2020 — Home office, Christmas Eve*
-*The house is quiet tonight. Eli and Elena sent a video — they've gotten so big. Elena lost another tooth. Eli is reading a book about archaeology. Probably my fault. I sat with the Pathfinder tonight and thought about the people it was made for. Not me. I've always known that, even when I didn't want to admit it. It's waiting for someone braver. Someone young enough to believe without needing proof first. I pray I get to see it.*
+*The house is quiet tonight. Eli and Elena sent a video — they've gotten so big. I sat with the Pathfinder and thought about who it was really made for. Not me. It's waiting for someone young enough to believe without needing proof first. I pray I get to see it.*
 
 ---
 
@@ -505,7 +511,15 @@ He could still feel it — the phantom warmth in his palm, the smooth weight of 
 
 Jordan looked down at himself. Sneakers. T-shirt. No rough tunic. He touched his face like he was checking to make sure it was still his.
 
-"That was real," he said. It wasn't a question. It wasn't quite belief, either. It was the sound of someone standing at the edge of something enormous — not ready to step over, but not willing to step back.
+"That was real," he said. It wasn't a question.
+
+"Real," Elena confirmed. She was bouncing on her toes, energy buzzing through her like she'd touched a live wire. "We just watched David take down a *giant*. With a *rock*."
+
+"I had sand in my shoes," Jordan said. "From three thousand years ago. That's going to take a while to process."
+
+"Process faster," Elena said. "Because that was the most amazing thing that has ever happened to anyone."
+
+Jordan almost smiled. "I'm going to need at least a sandwich before I can agree with you on that."
 
 "The stone," Eli said quietly. "It's gone. I was holding it, and then..."
 
@@ -515,7 +529,7 @@ It sat on the desk where they'd left it. But something had changed. Eli leaned c
 
 The first symbol — a faint engraving of a stone, barely visible before, little more than a rough scratch in the bronze — had transformed. The lines were sharp now, precise, as if a master engraver had spent hours on every curve. The surface within the engraving was polished smooth, and a warm amber color filled it like enamel inlay, rich and deep. A faint glow pulsed from within — not bright, but steady, like a coal that would never go out.
 
-The Pathfinder hummed. Not the warning hum. Not the rising crescendo. A single, clear note, like a tuning fork struck once and held. Almost music. Almost a voice.
+The Pathfinder hummed. Not the warning hum. Not the sound building louder and louder. A single, clear note, like a tuning fork struck once and held. Almost music. Almost a voice.
 
 Elena stepped closer. "It changed. The little picture — it *changed.*"
 

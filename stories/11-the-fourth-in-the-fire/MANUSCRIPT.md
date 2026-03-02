@@ -10,7 +10,7 @@
 
 *From the journal of Professor Hector Castillo:*
 *April 9, 2018 — Hillah, Iraq (near ancient Babylon)*
-*The team spent the morning in the ruins of what may have been a kiln district — industrial sector, sixth century BC. Massive brick structures. Scorch marks still visible after twenty-six centuries. Dr. Nassar thinks they're pottery kilns. I'm not so sure. The scale is wrong. These were built for something larger. Something meant to be seen from a distance. I keep thinking about the phrase that appears in my oldest sources: "presence in impossible places." Not rescue from impossible places — presence in them. As if the most sacred thing isn't getting out of the fire. It's who you find inside it.*
+*Found ruins of enormous brick furnaces today — scorch marks still visible after twenty-six centuries. Built for something larger than pottery. Something meant to be seen from a distance. I keep thinking about a phrase from my oldest sources: "presence in impossible places." The most sacred thing isn't getting out of the fire. It's who you find inside it.*
 
 ---
 
@@ -30,11 +30,11 @@ Eli looked up. His grandfather leaned against the frame, reading glasses pushed 
 
 Abuelo sipped his tea. His hand found the smooth stone in his pocket — the one from his first dig, the one he always rubbed when he was thinking hard. "Maybe it's not ready yet."
 
-Eli touched the bronze surface. Warm. Patient. But no surge, no pull. He'd felt the Pathfinder's call ten times now, and every time it had been insistent — a hum that built into a roar, a warmth that became a demand. This was different. This was the Pathfinder holding its breath.
+Eli touched the bronze surface. Warm. Patient. But no surge, no pull. This was different. This was the Pathfinder holding its breath.
 
 "Maybe it's not us it's waiting for," Elena said, glancing toward the window.
 
-From downstairs, the front door opened and closed. One knock — then the door, because somewhere during the last ten adventures they'd stopped being neighbors and started being whatever they were now.
+From downstairs, the front door opened and closed.
 
 "It's me," Jordan called from the hallway. His footsteps came up the stairs, slow and deliberate. He appeared in the doorway of the study, hood up, arms crossed, the rubber band on his wrist already twisting between his fingers. He nodded at Abuelo, then looked at the Pathfinder.
 
@@ -74,7 +74,7 @@ And they were gone.
 
 *From the journal of Professor Hector Castillo:*
 *April 10, 2018 — Hillah, Iraq*
-*Nebuchadnezzar's golden statue — if it existed as described — would have been ninety feet tall and nine feet wide. A tower of gold on a flat plain, visible for miles. The text says he set it up on the plain of Dura. Dr. Nassar showed me a depression in the terrain south of the ruins that matches the geography. Standing there, I understood something I hadn't grasped from the text alone: the statue wasn't just worship. It was a system. An empire speaking with one voice, demanding one answer. The pressure wouldn't have felt like persecution. It would have felt like gravity — invisible, constant, crushing. The kind of force that makes standing up feel like an act of war.*
+*Nebuchadnezzar's golden statue would have been ninety feet tall. A tower of gold on a flat plain, visible for miles. Standing where it once stood, I understood: this wasn't just worship. It was a system. The pressure wouldn't have felt like persecution. It would have felt like gravity — invisible, constant, crushing.*
 
 ---
 
@@ -122,19 +122,17 @@ A pause. Then the final line, delivered without emotion:
 
 "Whoever does not fall down and worship shall be thrown into a blazing furnace."
 
-The crowd didn't react. No gasps. No murmurs. The command sat on the plain like the heat — accepted, absorbed, already part of the air they breathed. This was an empire that had been obeying for so long that obedience felt like breathing.
+The crowd didn't react. No gasps. No murmurs. This was an empire that had been obeying for so long that obedience felt like breathing.
 
 Jordan was staring at the crowd. "Nobody even flinched," he said. "He just threatened to burn them alive and nobody flinched."
 
 "They're used to it," Eli said quietly. "This is how power works here. You don't argue. You don't question. You bow."
 
-The Fade pressed in. Not creeping — pressing. Eli could feel it in the muted colors, in the flatness of the sky, in the way the crowd stood like stones planted in the earth. The conformity itself was the Fade's weapon. Not fog this time. Not silence. Just the crushing, invisible weight of everyone doing the same thing and the terrifying cost of being the one who didn't.
+A man near them — an official in a fine robe — stood perfectly still, eyes forward, hands at his sides. Not afraid. Not angry. Just waiting. The way you wait for a traffic light. As if the choice had been made so long ago that it wasn't even a choice anymore. Conformity — everyone doing the same thing because nobody could imagine doing anything else.
 
-Somewhere on the plain, musicians raised their instruments. Eli counted them — dozens of players arranged in ranks, horns and flutes and stringed instruments he had no name for. The music wasn't ceremonial. It was a signal. A trigger built into the system. When the sound came, you went down. That was the deal. That was the empire.
+The Fade pressed in. Not creeping — pressing. The conformity itself was the Fade's weapon. Not fog this time. Not silence. Just the crushing, invisible weight of everyone doing the same thing and the terrifying cost of being the one who didn't.
 
-Jordan was looking at the crowd with an expression Eli recognized — the analytical squint, the cataloguing. "Nobody's whispering to each other," Jordan said. "Nobody's making eye contact. They're all just... waiting. Like they already decided."
-
-He was right. The conformity wasn't forced at the point of a spear. It was deeper than that. It was the conformity of people who had stopped imagining any other option. The smart thing. The safe thing. The only thing.
+Somewhere on the plain, musicians raised their instruments — dozens of players arranged in ranks. The music wasn't ceremonial. It was a signal. When the sound came, you went down. That was the deal.
 
 Elena grabbed Eli's arm. "What do we do? When the music starts, do we —"
 
@@ -148,7 +146,7 @@ The first note rang out across the plain.
 
 *From the journal of Professor Hector Castillo:*
 *April 11, 2018 — Hillah, Iraq*
-*I asked Dr. Nassar today what it would have felt like to be one of the Hebrew exiles in Nebuchadnezzar's court. Young men, taken from their homeland, trained in Babylonian language and literature, given Babylonian names. She said something I can't stop thinking about: "The hardest pressure isn't the one that threatens to kill you. It's the one that offers to include you. They weren't asked to deny God. They were asked to add another god. Just one more bow. Just this once. The difference looks small from the outside. From the inside, it's everything."*
+*A colleague said something I can't stop thinking about: "The hardest pressure isn't the one that threatens to kill you. It's the one that offers to include you. They weren't asked to deny God. They were asked to add another god. Just one more bow. Just this once." From the outside, the difference looks small. From the inside, it's everything.*
 
 ---
 
@@ -174,11 +172,7 @@ But this was different. Those moments had been acts of motion — someone going 
 
 "That's the bravest thing I've ever seen," Elena said.
 
-Her voice was quiet. Almost a whisper. But the words carried weight — ten adventures of weight. Elena, who had wanted to fight Goliath herself. Elena, who had learned from Ruth that quiet faithfulness was its own kind of courage. Elena, who had watched Esther risk death by walking forward.
-
-Now she was watching three men risk death by not bowing down. And she called it the bravest thing she'd ever seen.
-
-Because it was. Standing still when the whole world kneels takes a kind of courage that running into battle doesn't touch.
+Her voice was quiet. Almost a whisper.
 
 The music stopped. The crowd rose. And within minutes, the machinery of empire turned its attention to the three men who had remained on their feet.
 
@@ -210,7 +204,7 @@ Jordan looked at him. "Why?"
 
 *From the journal of Professor Hector Castillo:*
 *February 22, 2019 — Home office, 2 AM*
-*Three words keep me awake tonight. "Even if not." In Aramaic: hen la. The shortest, heaviest phrase in the book of Daniel. "Our God is able to deliver us. But even if He does not." I've turned this over for thirty years and I still can't hold it without my hands shaking. This isn't faith that expects a miracle. This isn't faith that demands proof. This is faith that says: I will trust You whether or not You save me. I will be faithful whether or not You intervene. That's not theology. That's love. The kind of love that doesn't need a reason.*
+*Three words keep me awake tonight. "Even if not." "Our God is able to deliver us. But even if He does not." This is faith that says: I will trust You whether or not You save me. That's not theology. That's love. The kind that doesn't need a reason.*
 
 ---
 
@@ -278,7 +272,7 @@ Elena grabbed Eli's hand. Her fingers were freezing.
 
 *From the journal of Professor Hector Castillo:*
 *April 12, 2018 — Hillah, Iraq*
-*The ruins of the kiln district. I stood inside one today — crouched through a crumbling doorway, brick walls still black with carbon. Dr. Nassar measured the interior: fifteen feet across, twenty feet deep. Industrial furnaces, she says. Pottery kilns. But the text says Nebuchadnezzar's furnace was large enough to walk into. Large enough for soldiers to approach the opening. Large enough that the flames reached out and killed the men who threw the condemned inside. Standing in those ruins, I tried to imagine what it would take to walk toward that heat voluntarily. My imagination failed. Some kinds of courage have to be lived. They can't be imagined.*
+*I stood inside the ruins of a kiln — a giant oven, big enough to walk inside. Brick walls still black with carbon after twenty-six centuries. The furnace in the story was even bigger. Standing in those ruins, I tried to imagine what it would take to walk toward that heat on purpose. I couldn't. Some kinds of courage have to be lived.*
 
 ---
 
@@ -334,7 +328,7 @@ The furnace roared. The fire consumed everything. And the three men vanished int
 
 *From the journal of Professor Hector Castillo:*
 *April 12, 2018 — Hillah, Iraq (continued, written by lamplight)*
-*I couldn't sleep. I went back to the kiln ruins after dark. The site was empty, the stones cold. I sat inside and read Daniel 3 by flashlight. Verse 25: "He answered and said, 'Look! I see four men walking around in the fire, unbound and unharmed, and the fourth looks like a son of the gods.'" Four. Not three. The text doesn't say who the fourth is. Nebuchadnezzar — a pagan king with no framework for what he's seeing — says "a son of the gods." But the text just says: someone was there. In the fire. With them. I sat in those cold ruins and thought about all the fires I've walked through in my life. The loss of Maria. The years of searching with nothing to show. The fall. And I thought: was someone there with me? Not rescuing me from it. Just... there. Inside it. Walking beside me. I didn't have an answer. But I had a question, and the question itself felt like warmth.*
+*I went back to the ruins after dark and read Daniel 3 by flashlight. "I see four men walking in the fire, unbound and unharmed." Four. Not three. Someone was there with them. I sat in those cold ruins and thought: was someone there with me, in all the fires I've walked through? The question itself felt like warmth.*
 
 ---
 
@@ -370,9 +364,11 @@ This was God not rescuing from the outside.
 
 This was God walking on the inside.
 
-Elena had stopped shaking. The cold that the Fade pressed into her bones had lifted — not gone, but irrelevant, pushed aside by something warmer than any fire. Her hands were at her sides. Tears ran down her cheeks and she didn't wipe them away.
+Elena had stopped shaking. The cold that the Fade pressed into her bones had lifted — not gone, but irrelevant, pushed aside by something warmer than any fire. She stepped forward. One step, then another, closer to the furnace than either of the boys. The heat pushed against her face, but she didn't flinch. She couldn't look away.
 
-Jordan was still squinting. The grey at the edges of his vision was closing in — the Fade's narrowing pressure, collapsing his sight to a shrinking circle. But the center of that circle was fixed on the furnace. Fixed on the fourth figure. And what he saw in that narrowing window was enough.
+"There's someone ELSE in there," Elena said. Her voice cut through the roar of the flames. "Eli — there are FOUR. There are four people in the fire."
+
+Jordan was still squinting. The grey at the edges of his vision was closing in — the Fade's narrowing pressure, collapsing his sight to a shrinking circle. But the center of that circle was fixed on the furnace. Fixed on the figure Elena had named. And what he saw in that narrowing window was enough.
 
 "Who is that?" Jordan breathed.
 
@@ -406,7 +402,7 @@ The furnace burned. The four figures walked. And the most violent place on the p
 
 *From the journal of Professor Hector Castillo:*
 *April 13, 2018 — Hillah airport, waiting for a flight home*
-*I found something yesterday. In the kiln ruins. A shard of brick — unremarkable, the size of my thumb. But it was cool. Sitting in the rubble of a structure that Dr. Nassar says reached temperatures above 1,000 degrees Celsius, one piece of stone was cold to the touch. I almost dropped it. Not because it was cold — because when I picked it up, the hairs on my arm stood on end. The same feeling I get when I hold the Pathfinder. The same warmth that isn't temperature. I wrapped it in cloth and put it in my bag. Then I took it out and put it back where I found it. I don't know why. It felt like it wasn't mine. Like it was waiting for someone else.*
+*Found a shard of stone in the ruins yesterday. Cool to the touch, sitting in rubble that once reached a thousand degrees. When I picked it up, the hairs on my arm stood on end. The same feeling I get from the Pathfinder. I put it back where I found it. It felt like it was waiting for someone else.*
 
 ---
 
@@ -438,7 +434,7 @@ Eli moved toward the furnace.
 
 The bricks were still hot — waves of heat radiating from the structure like breath. But the killing heat was gone. The furnace was cooling fast, impossibly fast, as if the fire had never been about temperature at all. He reached the opening and peered inside.
 
-The interior was a wasteland of scorched brick and cracked stone. Everything had melted, fused, transformed. The iron grating had sagged into slag. The walls were glazed black. The floor was a field of debris — broken brick, powdered morite, fragments of stone.
+The interior was a wasteland of scorched brick and cracked stone. Everything had melted, fused, transformed. The iron grating had melted and sagged. The walls were glazed black. The floor was a field of furnace debris — broken brick, melted stone, fragments of everything the fire had touched.
 
 Except one piece.
 
@@ -484,7 +480,7 @@ The world went gold, then white, then silent.
 
 *From the journal of Professor Hector Castillo:*
 *June 15, 2024 — Home office, late evening*
-*They're home. They're safe. The eleventh symbol is burning on the Pathfinder's face and the melody is so close to complete that I catch myself humming it without realizing. Eleven notes. Eleven promises. One remaining. I opened my oldest journal tonight — the one from my first dig, forty-three years ago. I was twenty-eight. I drew a mountain on the last page. I didn't know why at the time. I just kept drawing it — the same mountain, the same shape, over and over, in the margins of a dozen notebooks across a dozen years. I know now. I've always known, somewhere underneath the scholarship and the doubt and the years of searching. All the lines converge there. All the promises point to one place. I underlined it three times because writing it once wasn't enough: "The Lord will provide."*
+*They're home. Eleven symbols glowing. One remaining. I opened my oldest journal tonight and found a mountain I'd been drawing in the margins for years without knowing why. I know now. All the lines converge there. All the promises point to one place. "The Lord will provide."*
 
 ---
 
@@ -533,8 +529,6 @@ He was quiet for a long time.
 He stopped again. The study was quiet except for the Pathfinder's hum.
 
 "I think I believe that," Jordan said. "I'm scared to say it. But I think I do."
-
-Eli felt the words land. He felt them land the way the three men's declaration had landed on the plain of Dura — not as an answer, but as a door opening. Jordan hadn't said *I believe.* He hadn't recited a creed or crossed a line. He'd said *might.* He'd said *trust.* And coming from Jordan Park — who had held God at arm's length for eleven adventures because a divorce had shattered his faith in reliability — those words were an earthquake.
 
 Elena wiped her eyes with the back of her hand and stood up. She crossed the room and put her arms around Jordan. She didn't say anything. Jordan stiffened for a moment, then didn't.
 

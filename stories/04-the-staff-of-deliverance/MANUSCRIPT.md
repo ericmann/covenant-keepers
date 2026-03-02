@@ -19,7 +19,7 @@ Drafting workflow (see AGENTS.md):
 
 *From the journal of Professor Hector Castillo:*
 *April 7, 2017 — Sinai Peninsula, Day 3*
-*The locals call this mountain Jebel Musa. Some scholars disagree. I've walked the base three times now, looking for anything — a scorch mark, a split in the rock, evidence of a bush that burned without burning up. Ridiculous, maybe. But I keep thinking about the man who stood here barefoot, arguing with God. Not a warrior. Not a king. A fugitive shepherd with a stutter. God could have chosen anyone. He chose the man who said "not me." I find that either deeply encouraging or deeply unsettling. Tonight, I think it's both.*
+*I've walked the base of this mountain three times, looking for anything — a scorch mark, a split in the rock. I keep thinking about the man who stood here barefoot, arguing with God. Not a warrior. Not a king. A runaway shepherd with a stutter. God could have chosen anyone. He chose the man who said "not me." I find that both encouraging and unsettling.*
 
 ---
 
@@ -95,7 +95,7 @@ The light swallowed the room.
 
 *From the journal of Professor Hector Castillo:*
 *April 9, 2017 — Sinai Peninsula, Day 5*
-*Spent the afternoon watching a shepherd move his flock across the lower slopes. He walked with a staff — olive wood, worn smooth by years of grip. In his hands it was a tool: a prod for stubborn goats, a balance on loose rock, a weapon against jackals. Nothing more. But the text says Moses carried a staff too, and when God asked him what was in his hand, Moses just said, "A staff." The most ordinary answer in the world. God said throw it down. And the ordinary became something else entirely. I wonder how often we hold the answer in our hands and don't recognize it because it looks too plain.*
+*I watched a shepherd today carrying a staff — just olive wood, worn smooth by years of use. When God asked Moses what was in his hand, Moses just said, "A staff." The most ordinary answer in the world. God said throw it down. And the ordinary became something else entirely. I wonder how often we hold the answer in our hands and don't recognize it because it looks too plain.*
 
 ---
 
@@ -193,21 +193,15 @@ He started walking toward Egypt.
 
 *From the journal of Professor Hector Castillo:*
 *February 22, 2018 — Cairo, Egypt*
-*You cannot understand the Exodus until you've stood in Egypt. I don't mean the modern city — I mean the ruins. The columns at Karnak are sixty feet tall and twelve feet around. The stones at Giza weigh two and a half tons each and there are two million of them. This wasn't a kingdom. It was a machine. Everything about Egypt was designed to make you feel small. To make resistance feel not just dangerous but absurd. That's what the Hebrews were up against. Not a man on a throne. A system so massive it bent reality around itself, until the idea of freedom became physically impossible to imagine.*
+*You cannot understand the Exodus until you've stood in the ruins of Egypt. The columns are sixty feet tall. The stones weigh tons, and there are millions of them. This wasn't a kingdom. It was a machine — designed to make you feel small, to make fighting back feel impossible. That's what the Hebrews were up against.*
 
 ---
 
 Egypt hit them like a wall.
 
-One moment they were walking behind Moses through empty desert, the air thin and silent. The next, the world opened into noise and heat and a crush of humanity so dense that Eli's chest tightened. The Pathfinder had jumped them forward — past the journey, past the reunion with Aaron, straight into the heart of the thing Moses was most afraid of.
+The Pathfinder had jumped them forward — past the journey, past the reunion with Aaron — straight into the heart of the thing Moses was most afraid of. The city was enormous. Mud-brick buildings packed tight along roads that teemed with people, and above it all, a temple complex rose against the sky — columns taller than any tree Eli had ever seen, painted in reds and golds that blazed in the sun.
 
-The city was enormous. Mud-brick buildings climbed over each other in every direction, packed tight along roads that teemed with carts, donkeys, soldiers, merchants shouting in a language that buzzed and clicked at the edges of understanding. Somewhere ahead, rising above the rooftops like a mountain made by human hands, a temple complex stretched against the sky. Columns taller than any tree Eli had ever seen. Walls carved with figures of gods and kings, painted in reds and golds that blazed in the sun.
-
-"Oh," Elena said. Just that. For once, she didn't have a follow-up.
-
-Jordan's mouth was open. He closed it. Opened it again. "This is... a lot."
-
-It was. But what made Eli's stomach drop wasn't the size of the buildings or the noise of the crowds. It was the people on the edges.
+But what made Eli's stomach drop wasn't the size of the buildings. It was the people on the edges.
 
 They were everywhere, once you noticed. Men and women with dust-caked skin and sunken eyes, hauling bricks on wooden frames strapped to their backs. Children — children Eli's age, Elena's age — carrying water jars that bent them double. A line of workers stretched along a half-built wall, lifting mud-bricks into place under the watch of overseers who carried short whips coiled at their belts.
 
@@ -245,17 +239,15 @@ Eli watched Moses' face. The shepherd heard those words and flinched. Not from t
 
 And now here he was, standing in the place he'd run from, holding a stick, trying to convince people who'd been broken for centuries that freedom was possible.
 
-The air grew heavier. The hum in Eli's chest thickened. Around them, the grey pressed in — not visibly, not like fog you could see, but like a weight on the mind. The old woman's head-shake spread through the group. Shoulders dropped. Eyes dulled. One by one, the elders' faces closed like doors shutting.
+The air grew heavier. The hum in Eli's chest thickened. But it wasn't cold or fog this time. It was suffocating *inevitability* — the crushing feeling that nothing could ever change, that Egypt was too big and too old and too permanent to break. The old woman's head-shake spread through the group like a disease. Shoulders dropped. Eyes dulled. One by one, the elders' faces closed like doors shutting. Not because they were angry at Moses. Because they had stopped believing that hope was something real people could have.
 
-"They don't believe him," Elena whispered. The fury was still in her voice, but it was smaller now, pressed down by something she couldn't fight with her fists.
+"They don't believe him," Elena whispered. The fury was still in her voice, but it was smaller now, pressed flat by something too big to punch.
 
 "Would you?" Jordan said. He wasn't being sarcastic. His voice was careful, almost gentle. "If you'd been a slave your whole life, and your parents were slaves, and their parents were slaves — would you believe some guy who showed up with a stick and said God sent him?"
 
 Eli didn't answer. He was watching Moses. The shepherd's grip on his staff had gone white. His shoulders were hunched. He was getting quieter. Pulling inward. Becoming smaller in the shadow of the empire.
 
-And Eli thought: *That's me. That's exactly me.*
-
-The kid who knows the answer but can't raise his hand. The kid who sees the problem but can't make his feet move. Standing in a place too big, holding something too small, and feeling the weight of the impossible pressing down like a hand on his chest.
+And Eli thought: *That's me.* The kid who knows the answer but can't raise his hand.
 
 Moses looked up. For one second — so brief Eli almost missed it — the shepherd's eyes swept across the courtyard and landed on the three kids standing in the shadow of a crumbling wall. Moses' gaze passed over them the way it had passed over difficult terrain on the mountain slopes. Measuring. Uncertain.
 
@@ -275,7 +267,7 @@ And Moses was going to do it anyway.
 
 *From the journal of Professor Hector Castillo:*
 *February 25, 2018 — Cairo, Egypt*
-*The plagues weren't punishments. I know that's how they read, but I think that misses the point. Each plague targeted a specific Egyptian god — the Nile god, the sun god, the god of the harvest. One by one, the things Egypt worshipped were shown to be powerless. It wasn't destruction for its own sake. It was revelation. "By this you will know that I am the Lord." Every plague was an invitation to see. Pharaoh refused. Ten times, the door opened. Ten times, he closed it.*
+*The plagues weren't just punishments. Each one targeted something Egypt worshipped — the river, the sun, the harvest. One by one, the things they trusted were shown to be powerless. Every plague was an invitation to see the truth. Pharaoh refused. Ten times, the door opened. Ten times, he closed it.*
 
 ---
 
@@ -289,61 +281,41 @@ They stood on the bank of the Nile and watched Moses lift his staff over the wat
 
 Egyptians gathered at the riverbank, staring. Some wept. Some raged. The Hebrew workers looked up from their bricks for the first time in Eli's memory, something flickering behind their exhausted eyes.
 
-But Pharaoh's magicians did the same trick. Not as well, not as completely — but enough. Enough for Pharaoh to shrug and turn away. Enough for the flicker in the Hebrews' eyes to dim.
+But Pharaoh's magicians did the same trick. Not as well, not as completely — but enough. Enough for Pharaoh to shrug and turn away.
 
-"He doesn't care," Elena said, watching Pharaoh's retinue retreat into the palace. "His own river is poison and he doesn't *care*."
+"He doesn't care," Elena said. "His own river is poison and he doesn't *care*."
 
-Then came the frogs. They erupted from the dead river in a living carpet — in the streets, in the houses, in the bread ovens. Eli watched a palace guard shake three frogs out of his helmet with a look of dignified disgust. Elena almost laughed. Almost.
+Then came the frogs. They erupted from the dead river in a living carpet — in the streets, in the houses, in the bread ovens. Eli watched a palace guard shake three frogs out of his helmet with a look of dignified disgust.
 
-Pharaoh called for Moses. "Pray to your God," he said. "Remove the frogs. And I'll let your people go."
+"Okay," Jordan said, watching a frog hop off a dignitary's lap. "This one's almost funny."
 
-Moses prayed. The frogs died. Mountains of them, rotting in the streets.
+"Don't laugh," Elena said, but her mouth was twitching.
 
-Pharaoh changed his mind.
+"I'm not laughing. The frog on that guy's head is laughing. I'm just observing."
 
-"Of course he did," Jordan muttered. "Of course."
+Pharaoh called for Moses. "Remove the frogs. I'll let your people go." Moses prayed. The frogs died. Pharaoh changed his mind.
 
-He pulled his hood up and leaned against the wall. His face had the look it got when something bothered him enough that sarcasm wasn't covering it anymore. "You know what this reminds me of? My dad. Promising to show up for my sister's recital. Three times. Every time, something came up."
+"Of course he did," Jordan muttered. "You know what this reminds me of? My dad promising to show up for my sister's recital. Three times. Every time, something came up."
 
 Elena looked at him. "That's not the same thing."
 
-"No. But the feeling is." Jordan's voice was flat. "When someone breaks a promise enough times, you stop hearing the promise. You just hear the breaking."
+"No. But the feeling is. When someone breaks a promise enough times, you stop hearing the promise. You just hear the breaking."
 
-Gnats came next — clouds of them, so thick they choked the air. Pharaoh's magicians tried to replicate it and failed. "This is the finger of God," they told Pharaoh. He didn't listen.
+The plagues kept coming. Gnats that choked the air. Flies that blackened the sky over Egyptian neighborhoods but didn't cross into the Hebrew quarter. Livestock that dropped dead by noon. Boils. Hail. Locusts. Each time, the same pattern: plague, promise, relief, betrayal. Over and over, like a door opening and closing.
 
-Then flies — biting swarms that blackened the sky over the Egyptian quarter. But not a single fly crossed into the Hebrew neighborhoods. The line was invisible and absolute.
-
-Livestock collapsed in the fields, healthy at dawn and dead by noon. Boils erupted on Egyptian skin — the magicians themselves couldn't stand before Moses, bent double with pain. Hail fell like stones from a clear sky, shattering trees and flattening crops, while across the invisible line where the Hebrew quarter began, the sun kept shining.
-
-Each time, the pattern repeated. The plague fell. Pharaoh summoned Moses. Pharaoh promised. The plague lifted. Pharaoh refused.
-
-Over and over. Like a door opening and closing, opening and closing.
-
-Elena stopped watching the plagues after the seventh one. She sat against a wall in the Hebrew quarter with her knees pulled up, shivering. "He's never going to let them go," she said. "Is he?"
+Elena stopped watching after the seventh one. "He's never going to let them go. Is he?"
 
 "He does," Eli said. "Eventually."
 
-"When? After how many more?" Her voice cracked. She wasn't asking about Pharaoh anymore, not entirely. She was asking about the waiting. About the gap between the promise and the proof. That gap was Elena's worst place — the space where you couldn't act, couldn't fix, couldn't run fast enough to outpace the hurt.
+"When? After how many more?"
 
-Eli watched it happen and felt something building in his chest alongside the hum — a tightness that was part frustration and part grief. Because each time Pharaoh refused, the hope that had sparked in the Hebrew quarter guttered and went dark. And each time, the grey weight of the Fade settled a little deeper into the streets, a little thicker in the air, feeding on the cycle of raised hopes and crushed promises.
+The weight of the Fade had burrowed into Egypt like roots into soil. It lived in the feeling that this would never end — that the system was too big, too old, too powerful to break. That Moses was a fool holding a stick in front of a machine that had been grinding people to dust for four hundred years.
 
-"It's getting worse," Jordan said. They were sitting in the shadow of a mudbrick wall while the sky turned green-black with the eighth plague — locusts, millions of them, a living cloud that ate the horizon. "Not the plagues. The other thing. The heavy feeling."
-
-He was right. The Fade had burrowed into Egypt like roots into soil. It didn't need to announce itself. It lived in the slump of the workers' shoulders, in the dull eyes of the elders, in the flat voice of the woman who'd said *There is no out. There has always been Egypt.*
-
-It lived, Eli realized, in the feeling that this would never end. That Pharaoh would always refuse. That the system was too big, too old, too powerful to break. That Moses was a fool holding a stick in front of a machine that had been grinding people to dust for four hundred years.
-
-And the worst part was: it felt true. Standing in the shadow of those enormous columns, watching Pharaoh break his word for the seventh, eighth, ninth time — it felt true in Eli's bones. The empire was too big. The stick was too small. Nothing would change.
-
-"Eli." Elena's voice was strained. She was shivering despite the heat, arms wrapped tight around herself. "Tell me this works. Tell me they get out."
-
-He opened his mouth. He knew the story. He'd known it since he was five years old, sitting on Abuelo's lap, listening to the old man's voice rumble through the words. *And the Lord brought them out of Egypt with a mighty hand.*
-
-But knowing the ending didn't help. Not here. Not standing in the middle of the story, where the weight was real and the grey was pressing in and Moses was getting quieter with each broken promise.
+"Tell me they get out," Elena said.
 
 "They get out," Eli said. But his voice was small.
 
-Darkness fell next. Three days of it — not night but true darkness, the kind you could feel on your skin, heavy and thick as wet cloth. The Egyptians couldn't see their own hands. The Hebrews had light in their dwellings, but it was thin and uncertain, like candles in a hurricane.
+Then darkness fell. Three days of it — not night but true darkness, the kind you could feel on your skin, heavy and thick as wet cloth. The Egyptians couldn't see their own hands. The Hebrews had light in their homes, but it was thin and uncertain, like candles in a hurricane.
 
 In that darkness, Eli heard Moses speaking to Aaron. The two brothers sat in a Hebrew house, a single oil lamp between them. Moses' staff lay across his knees. His hands were still.
 
@@ -365,13 +337,13 @@ The darkness pressed against the walls. The lamp flickered. And somewhere in Eli
 
 *From the journal of Professor Hector Castillo:*
 *March 1, 2018 — Cairo, Egypt*
-*I've written about Passover in academic papers. Analyzed the ritual structure. Compared it to contemporary Near Eastern practices. All very professional. All very distant. But sitting in this hotel room tonight, reading the text again, I find my hands are shaking. This wasn't a ritual when it happened. It was the longest night of these people's lives. They stood in their houses with their sandals on and their staffs in hand, eating bread that hadn't had time to rise, listening. Waiting. The angel of death was passing over their doors because of the blood of a lamb. That's not an academic detail. That's a family crouched in the dark, trusting a promise with their children's lives.*
+*This wasn't a ritual when it happened. It was the longest night of these people's lives. They stood in their houses with sandals on and staffs in hand, eating bread that hadn't had time to rise, listening. Waiting. The angel of death was passing over their doors because of the blood of a lamb. That's a family crouched in the dark, trusting a promise with their children's lives.*
 
 ---
 
 The night came without stars.
 
-Moses had given the instructions. Every Hebrew family was to take a lamb — a year-old lamb, without blemish — and slaughter it at twilight. They were to take the blood and paint it on the doorposts and the lintel of their houses. Top and sides. Then go inside. Eat the lamb with bitter herbs and unleavened bread. Don't leave until morning.
+Moses had given the instructions. Every Hebrew family was to take a lamb — a year-old lamb, without blemish — and slaughter it at twilight. They were to take the blood and paint it on the doorposts and the lintel — the wooden beam above the door. Top and sides. Then go inside. Eat the lamb with bitter herbs and unleavened bread. Don't leave until morning.
 
 Eli watched the preparations and felt the weight of what was coming settle over the Hebrew quarter like a held breath. The families moved quickly. No one argued. No one asked why. After ten plagues and ten broken promises, these people had run out of skepticism. They were past the point of weighing evidence. They were at the raw, ragged edge of hope — the kind that doesn't feel like hope at all. The kind that feels like surrender.
 
@@ -429,7 +401,7 @@ Not grief. Something past grief and past relief and past understanding. The tear
 
 *From the journal of Professor Hector Castillo:*
 *March 3, 2018 — Cairo, Egypt*
-*The Hebrew word for Exodus is "yetziat." Going out. Such a simple word for the most complicated act of faith in the Old Testament. Six hundred thousand men, plus women and children — some scholars say two million people total. Imagine that. Two million people who had never known anything but slavery, walking out of the only world they'd ever known, following a man with a staff, headed toward a desert they couldn't survive alone. Going out. As if they were just stepping through a door. In a way, they were. The door was painted with blood and held open by a promise. Sometimes I think the whole Bible is the story of God holding doors open and people deciding whether to walk through.*
+*Two million people who had never known anything but slavery, walking out of the only world they'd ever known, following a man with a stick. Going out. As if they were just stepping through a door. In a way, they were — a door painted with blood and held open by a promise.*
 
 ---
 
@@ -444,6 +416,10 @@ And they walked.
 Not running. Not marching. Walking — hundreds of thousands of people moving in a direction that wasn't back. For the first time in four hundred years, their feet were carrying them somewhere they chose to go.
 
 "Look at them," Elena said. She was standing on a low wall, scanning the river of humanity with her hand shading her eyes. Her voice had the rough edge it got when she was trying not to cry. "They're actually going."
+
+A little girl stumbled in the road, losing her grip on a clay jar that shattered at her feet. She started to cry. Elena jumped off the wall before Eli could blink, scooped up the girl, and carried her back to her mother. The mother stared at Elena, then clutched her daughter tight and kept walking. Elena climbed back up on the wall, her jaw set.
+
+"Nobody gets left behind," she said. It wasn't a suggestion.
 
 "The Egyptians are giving them things," Jordan said. He sounded baffled. "Look — that woman just handed over a gold bracelet. That man gave them silver. They're *paying* them to leave."
 
@@ -503,7 +479,7 @@ The empire behind. The sea ahead. And in Moses' hand, a stick.
 
 *From the journal of Professor Hector Castillo:*
 *April 12, 2017 — Sinai Peninsula, last day*
-*I drove to the coast today. Stood at the water's edge. Tried to imagine it — the sound of six hundred chariots at your back, the sea in front, and nothing in your hand but a shepherd's staff. The scholars argue about the location, the depth, the wind patterns, the tidal charts. They miss the point. The point isn't the physics. The point is the obedience. Moses raised a stick over an ocean. That's not science. That's not magic. That's a man choosing to do what God said in the moment when doing it looked insane. The staff was just a stick. It was always just a stick. But the hand that raised it was trusting something bigger than wood.*
+*I stood at the coast today and tried to imagine it — six hundred chariots behind you, the sea in front, and nothing in your hand but a stick. Moses raised that stick over an ocean. That's a man choosing to do what God said when doing it looked insane. The staff was just a stick. It was always just a stick. But the hand that raised it was trusting something bigger than wood.*
 
 ---
 
@@ -523,15 +499,11 @@ People were shouting at Moses. Not praying. Shouting. The words hit Eli like thr
 
 Moses faced them. The staff in his hand trembled. His jaw was clenched so tight Eli could see the muscles jumping. And for one terrible, suspended moment, Eli saw the possibility of collapse. Saw Moses' grip loosen. Saw the staff begin to lower.
 
-The grey surged. Not around the edges anymore — it poured in from every direction, muffling the shouts, dimming the light, pressing against Eli's chest like a physical weight. Elena gasped and doubled over, arms wrapped around herself, shaking with a cold that came from inside. Jordan's eyes went wide behind his glasses, and he pressed his palms against them, blinking, blinking, trying to see through a greyness that was closing in from the periphery like tunnel vision.
+The grey surged. Not around the edges anymore — it thickened the air itself, turning everything heavy and slow. The shouts seemed muffled, the light dimmer. Elena's energy drained out of her. Jordan went very still, his eyes unfocused.
 
-"I can't see," Jordan said. His voice was tight. "The edges are going. Everything's going grey."
+The Fade was feeding. On the panic, on the despair, on the four-hundred-year-old certainty that Pharaoh always won. The crowd's terror thickened the air like smoke. Hope drained from face after face — Eli watched it go, watched people's eyes go flat and empty, watched shoulders sag under a weight that had nothing to do with the desert heat.
 
-The Fade was feeding. On the panic, on the despair, on the four-hundred-year-old certainty that Pharaoh always won. Egypt was too big. The system was too old. Freedom was a dream for people who hadn't been paying attention. *There is no out. There has always been Egypt.*
-
-Eli felt it in his own chest — the grey wrapping around the hum, dampening it, smothering it. The feeling of impossibility. The feeling he knew from every classroom, every hallway, every moment when the right thing to do was clear and his body refused to do it.
-
-*You can't. You're not enough. The problem is too big and you are too small and the stick in your hand is just a stick.*
+Eli felt it pressing against the hum in his chest — not attacking him, but surrounding everything, making the whole world feel impossible. Making the sea look too wide, the army too close, the stick in Moses' hand too small.
 
 Moses stood at the waterline with his back to the sea and two million terrified people pressing toward him and an army closing like a fist behind them, and he said:
 
@@ -613,7 +585,7 @@ And Eli's hand was full of light.
 
 *From the journal of Professor Hector Castillo:*
 *December 31, 2018 — Home office, midnight*
-*New Year's Eve. I'm sitting with the Pathfinder in my lap, the way I've done a hundred times, willing it to do something. It never does. Not for me. But tonight I'm not frustrated. Tonight I'm thinking about Moses at eighty, standing in front of a bush on fire, holding a stick, being told to go back to the most powerful man in the world and demand the impossible. "What is in your hand?" God asked. "A staff," Moses said. Just a staff. That was the whole point. God didn't give Moses a weapon. He gave Moses a job and told him to use what he already had. The staff was never the point. The hand was never the point. The point was the One who said "Go." I think the Pathfinder works the same way. It isn't waiting for the right artifact. It's waiting for the right hand. And these old hands — I think their job was to find it and put it where the right hands could reach. That's enough. Mijo, if you're reading this: it was always enough.*
+*"What is in your hand?" God asked. "A staff," Moses said. Just a staff. God didn't give Moses a weapon. He gave him a job and told him to use what he already had. I think the Pathfinder works the same way. It's waiting for the right hand. And these old hands — their job was to find it and put it where the right hands could reach. Mijo, if you're reading this: it was always enough.*
 
 ---
 
@@ -625,7 +597,19 @@ His right hand was open. Empty. The warmth was fading from his palm like the las
 
 "Every time," Jordan said quietly. He was staring at his own hands. "Every time, it dissolves. We bring back nothing."
 
-"We bring back everything," Elena said.
+"We bring back everything," Elena said. She was pacing the room, too wired to sit. She kicked the leg of the desk gently, then climbed onto the armchair and crouched there like a cat.
+
+"Did we just walk through the Red Sea?" she said.
+
+"We did."
+
+"Between walls of *water*."
+
+"With fish in them," Jordan added. "I saw a fish. Inside the wall. Just swimming around like it was a normal Tuesday."
+
+Elena grinned. "That was the craziest thing we've ever done. And we watched a kid fight a giant."
+
+"The giant was bigger," Jordan said. "But the sea was wetter. Marginally."
 
 She was looking at the Pathfinder.
 
@@ -657,23 +641,13 @@ Elena sat cross-legged on the floor, her chin in her hands. "Abuelo said that. O
 
 He thought about himself. The kid who knew the answers. The kid who froze.
 
-"I do that," he said. The words came out before he could stop them. Quiet. Almost to himself. "What Moses did. The freezing. The 'send someone else.' I do that all the time."
-
-Elena looked at him. Jordan looked at him. Neither of them said *no you don't* or *you're being too hard on yourself* or any of the things people say when they want to be kind and are willing to be dishonest about it.
+"I do that," he said quietly. "What Moses did. The freezing. The 'send someone else.' I do that all the time."
 
 "I know," Elena said. Simply. Like stating a fact.
 
-"We all saw it," Jordan said. "At the sea. He was terrified."
+"But he raised the stick," Jordan said. "He was terrified, and he raised it anyway."
 
-"But he raised the stick," Elena said.
-
-"He raised the stick." Eli's throat was tight. "Not because the fear went away. Not because he suddenly felt brave. Not because the staff turned into some kind of magic weapon. He just — he raised it. Because God said to. And it was just a stick. And it was enough."
-
-The study was quiet. Late afternoon light pooled on the desk, catching the Pathfinder's four glowing symbols and throwing faint colored light onto the maps on the wall — amber and green and deep red and warm brown, dancing slowly like candlelight.
-
-God doesn't call the qualified. He qualifies the called.
-
-Eli hadn't read that anywhere. Hadn't heard Abuelo say it. It wasn't in the journals or in the story. But it was in the space between Moses' fear and Moses' obedience. In the gap. In the raised stick. It was the thing the splinter carried — not a memory of power, but a memory of trust.
+Eli nodded. His throat was tight. "Because God said to. And it was just a stick. And it was enough."
 
 "I want to call Abuelo," Eli said.
 

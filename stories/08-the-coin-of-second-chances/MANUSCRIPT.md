@@ -10,7 +10,7 @@
 
 *From the journal of Professor Hector Castillo:*
 *April 7, 2018 — Joppa (modern Jaffa), Israel*
-*Walked the old harbor this morning. Most of it is buried under centuries of construction, but the bones of the ancient port are still here if you know where to look. This is where Jonah boarded a ship running from God. I sat on a wall above the waterline and watched the Mediterranean turn gold at sunset. People have been running from this harbor for three thousand years. Running from duty, from danger, from themselves. The harbor doesn't judge. It just watches them go. I wonder sometimes if God is like that — watching us run, already standing at the place we're running to.*
+*Walked the old harbor this morning. This is where Jonah boarded a ship running from God. I sat on a wall and watched the sea turn gold at sunset. People have been running from this harbor for three thousand years. I wonder sometimes if God is like that — watching us run, already standing at the place we're running to.*
 
 ---
 
@@ -22,7 +22,7 @@ Seven symbols glowed on its face. Seven out of twelve.
 
 Eli stood at the desk and counted them again, the way he had every morning for the past week. The stone. The branch. The thread. The staff. The horn. The seal. The altar stone. Each engraving sharp and polished, filled with warm color like enamel inlay, pulsing with a faint light that never went out. Five symbols remained rough and faded — scratches in old bronze, barely visible, waiting.
 
-"You're staring at it again."
+"Seven down, five to go."
 
 Elena leaned in the doorway, arms crossed, one eyebrow raised. She had a smear of peanut butter on her chin from lunch.
 
@@ -94,7 +94,7 @@ Abuelo's last word chased them into the light: "*Remember.*"
 
 *From the journal of Professor Hector Castillo:*
 *April 8, 2018 — Joppa harbor*
-*Found an interesting coin this morning in a market stall near the old port. Bronze, badly corroded, roughly the weight and diameter of a modern quarter but thicker. Phoenician, I think — the markings suggest a Sidonian mint, first millennium BC. It's the kind of coin a traveler would have used to pay for passage on a merchant vessel. I bought it for twelve shekels and sat on the harbor wall turning it in my fingers. How many desperate journeys has a coin like this purchased? How many people have traded everything they had for the chance to go somewhere — anywhere — else?*
+*Found a coin in a market stall near the port. Bronze, old, about the size of a quarter but thicker. The kind of coin a traveler would have used to pay for a ride on a ship. I sat on the harbor wall turning it in my fingers. How many desperate journeys has a coin like this paid for?*
 
 ---
 
@@ -112,7 +112,7 @@ Elena was already scanning the crowd, her ponytail whipping in the harbor wind. 
 
 "I don't even know why I'm surprised anymore," Jordan muttered. "Different century, same burlap fashion."
 
-The quay was packed with activity. Dockworkers hauled amphorae — tall clay jars — up gangplanks and into cargo holds. Merchants haggled in tight clusters. A woman sold flatbread from a basket, the smell of it pulling at Eli's empty stomach. Goats bleated somewhere. Seagulls screamed overhead.
+The quay was packed with activity. Dockworkers hauled large clay storage jars up gangplanks and into cargo holds. Merchants haggled in tight clusters. A woman sold flatbread from a basket, the smell of it pulling at Eli's empty stomach. Goats bleated somewhere. Seagulls screamed overhead.
 
 "So who are we looking for?" Elena asked.
 
@@ -140,7 +140,7 @@ The coin changed hands. Jonah went up the gangplank without looking back.
 
 "He's running," Elena said. Her voice was flat. Not impressed. Not sympathetic. Flat, the way she sounded when she recognized something she didn't like. "A prophet. Running from God."
 
-"To be fair," Jordan said, "Nineveh was terrifying. The Assyrians were — I mean, we're talking about an empire that impaled people on stakes outside their cities as a warning. Going there to tell them God was angry would be like walking into a lions' den."
+"To be fair," Jordan said, "Nineveh was terrifying. The Assyrians were — I mean, we're talking about an empire that executed people outside their cities as a warning. Going there to tell them God was angry would be like walking into a lions' den."
 
 "We've done that," Elena said. "Well, sort of."
 
@@ -150,7 +150,7 @@ Eli looked at him. There was something in Jordan's voice — not admiration. Rec
 
 "Come on," Elena said. "We need to get on that ship."
 
-Getting aboard was easier than it should have been. A load of cargo was being hauled up the gangplank, and the three kids slipped in behind a stack of amphorae carried by two grunting dockworkers. Nobody stopped them. Nobody looked twice.
+Getting aboard was easier than it should have been. A load of cargo was being hauled up the gangplank, and the three kids slipped in behind a stack of large clay jars carried by two grunting dockworkers. Nobody stopped them. Nobody looked twice.
 
 The ship was called the *Tarshish Star*, or something close to it — the name was painted on the hull in faded Phoenician script. Below deck, the cargo hold was dark and close and smelled like olive oil and cedar. Ropes coiled in thick piles. Sacks of grain leaned against the hull like tired soldiers.
 
@@ -180,7 +180,7 @@ It was here. Already waiting.
 
 *From the journal of Professor Hector Castillo:*
 *October 22, 2015 — Mediterranean Sea, aboard the research vessel Calypso*
-*Caught in a storm off Cyprus today. Nothing record-breaking, but enough to remind me that the sea doesn't care about schedules or credentials. The ancient sailors had no weather radar, no engine to run to shelter, no coast guard. When a storm came, you either survived it or you didn't. Imagine being a Phoenician merchant — superstitious, practical, fearful of the gods — watching the sky turn black for no natural reason. You wouldn't think "low-pressure system." You'd think "someone on this ship made the gods angry." And you'd start looking around.*
+*Caught in a storm off Cyprus today. The ancient sailors had no radar, no engines, no coast guard. Imagine watching the sky turn black for no reason. You wouldn't think "bad weather." You'd think "someone on this ship made the gods angry." And you'd start looking around.*
 
 ---
 
@@ -192,7 +192,7 @@ Eli had been watching the horizon through a gap in the hull planks — a thin st
 
 Elena pulled her tunic tighter around her shoulders. "I'm freezing."
 
-Above them, on deck, the first shout came. Then another. The ship tilted hard to port, and everything in the cargo hold slid sideways — grain sacks, amphorae, coils of rope. Eli grabbed Elena's arm and braced against the hull. Jonah, still wedged between the sacks, didn't move. His eyes were shut, his jaw locked.
+Above them, on deck, the first shout came. Then another. The ship tilted hard to port, and everything in the cargo hold slid sideways — grain sacks, large clay jars, coils of rope. Eli grabbed Elena's arm and braced against the hull. Jonah, still wedged between the sacks, didn't move. His eyes were shut, his jaw locked.
 
 The wind hit like a wall.
 
@@ -258,7 +258,7 @@ Then they picked Jonah up and threw him into the sea.
 
 *From the journal of Professor Hector Castillo:*
 *April 9, 2018 — Jaffa, my hotel room*
-*Children ask me about the whale. Always the whale. "Was it a whale? How could someone survive inside a whale?" They miss the point. The entire Book of Jonah is four chapters long, and three of them happen AFTER the fish spits Jonah out. The fish isn't the story. It's the interruption. The pause between running and obeying. What interests me is what happened in the dark — when a man who'd run from God had nothing left but a prayer and the smell of the sea.*
+*Kids always ask about the whale. They miss the point. Three of the four chapters happen AFTER the fish spits Jonah out. The fish isn't the story — it's the pause between running and obeying. What interests me is what happened in the dark, when a man had nothing left but a prayer.*
 
 ---
 
@@ -276,7 +276,7 @@ Eli felt it first — a vibration through the hull, deep and slow, like the hear
 
 The sailors backed away from the rails.
 
-The fish — because it was a fish, or something close enough — broke the surface sixty yards from the ship. Eli's brain tried to process what he was seeing and failed. It wasn't a whale, not exactly. It was a mouth. An opening in the water the size of a garage door, ringed with something that might have been teeth or might have been baleen, dark and slick and moving.
+The fish — because it was a fish, or something close enough — broke the surface sixty yards from the ship. Eli's brain tried to process what he was seeing and failed. It wasn't a whale, not exactly. It was a mouth. An opening in the water the size of a garage door, ringed with something that might have been teeth or might have been baleen — the bristly plates some whales use to filter food — dark and slick and moving.
 
 Jonah was in the water, twenty yards from the mouth. He wasn't swimming. He wasn't struggling. He floated, face-up, and watched the shadow come.
 
@@ -308,7 +308,9 @@ Eli's eyes adjusted. Not to light — there was no light. But the darkness becam
 
 "Try not to think about it."
 
-"I AM STANDING INSIDE A FISH, ELI. I CAN'T NOT THINK ABOUT IT."
+"I AM STANDING INSIDE A FISH, ELI. I CAN'T NOT THINK ABOUT IT." She gagged. "And it SMELLS like — I don't even have words for what it smells like. It smells like the ocean ate a garbage dump and then burped."
+
+"That's... vivid," Jordan said weakly.
 
 A sound reached them. Not from outside — from further in, deeper in the dark interior of the creature. A voice. Ragged, broken, barely audible over the wet rhythm of the fish's breathing.
 
@@ -366,33 +368,17 @@ East. Toward Nineveh.
 
 *From the journal of Professor Hector Castillo:*
 *November 3, 2017 — Mosul, Iraq (ancient Nineveh)*
-*Walked the ruins of the Adad Gate today with Dr. Haddad. The scale of ancient Nineveh is staggering — the walls enclosed an area of nearly 1,800 acres. At its peak, the population may have reached 120,000. Imagine a city that size — in the ancient world, it was a metropolis. Now imagine a single man walking through those gates to deliver a message he didn't want to deliver. The text says Jonah was angry. Not scared. Angry. He went to Nineveh, but he didn't want them to be saved. He wanted them to burn. That's the part of this story nobody talks about in Sunday School.*
+*Walked the ruins of the Adad Gate today. The walls enclosed almost 1,800 acres — in the ancient world, a massive city. Imagine a single man walking through those gates to deliver a message he didn't want to deliver. Jonah wasn't scared. He was angry. He didn't want them to be saved. That's the part nobody talks about in Sunday School.*
 
 ---
 
-Jonah walked east. The kids followed.
+Jonah walked east. The kids followed. Days blurred past — the Pathfinder compressed time the way it always did — and the landscape shifted from green coast to brown inland. Jonah never spoke. He walked like a man marching to his own execution, jaw rigid, eyes burning with fury.
 
-It was a long walk. Days, probably, though the Pathfinder compressed time the way it always did — stretches passing in blurs, key moments snapping into sharp focus. The landscape shifted from coastal to inland, green giving way to brown, the sea smell replaced by dust and dry wind.
+"He's furious," Elena said. "He just got rescued from inside a fish and he's *mad* about it?"
 
-Jonah didn't speak. Not to them — he didn't seem aware of them at all. Not to anyone they passed on the road. He walked like a man marching to his own execution, one foot in front of the other, his jaw set in a line so rigid it could have been carved from stone.
+"He's obeying," Eli said. "But only because the alternative was worse."
 
-But his eyes gave him away. They burned.
-
-"He's furious," Elena said. They were walking a hundred yards behind Jonah on a road that cut through scrubby hills. "I thought he'd be — I don't know — grateful? He just got rescued from inside a fish."
-
-"He's obeying," Eli said. "But he's not doing it because he wants to."
-
-"Then why is he doing it?"
-
-"Because he doesn't have a choice anymore. God told him to go. He ran. He got swallowed by a fish. Now he's going. But he's not going with a willing heart. He's going because the alternative was worse."
-
-Jordan was quiet for a while, walking with his arms folded, watching Jonah's stiff back recede down the road. "I get it," he said finally.
-
-Elena shot him a look. "You get being mad at God?"
-
-"I get doing something you don't want to do because you're out of options. That's not obedience. That's just... giving up on the other thing."
-
-He said it casually, like it was an observation about the weather. But Eli heard the weight underneath it. Jordan understood running. He understood being backed into a corner. He'd been backed into one the day his dad left.
+Jordan walked with his arms folded. "I get it," he said quietly. "Doing something you don't want to do because you're out of options. That's not obedience. That's just giving up on the other thing."
 
 Nineveh appeared on the horizon like a bruise.
 
@@ -438,7 +424,7 @@ The words hung in the air. Elena stared at Eli. Jordan stared at Eli. And the Fa
 
 *From the journal of Professor Hector Castillo:*
 *November 5, 2017 — Mosul*
-*Dr. Haddad and I spent all day discussing what a genuine, citywide repentance would have looked like. Not ritual compliance. Not political theater. Real change — 120,000 people hearing a five-word message from an angry foreigner and believing it. That's not normal. That doesn't happen. In the entire Biblical narrative, Nineveh's repentance is the largest recorded turning of human hearts in a single event. And it happened to the last people anyone — especially Jonah — expected to repent. I think that's the point.*
+*What does it look like when an entire city actually changes? Not pretending — really changing. 120,000 people hearing a five-word message from an angry stranger and believing it. That doesn't happen. But it did, to the last people anyone expected. I think that's the point.*
 
 ---
 
@@ -448,7 +434,7 @@ One man. One message. Five words. No credentials, no army, no miracles. Just a s
 
 It shouldn't have worked. But it did.
 
-The change started small. A merchant in the market square heard Jonah's words and stopped selling. He sat down on a pile of unsold cloth, put his head in his hands, and wept. A woman carrying water set her jar on the ground and knelt. A soldier — young, broad-shouldered, the kind of man who'd been trained to fear nothing — heard the words and his spear slipped from his fingers and clattered on the stones.
+The change started small. A merchant in the market square heard Jonah's words and stopped selling. He sat down on a pile of unsold cloth, put his head in his hands, and wept. A woman carrying water set her jar on the ground and knelt, tears streaming silently down her face.
 
 The kids watched from the shadow of a grain warehouse near the main boulevard. The scene unfolded like a ripple spreading through still water.
 
@@ -458,7 +444,7 @@ Eli didn't know. It shouldn't have been possible. These were Assyrians — a peo
 
 But they were listening.
 
-Within hours, the ripple became a wave. Shops closed. Markets emptied. People poured into the streets, not in panic but in something quieter and more powerful — conviction. They tore their fine clothing and put on rough sackcloth. They sat in ashes. Rich men, poor men, soldiers, merchants, mothers, children. The sound of weeping filled the city like a tide.
+Within hours, the ripple became a wave. Shops closed. Markets emptied. People poured into the streets, not in panic but in something quieter and more powerful — conviction. They tore their fine clothing and put on sackcloth — rough, scratchy cloth that people wore when they were mourning. They sat in ashes. Rich men, poor men, soldiers, merchants, mothers, children. The sound of weeping filled the city like a tide.
 
 "This is real," Jordan said. He stood very still, watching a group of Assyrian officers — hard men, scarred men, men who'd seen and done terrible things — kneel in the dust of the main street and cover their heads. "This isn't pretend. They actually believe him."
 
@@ -500,7 +486,7 @@ God relented.
 
 *From the journal of Professor Hector Castillo:*
 *November 6, 2017 — Mosul*
-*I cannot stop thinking about Jonah chapter 4. The fish gets all the attention, but chapter 4 is where the real story lives. God saves 120,000 people and Jonah is FURIOUS. Not disappointed. Not confused. Furious. "I knew it," he says. "I knew You were gracious and merciful, slow to anger and abounding in steadfast love." He throws God's own attributes back at Him like an accusation. Jonah wanted Nineveh destroyed. He wanted to be right more than he wanted them to live. That's the darkest moment in the book — darker than the storm, darker than the fish. A prophet of God who is angry that God showed mercy.*
+*God saves 120,000 people and Jonah is furious. "I knew it," he says. "I knew You were kind and merciful." He throws God's own goodness back at Him like it's an insult. Jonah wanted them destroyed. He wanted to be right more than he wanted them to live. That's the darkest moment in the whole book.*
 
 ---
 
@@ -548,21 +534,9 @@ On the hillside, Jonah suddenly threw his head back and shouted at the sky. Not 
 
 The silence that followed was immense.
 
-Then something grew. Right beside Jonah, out of the dry, rocky soil, a plant rose up — impossibly fast, its broad leaves unfurling like green hands opening. In minutes it was taller than Jonah, spreading a canopy of shade over his head that cut the brutal sun and cooled the air around him.
+Then something grew. Right beside Jonah, a plant shot up out of the rocky soil — impossibly fast, broad leaves unfurling, spreading shade over his head. Jonah leaned back against the stem and closed his eyes. For the first time since the fish, something in his face relaxed.
 
-Jonah's fury didn't disappear, but it eased. His shoulders dropped a fraction. He leaned back against the stem of the vine and closed his eyes. For the first time since the fish, something in his face relaxed.
-
-"That's weird," Elena said. "A plant doesn't grow like that."
-
-"Nothing about this story is normal," Jordan said.
-
-They waited. Night came. Jonah slept under the vine's shade, and the kids huddled nearby, watching the stars wheel overhead, feeling the Fade's cold presence at the edges of the dark.
-
-Dawn came hot and orange.
-
-And with it, a worm. Small. Ordinary. It crawled up the stem of the vine in the grey light before sunrise and chewed. By the time the sun cleared the horizon, the vine was dead — its leaves brown and curled, its shade gone. The scorching east wind came with the sun, dry and relentless, and the heat hammered the hillside like a furnace door thrown open.
-
-Jonah woke to the sun full on his face, the vine collapsed beside him, and the full weight of the heat pressing down. His fury returned — doubled, tripled. He put his face in his hands and groaned. "Let me die. I'm angry enough to die."
+But overnight, a worm chewed through the stem. By dawn, the vine was dead — leaves brown and curled, shade gone. The sun hammered the hillside. Jonah woke with the full heat pressing down on him, the vine collapsed beside him, and his fury came back worse than before. He put his face in his hands. "Let me die. I'm angry enough to die."
 
 And God spoke.
 
@@ -592,7 +566,7 @@ The Fade was still there. Still pressing. Still whispering *they don't deserve i
 
 *From the journal of Professor Hector Castillo:*
 *April 10, 2018 — Joppa harbor, early morning*
-*I went back to the harbor this morning. Stood in the same spot where Jonah would have boarded his ship. It occurred to me that this is where the story starts — not Nineveh, not the fish, not the hill where Jonah sulked. Here. The harbor where a man made a choice to run. Every second chance in history started with someone recognizing that they were going the wrong way. The coin Jonah paid wasn't the fare to Tarshish. It was the price of running. And the beautiful, terrible thing about God is that He meets you at the place you ran FROM, not just the place you ran TO.*
+*Went back to the harbor this morning. This is where the story really starts — the place where Jonah chose to run. Every second chance starts with someone realizing they're going the wrong way. The beautiful, terrible thing about God is that He meets you at the place you ran from.*
 
 ---
 
@@ -614,7 +588,7 @@ Eli recognized it immediately — the same quay where they'd arrived, the same b
 
 Eli was quiet. The hum in his chest was doing something new — pulsing, like a heartbeat, getting stronger with each beat. Not the warning hum of the Fade. Not the steady resonance of the Pathfinder in neutral. This was the signal. The one that meant the relic was close.
 
-He walked along the quay, following the pulse. Past the empty mooring posts. Past the stone bollards where ropes had been tied. Past the spot where they'd watched Jonah push through the crowd, clutching his satchel, eyes wild with the need to escape.
+He walked along the quay, following the pulse. Past the empty mooring posts. Past the thick wooden posts along the dock where ropes had been tied. Past the spot where they'd watched Jonah push through the crowd, clutching his satchel, eyes wild with the need to escape.
 
 There.
 
@@ -660,7 +634,7 @@ They went home.
 
 *From the journal of Professor Hector Castillo:*
 *December 18, 2022 — Home, evening*
-*Eight. The kids have secured eight relics. The Pathfinder is changing — I can hear it from the next room now. The chord is growing fuller, more complex. Sometimes at night I think I can almost catch the melody it's building toward, but it slips away like a dream you can't hold on to. Something else is changing too. The thing I documented for years — the erasure, the dimming — is growing bolder. It used to work at the edges. Now it's pushing toward the center. I've spent fifty years studying the artifacts of faith. These three children are living it. I can give them my notes. I can give them context. But I cannot give them what they need most: the willingness to keep walking into the dark. That, they already have.*
+*Eight relics. The Pathfinder's chord is growing fuller — I can hear it from the next room now. And the thing I've documented for years, the dimming, is growing bolder. It used to work at the edges. Now it's pushing toward the center. I can give these kids my notes. But I can't give them the willingness to keep walking into the dark. That, they already have.*
 
 ---
 
@@ -702,21 +676,17 @@ Abuelo lowered himself into his chair. He rubbed the smooth stone in his pocket 
 
 The room was quiet. The Pathfinder hummed its eight-note chord. Outside, the wind chimes clinked their tuneless, patient song.
 
-"The Fade was different this time," Eli said. "Stronger. More specific. It wasn't just fog and cold. It was an argument. A really good one."
+"The Fade was different this time," Eli said. "It wasn't fog. It was an argument. 'They don't deserve mercy.' And the scary part is — the Assyrians really were terrible. Jonah wasn't wrong about that."
 
-Abuelo nodded slowly. "As the relics accumulate, the opposition will sharpen. Fog is easy to ignore. A reasonable argument is much harder to resist."
+"He wasn't wrong about their past," Abuelo said. "He was wrong about their future. The Fade doesn't need to invent evil. It just needs to convince you that evil is the whole story."
 
-"'They don't deserve mercy,'" Eli said. "That's what it felt like. And the thing is — the Assyrians really were terrible. Jonah wasn't wrong about what they'd done."
-
-"No. He wasn't wrong about their past. He was wrong about their future." Abuelo's eyes found Eli's. "The most dangerous lies are the ones built on true foundations. The Fade doesn't need to invent evil. It just needs to convince you that evil is the whole story. That people can't change. That mercy is weakness."
-
-Jordan hadn't moved. He stood at the edge of the desk, fingers still resting near the Pathfinder, and when he spoke, his voice was quiet. Not sarcastic. Not guarded. Just quiet.
+Jordan's voice came quiet from the edge of the desk. Not sarcastic. Not guarded. Just quiet.
 
 "He ran," Jordan said. "Jonah. He ran from something he was called to do because he wasn't sure it was worth doing. He went the other direction. And then... he turned around. Not because he wanted to. Because he ran out of road."
 
 Nobody answered. The room waited.
 
-"I've been thinking," Jordan said. "About all of this. The seven — no, eight now — trips into the past. The things we've seen." He pushed his glasses up his nose — the gesture he made when he was about to say something that mattered. "I keep telling myself there's an explanation. Hallucination. Technology we don't understand. Some kind of shared psychotic episode."
+"I've been thinking," Jordan said. "About all of this. The seven — no, eight now — trips into the past. The things we've seen." He pushed his glasses up his nose — the gesture he made when he was about to say something that mattered. "I keep telling myself there's an explanation. Hallucination. Technology we don't understand. Some kind of group hallucination."
 
 "Flattering," Elena muttered.
 
@@ -752,25 +722,13 @@ Elena stood and walked to the Pathfinder. She counted the symbols, touching each
 
 "A cornered animal is more dangerous than a hunting one, mija. But it's also closer to being defeated."
 
-Eli looked at the Pathfinder. Eight symbols glowing. The chord humming in his chest, in the room, in the walls of Abuelo's old house with its maps and artifacts and years of faithful searching. Something was building. He could feel it — a shape forming in the pattern of the relics, a story being told one chapter at a time, and they were past the middle now, heading toward something he couldn't see yet but could feel approaching like weather on the horizon.
+"Abuelo," Eli said. "How long has the Fade been doing this?"
 
-"Abuelo," he said. "You said you documented the Fade's effects for years. In your fieldwork."
+"Longer than I've been alive," Abuelo said quietly. "The erosion is ancient. The remembering is what's new."
 
-"I did."
+Three kids with a bronze disc, pushing back against something ancient. Eli let that settle.
 
-"How long has it been doing this? Erasing things?"
-
-Abuelo was quiet for a long time. The wind chimes sang. The Pathfinder hummed. Somewhere down the street, a dog barked twice and went silent.
-
-"Longer than I've been alive," Abuelo said. "Longer than anyone alive. The erosion is ancient, Eli. The remembering is what's new."
-
-Eli felt that settle into him — heavy, important, true. The Fade had been working for a long, long time. And three kids with a bronze disc were the ones pushing back.
-
-He looked at Jordan, who was staring at the Pathfinder with an expression that was no longer skepticism. It wasn't faith either — not yet, not quite. It was something in between. The look of a person standing at a door they hadn't decided to walk through, but who had stopped pretending the door wasn't there.
-
-*Maybe we're supposed to notice.*
-
-Jordan caught him looking and shrugged — the old defensive gesture, the armor going back up. But his eyes didn't quite match the shrug. They were wider than usual. Softer.
+Jordan caught him looking and shrugged — the old defensive gesture. But his eyes didn't match the shrug. They were wider than usual. Softer.
 
 "So," Jordan said, his voice carefully casual. "Four more trips into ancient history with a magic bronze plate. Cool. I'm definitely not losing my mind."
 
@@ -786,17 +744,7 @@ Jordan blinked. For half a second, his mouth twitched toward something that migh
 
 Abuelo smiled. "I would like that very much."
 
-They filed out of the study, and the Pathfinder sat alone on its leather cloth, humming its eight-note chord into the empty room. The late afternoon light moved slowly across the maps and journals and artifacts, touching each one, moving on. The eighth symbol pulsed — a small bronze coin, perfect and permanent, a monument to the truth that second chances begin at the place where you stop running.
-
-Four symbols waited, rough and faded in the bronze.
-
-The melody was growing. The Fade was sharpening.
-
-And somewhere in the space between doubt and faith, Jordan Park had said a thing he didn't fully understand yet — a thing that sounded, for the first time, like it might have come from the inside rather than the outside.
-
-*Maybe we're supposed to notice.*
-
-The Pathfinder hummed, patient as a prayer, and waited for the next adventure.
+They filed out of the study. The Pathfinder sat alone, humming its eight-note chord. Four symbols waited, rough and faded in the bronze.
 
 Eli paused at the door. A journal lay open on the side table — one he hadn't noticed before, turned to a page covered in Abuelo's tight pencil work. A sketch of wheat stalks, heavy with grain, bent low over a woman kneeling in a field. In the margin, circled twice in fading ink: *Ruth 2. Bethlehem. Gleaning. A woman who stayed when she had every reason to leave.*
 

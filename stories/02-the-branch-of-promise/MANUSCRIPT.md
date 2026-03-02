@@ -9,8 +9,8 @@
 ## Chapter 1: Abuelo's Second Entry
 
 *From the journal of Professor Hector Castillo:*
-*April 17, 2018 — Doğubayazıt, Turkey, 14 km southwest of Mount Ararat*
-*Everyone on this expedition thinks I'm chasing ghosts. Dr. Yılmaz told me over tea this morning — politely, the way academics do when they think you've lost your grip — that the geological surveys show nothing. No anomalous timber deposits. No organic remains above the treeline. "Professor Castillo," she said, "the mountain has been studied for two hundred years. There is nothing up there." I smiled and drank my tea. I've spent my career looking for things everyone says don't exist. Sometimes I wonder if that's the whole point — not finding the thing, but being faithful enough to keep looking.*
+*April 17, 2018 — Near Mount Ararat, Turkey*
+*Everyone on this expedition thinks I'm chasing ghosts. The other scientists say there's nothing on this mountain. "It's been studied for two hundred years," they tell me. "There is nothing up there." I smiled and drank my tea. I've spent my career looking for things everyone says don't exist. Sometimes I wonder if that's the whole point — not finding the thing, but being faithful enough to keep looking.*
 
 ---
 
@@ -72,7 +72,7 @@ The light swallowed the room.
 
 *From the journal of Professor Hector Castillo:*
 *April 19, 2018 — Base camp, Mount Ararat region*
-*The locals tell stories. They always do — every culture near this mountain has flood narratives, and they all converge on the same bones: a righteous man, a warning no one believed, water that swallowed the world. I've heard scholars dismiss these as myth borrowing. But I've sat in enough villages, in enough countries, to wonder if maybe the borrowing goes the other direction. Maybe the story is older than any of us want to admit. Maybe a man really did build a boat in the middle of dry land, and everyone who watched him thought he'd lost his mind.*
+*The locals near this mountain all tell flood stories — a good man, a warning no one believed, water that swallowed the world. Some people say these stories borrowed from each other. But maybe the story is just that old. Maybe a man really did build a boat in the middle of dry land, and everyone who watched him thought he'd lost his mind.*
 
 ---
 
@@ -102,7 +102,7 @@ They followed the sound around the hill, and when the road opened up, all three 
 
 The Ark was enormous.
 
-Not big. Not large. *Enormous* — the way a mountain is enormous, the way something can be so far beyond the expected scale that your brain refuses to process it and just goes quiet. It sat in a clearing that must have been hacked from the surrounding forest over months or years. The hull was half-finished, its ribs rising from a massive keel like the skeleton of something prehistoric. Timber beams thicker than Eli's whole body were stacked in rows nearby, and the smell of cut wood and pitch filled the clearing like a fog.
+Not big. Not large. *Enormous* — the way a mountain is enormous, the way something can be so far beyond the expected scale that your brain refuses to process it and just goes quiet. It sat in a clearing that must have been hacked from the surrounding forest over months or years. The hull was half-finished, its ribs rising from a massive keel like the skeleton of something prehistoric. Timber beams thicker than Eli's whole body were stacked in rows nearby, and the smell of cut wood and pitch — a thick, dark tar that kept water out — filled the clearing like a fog.
 
 Men worked along the scaffolding — five, maybe six, hauling beams, driving pegs, smearing dark pitch along the seams with long brushes. They worked without speaking. Their faces were set, their movements efficient and grim, like people performing a task they'd committed to long ago and would not stop now regardless of what anyone thought.
 
@@ -134,7 +134,7 @@ And in the hard blue sky above them, not a single cloud moved.
 
 *From the journal of Professor Hector Castillo:*
 *April 21, 2018 — Base camp, Mount Ararat region*
-*Dr. Yılmaz asked me at dinner why I keep searching. Not unkindly — genuine curiosity. "What if you never find anything?" she said. I told her that the searching was the thing. She didn't understand, and I don't blame her. It's hard to explain what it feels like to believe something no one around you believes. Not persecuted. Not dramatic. Just... alone with a conviction, year after year, while polite people smile and change the subject. I think I understand Noah better than most archaeologists would admit.*
+*Someone asked me at dinner why I keep searching when I never find anything. I told her the searching was the thing. It's hard to explain what it feels like to believe something no one around you believes — not dramatic, just... alone. Year after year. I think I understand Noah better than most people would admit.*
 
 ---
 
@@ -224,7 +224,7 @@ Then Noah picked up the mallet again and drove the next peg home.
 
 *From the journal of Professor Hector Castillo:*
 *April 22, 2018 — Base camp, Mount Ararat region*
-*I dreamed about the animals last night. Genesis says they came to Noah — he didn't go out and catch them. They simply arrived. Two by two. Every species. Walking, flying, crawling out of the forests and fields and skies and presenting themselves at the door of a boat that wasn't in any water. I keep trying to imagine what the neighbors thought when that started. You can laugh at a man building a boat in dry land. But when the animals start showing up on their own, the laughter gets harder to hold.*
+*I dreamed about the animals last night. The Bible says they came to Noah on their own — he didn't go out and catch them. Two by two, every kind, just walking up to a boat that wasn't even in any water. You can laugh at a man building a boat on dry land. But when the animals start showing up on their own, the laughter gets harder to hold.*
 
 ---
 
@@ -296,7 +296,7 @@ The first drop of rain hit the hull like a fist.
 
 *From the journal of Professor Hector Castillo:*
 *October 3, 2019 — Home office, late*
-*I had a nightmare about water. Not the ocean — I've sailed the Mediterranean a dozen times without anxiety. This was different. Water with no horizon. Water with no bottom. Water that had swallowed every landmark and every reference point until there was nothing left to navigate by. I woke up gasping and lay in the dark thinking about what it must have been like inside that Ark. Not the spectacle — the claustrophobia. The not knowing. Trapped in a floating box, blind and deaf to everything outside, with no idea how long it would last or what would be left when it ended. That's not adventure. That's endurance.*
+*I had a nightmare about water — not the ocean, but water with no end and no horizon. I lay in the dark thinking about what it must have been like inside the Ark — not the adventure, but the not-knowing. Trapped in a floating box with no idea how long it would last or what would be left when it ended. That's not adventure. That's endurance.*
 
 ---
 
@@ -326,7 +326,7 @@ But Noah's wife sat in the family's quarters near the stern, her hands in her la
 
 The wrongness pressed in.
 
-Elena shivered violently and wrapped her arms around herself. The cold was back — deep, soaking cold that had nothing to do with temperature. Jordan's eyes narrowed and he rubbed them hard, blinking against something only he could see. Eli felt the hum in his chest tighten and twist, a note going sour.
+It came differently this time. Not as cold or blurred vision but as a creeping doubt — a voice in the back of Eli's mind that said *this boat is too small, the water is too deep, no one is coming.* Elena went quiet, which was worse than shivering. Jordan's hands clenched and unclenched at his sides, as if he was trying to hold onto something that kept slipping away.
 
 The lamps dimmed. Not all at once — slowly, as if something was leaning on the flames, pressing them lower. Shadows deepened. The creaking of the hull grew louder, more insistent, each groan sounding less like the flexing of strong timber and more like the complaint of something about to break.
 
@@ -358,31 +358,31 @@ Outside, the rain kept falling. And falling. And falling.
 
 *From the journal of Professor Hector Castillo:*
 *October 8, 2019 — Home office*
-*The text says forty days and forty nights. But after the rain stopped, the water remained for months. The Ark floated for nearly a year. A YEAR. I've spent months at dig sites, far from home, doing repetitive work in uncomfortable conditions. It wears on you. The boredom is worse than the hardship. You start talking to yourself, questioning your choices, wondering if anyone back home even remembers what you're doing out here. Now imagine that, but on a boat. With your whole family. And no one to call. And no way of knowing when — or whether — it ends. The patience required is almost unthinkable. Not the patience of waiting for a bus. The patience of planting a tree you might never sit under.*
+*The rain lasted forty days and nights, but the Ark floated for nearly a YEAR. Imagine being stuck on a boat for a year with no way of knowing when it ends. The boredom would be worse than the danger. That kind of patience isn't waiting for a bus. It's planting a tree you might never sit under.*
 
 ---
 
-Days blurred into each other in the belly of the Ark.
+Days blurred into each other in the belly of the Ark. The rain stopped eventually — one morning Eli woke and realized the hammering was gone. The silence was almost worse. At least the rain had been something to count.
 
-The rain stopped eventually — Eli wasn't sure when, because inside the hull, every sound was filtered through timber and pitch and the constant low murmur of animals. One morning he woke and realized the hammering was gone. The silence it left behind was almost worse. At least the rain had been a marker — something happening, something to count. Without it, there was only the slow roll of the Ark on water that went everywhere and nowhere.
+The kids found their routine. Elena threw herself into work — feeding animals, hauling water, mucking stalls. She discovered she had a gift for calming the larger animals. A nervous horse that wouldn't let anyone near it would settle under her hand, and Japheth's wife started coming to find her whenever an animal was spooked. Elena needed to be needed. Sitting still in the dark made her twitchy and sharp-tongued.
 
-The kids found their routine. Elena threw herself into work — feeding animals, hauling water from the collection barrels, mucking stalls with a determination that bordered on fury. She needed to move. She needed her hands busy. Sitting still in the dark made her twitchy and sharp-tongued, and more than once Eli heard her snap at Jordan before catching herself and apologizing with a frustrated growl.
+Jordan helped with the animals too — he turned out to be surprisingly good with them, his careful movements and quiet voice calming the nervous ones faster than anyone else. A pair of small brown goats took to following him through the corridors, their hooves clicking on the timber behind him like a tiny escort.
 
-Eli helped where he could, but he spent most of his time watching. Watching Noah's family. Watching how they moved through the days — methodical, steady, the rhythm of people who had turned survival into a practice. Shem kept the animals fed. Ham managed the stores. Japheth maintained the hull, checking seams and applying fresh pitch where the water found its way in. Noah oversaw everything with quiet authority, but he looked older every day, as if the waiting was aging him faster than the work.
+"They're doing it again," Jordan said one morning, trying to shoo them away. One of the goats butted its head against his knee. The other one chewed on the hem of his tunic.
 
-Jordan drifted. He helped with the animals — he turned out to be surprisingly good with them, his careful movements and quiet voice calming the nervous ones faster than anyone else. A pair of small brown goats took to following him through the corridors, their hooves clicking on the timber behind him like a tiny escort. He pretended to be annoyed. Eli noticed he always saved them the best hay.
+"They like you," Elena said, grinning.
+
+"They like *anyone* who gives them food. It's not personal."
+
+"You named them."
+
+"I did *not* name them."
+
+"I heard you call the little one Patches."
+
+Jordan's face went red. "That was a description, not a name. It has patches. I was being observational." The goat bleated and pressed closer to his leg. Jordan sighed and scratched behind its ears. "Fine. But the other one's name is Not My Problem."
 
 But when the work was done, Jordan retreated to a spot near the hull where a crack between two planks let in a thin line of grey light. He sat there for hours, staring at that sliver of the outside world, his face unreadable.
-
-One evening, as the three of them ate flatbread with Noah's family, Elena looked at the oil lamp swaying above them and said, "What day is it?"
-
-Nobody answered. Not the kids. Not Noah's sons. Not their wives.
-
-"It doesn't matter what day it is," Shem said finally. He said it gently, but his eyes were tired. "It's the day we're in. That's enough."
-
-Elena looked at Eli. He saw the question in her face — the one she wouldn't ask out loud, not here: *How long do we stay? How long until the relic shows itself?* He shook his head slightly. He didn't know.
-
-They waited. The Ark creaked and rolled. Water surrounded them — an ocean with no shore, a world with no landmarks. And somewhere above them, through layers of timber and pitch and darkness, the sky did whatever the sky did when no one could see it.
 
 It was on one of those quiet days — the fourteenth or the fortieth, Eli had lost count — that Jordan and Noah ended up alone together.
 
@@ -440,7 +440,7 @@ Eli leaned against the hull and felt the Ark roll beneath him — slow, patient,
 
 *From the journal of Professor Hector Castillo:*
 *October 14, 2019 — Home office*
-*The dove is always the image people remember. Sunday School felt boards. Christmas cards. A white bird with an olive branch. But I've been reading the text again, slowly, and what strikes me is the sequence. First the raven — sent out, never came back. Then the dove — sent out, came back with nothing. Then the dove again — and this time, the olive branch. That pattern matters. The first attempt failed. The second attempt failed. The third attempt bore fruit. How many of God's promises work that way? Not the first time. Not the second. But always, always eventually.*
+*Everyone remembers the dove with the olive branch. But look at the order: first the raven, which never came back. Then the dove, which came back with nothing. Then the dove again — and this time, the branch. The first try failed. The second try failed. The third try worked. How many of God's promises work like that? Not the first time, not the second, but always eventually.*
 
 ---
 
@@ -460,7 +460,7 @@ They waited.
 
 "It's not coming back," Jordan said after an hour.
 
-"No," Eli said. "It won't. The raven finds carrion. It doesn't need dry land."
+"No," Eli said. "It won't. The raven can eat dead things floating on the water. It doesn't need dry land."
 
 Noah seemed to know this too. He didn't watch the sky for the raven. Instead, he reached into a smaller cage and gently lifted out a dove.
 
@@ -504,11 +504,7 @@ Noah took the branch from the dove's beak. He held it in both hands and stared a
 
 "He remembered," Noah whispered. "He remembered us."
 
-Eli understood.
-
-Not the facts — he'd known the facts since Sunday School. The dove, the branch, the signal that the flood was over. He knew the story. But standing in the belly of the Ark, watching an old man hold a tiny branch and weep, Eli understood something deeper.
-
-The promise wasn't that the flood would end. The promise was that God *remembered*. In the dark, in the waiting, in the months of silence when the water covered everything and there was no sign and no voice and no proof — God remembered them. The branch wasn't a signal that the worst was over. It was evidence that they had never been forgotten.
+Noah held the branch, and tears ran into his beard, and Eli understood. Not because someone explained it. Because he was there. The branch meant God remembered them — even in the dark, even in the silence, even when it felt like the water would never end.
 
 "The relic," Jordan said. His voice was hoarse. "It's the branch."
 
@@ -528,7 +524,7 @@ Elena's hand found his arm. Jordan's shoulder pressed against his. The branch di
 
 *From the journal of Professor Hector Castillo:*
 *October 15, 2019 — Home office, sunrise*
-*I couldn't sleep after the flood dream. So I sat with the Pathfinder in the early light and thought about rainbows. The Hebrew word is qesheth — it also means a war bow. Some scholars think the image is God hanging His weapon in the sky, pointed away from the earth. A warrior putting down his bow. I've always found that beautiful and terrifying in equal measure. "I will remember My covenant." Not "you will remember." God is the one making the promise. God is the one who won't forget. The whole rainbow passage is God talking to Himself as much as to Noah. "I will see it and remember." As if the God of the universe needed a reminder. Or maybe the point is that He wanted one.*
+*I've been thinking about the rainbow. The Hebrew word for it also means a war bow — like God is hanging His weapon in the sky, putting it down after a battle. And the promise isn't "you will remember." It's "I will remember." God is the one making the promise. God is the one who won't forget. I find that both beautiful and terrifying.*
 
 ---
 
@@ -556,13 +552,19 @@ And the hum had changed. It wasn't one note anymore. It was two — the first, t
 
 "Two," Elena whispered. She traced the air above the symbols with her finger, not quite touching. "Two down. Ten to go."
 
-Jordan hadn't moved from the doorframe. He was staring at the Pathfinder with an expression Eli had never seen on his face before — not skeptical, not guarded, not hiding behind the dry humor and the crossed arms and the rubber band on his wrist. Open. Unguarded. The face of someone standing at the edge of something they couldn't explain and choosing not to look away.
+Jordan hadn't moved from the doorframe. He was staring at the Pathfinder, and for once, his arms weren't crossed.
 
-"He waited a year on that boat," Jordan said quietly. "A whole year. No signal. No proof. No guarantee it would ever end. Because he believed something he couldn't see."
+"He waited a year on that boat," Jordan said quietly. "A whole year. No signal. No proof. No guarantee it would ever end."
 
-Nobody said anything. The two notes hummed in the fading light.
+"And he was scared the whole time," Elena added. "That part got me. He wasn't, like, calmly sitting there knowing everything would be fine. He was terrified."
 
-Jordan pushed his glasses up. "I don't understand it," he said. "I don't understand how someone does that. But I watched him do it. I watched him sit there, afraid, every single day, and keep going anyway." He paused. Swallowed. "I'm not saying I believe what he believed. I'm saying — I don't think he was crazy."
+"But he kept going," Eli said.
+
+"He kept building stalls and feeding goats and checking the hull," Jordan said. "For a *year*." He paused. Pushed his glasses up. "I'm not saying I believe what he believed. I'm saying — I don't think he was crazy. Also, I miss Patches."
+
+Elena snorted. "You are *not* allowed to be sad about leaving imaginary ancient goats."
+
+"They were real goats. They were historically accurate goats. And Patches had great personal qualities."
 
 "He wasn't crazy," Elena said.
 

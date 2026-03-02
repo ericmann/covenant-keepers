@@ -10,7 +10,7 @@
 
 *From the journal of Professor Hector Castillo:*
 *April 9, 2017 — Mount Carmel, northern Israel*
-*The ridge was green today. That surprised me. I expected desert — bare rock, windswept nothing. But Carmel is lush, thick with oak and pine, and the Mediterranean glittered below like hammered bronze. Hard to reconcile this quiet, beautiful place with the story that happened here. One man. Four hundred and fifty opponents. A God who answered with fire. I climbed to the traditional site of the altar and sat there for an hour. The wind was warm. I kept thinking: Elijah was terrified. The text doesn't say that outright. But read between the lines — a man who ran for his life immediately after his greatest victory? That's not confidence. That's a man who spent everything he had on a single moment of faith and had nothing left.*
+*The ridge was green today — lush, thick with oak and pine. Hard to picture what happened here. One man against four hundred and fifty, and a God who answered with fire. I sat at the traditional site for an hour and kept thinking: Elijah was terrified — a man who ran for his life right after his greatest victory. That's someone who spent everything on one moment of faith.*
 
 ---
 
@@ -66,7 +66,7 @@ And then they were somewhere else entirely.
 
 *From the journal of Professor Hector Castillo:*
 *April 10, 2017 — Mukhraka, Mount Carmel*
-*The local Druze community maintains the traditional site of Elijah's confrontation. The view is staggering — you can see the Jezreel Valley, the hills of Galilee, the sea. It's a natural amphitheater. Whatever happened here happened in full view of the world. No privacy. No escape. The Carmelite monks built a small church at the summit, but under the stone floor there are older foundations. Much older. Some stones have burn marks that no one can explain. I spent the afternoon sketching them in my journal and pretending my hands weren't shaking.*
+*The view from here is staggering — valley, hills, sea. Whatever happened here happened in full view of the world. Under the church floor I found older foundations, much older. Some stones have burn marks that no one can explain. I sketched them and pretended my hands weren't shaking.*
 
 ---
 
@@ -100,7 +100,7 @@ Jordan was quiet. His eyes swept the crowds moving up the mountain. "And we're h
 
 A murmur moved through the crowd like a wave. People stopped walking. Heads turned toward a point further up the ridge where the road crested a small rise. Eli couldn't see what they were looking at yet, but he could feel the shift — a collective holding of breath, the way a room goes still when someone important walks in.
 
-Then a second murmur, louder, sharper. From the opposite direction — down the valley road — a procession was climbing. This one was organized. Soldiers in polished bronze flanked a line of figures in elaborate robes, their garments dyed deep purple and crimson. At the center of the procession, a golden litter carried a man with a thin crown and a face like a person who hadn't enjoyed anything in a very long time.
+Then a second murmur, louder, sharper. From the opposite direction — down the valley road — a procession was climbing. This one was organized. Soldiers in polished bronze flanked a line of figures in elaborate robes, their garments dyed deep purple and crimson. At the center of the procession, a golden litter — a chair carried on poles by servants — held a man with a thin crown and a face like a person who hadn't enjoyed anything in a very long time.
 
 "That's the king," Elena said.
 
@@ -148,7 +148,7 @@ Eli watched the last of them crest the ridge.
 
 *From the journal of Professor Hector Castillo:*
 *April 11, 2017 — Haifa, hotel room*
-*I keep rereading 1 Kings 18:21. Elijah's opening line to the crowd: "How long will you waver between two opinions?" The Hebrew word is "pasach" — it means to limp, to hobble, to hop back and forth. He's calling them crippled. Not because they chose wrong, but because they refused to choose at all. They were hedging their bets — a little Baal, a little Yahweh — and Elijah looked at them and said: Stop limping. Pick a side. The crowd's response? Silence. Not a single voice. That silence tells you everything about the state of their faith.*
+*Elijah's opening line: "How long will you hop back and forth between two sides?" He's calling them paralyzed — not because they chose wrong, but because they refused to choose at all. The crowd's answer? Silence. Not a single voice. That silence tells you everything.*
 
 ---
 
@@ -158,7 +158,7 @@ And at the other end, alone, stood a man.
 
 He was not what Eli expected.
 
-Elijah was lean to the point of gauntness. His face was burnt dark by years of sun. He wore a rough garment of animal hide belted with leather, and his hair was long, matted, and wild. He looked like a man who had been living in caves and eating whatever he could find — because he had.
+Elijah was lean, with a thin, hungry face. His face was burnt dark by years of sun. He wore a rough garment of animal hide belted with leather, and his hair was long, matted, and wild. He looked like a man who had been living in caves and eating whatever he could find — because he had.
 
 But his eyes. Eli noticed them from thirty paces away. Dark, burning, exhausted, and absolutely certain. They were the eyes of someone who had been afraid for a very long time and had decided to stop letting fear make his decisions.
 
@@ -222,7 +222,7 @@ And nothing happened.
 
 *From the journal of Professor Hector Castillo:*
 *October 22, 2018 — Home office, late*
-*The text says the prophets of Baal called on their god "from morning till noon." Hours. Not minutes. Hours of screaming at the sky and hearing nothing back. I've been in empty temples. I've stood in the ruins of pagan shrines where priests once cried out to gods of stone and wood. There is a specific kind of silence in those places. Not peaceful silence. Empty silence. The silence of a room where no one has ever been home. Elijah understood this. That's why his taunt wasn't cruel — it was diagnostic. He was pointing at the silence and saying: Do you hear it? That emptiness? That's your answer.*
+*Hours. They screamed for hours and heard nothing back. I've stood in the ruins of old temples and felt a specific kind of silence — not peaceful, just empty. The silence of a room where no one has ever been home. Elijah pointed at that silence and said: Do you hear it? That's your answer.*
 
 ---
 
@@ -234,7 +234,11 @@ Eli sat on a flat stone near the edge of the crowd, watching. Elena sat beside h
 
 The crowd was getting restless. The initial curiosity had burned off like morning fog. People shifted on their feet. Some sat down. A few at the back turned away, disappointed.
 
-"How long do we just sit here?" Elena asked. Stillness was always her enemy. She'd torn a piece of dried grass into strips and was shredding the strips into smaller strips.
+"How long do we just sit here?" Elena asked. Stillness was always her enemy. She'd torn a piece of dried grass into strips and was shredding the strips into smaller strips. She shifted positions for the fourth time in ten minutes, crossing her legs, uncrossing them, pulling at her tunic.
+
+Jordan watched her with the ghost of a smile. "You're like a human fidget spinner."
+
+"I'm *bored*, Jordan. I came here for fire from the sky and instead I'm watching a six-hour concert nobody asked for."
 
 "As long as it takes," Eli said. "The text says they did this from morning until noon. And then kept going."
 
@@ -302,7 +306,7 @@ Because it was his turn now.
 
 *From the journal of Professor Hector Castillo:*
 *April 12, 2017 — Mount Carmel, sunrise*
-*I came back at dawn to watch the light hit the summit. I wanted to understand the altar. The text is specific: Elijah used twelve stones, one for each tribe of Israel. Not ten for the northern kingdom. Not two for the south. Twelve. The full number. The undivided promise. In the middle of a kingdom torn in half, Elijah built an altar that said: God remembers all of you. Even the ones who forgot Him. Then he drenched it in water. Three times. In a drought. Water was more precious than gold, and he poured it over the sacrifice like it was nothing. Because either God would answer or He wouldn't. And if He would, the water didn't matter. And if He wouldn't — nothing else mattered either.*
+*Came back at dawn. Elijah used twelve stones — one for each tribe. Not ten for the north, not two for the south. Twelve. In the middle of a broken kingdom, he built an altar that said: God remembers all of you. Then he drenched it in water — three times, in a drought. Either God would answer or He wouldn't. If He would, the water didn't matter.*
 
 ---
 
@@ -346,7 +350,7 @@ Three times. The altar was drenched. Water filled the trench, glistening in the 
 
 "He just made it impossible," Jordan said. His voice was tight. "You can't light wet wood. You definitely can't light stone. What is he doing?"
 
-A woman near the front of the crowd was crying. Not from fear or faith — from the waste. Eli could see her face, sunburnt and cracked from the drought, watching twelve jars of precious water soak into a pile of stones. In three years without rain, that water could have kept a family alive for a week. Elijah had poured it out like it meant nothing.
+A woman near the front of the crowd was crying. Not from fear or faith — from the waste. Eli could see her face, sunburnt and cracked from the drought, watching four jars of precious water, poured three times over, soak into a pile of stones. In three years without rain, that water could have kept a family alive for a week. Elijah had poured it out like it meant nothing.
 
 *Because to him it didn't.* Either God would answer, and the water was irrelevant. Or God wouldn't, and nothing was enough. There was no middle ground. No hedge. No careful both-ways bet.
 
@@ -386,7 +390,7 @@ The prophet was going to pray.
 
 *From the journal of Professor Hector Castillo:*
 *April 12, 2017 — Mount Carmel, noon*
-*I counted the words of Elijah's prayer in Hebrew today. Sixty-three words. The prophets of Baal screamed for six hours. Elijah prayed sixty-three words. No ritual. No frenzy. No self-harm. Just a direct, simple, honest request: "Answer me, Lord, so these people will know that You are God, and that You are turning their hearts back again." That's it. Not a demand. Not a performance. A conversation. The contrast is the sermon. Everything you need to know about real prayer versus counterfeit worship is in the difference between six hours of screaming at nothing and sixty-three words spoken to Someone who is listening.*
+*I counted Elijah's prayer today. Sixty-three words. The other prophets screamed for six hours. Elijah spoke sixty-three quiet words to Someone who was listening. That contrast is the whole sermon.*
 
 ---
 
@@ -432,7 +436,7 @@ Not out loud — it couldn't speak. But Eli felt it. A soundless shriek, a convu
 
 And the crowd.
 
-Every person on the mountain was on the ground. Not kneeling — *fallen.* Face-down in the dirt, prostrate, the way you drop when you've been slapped by something so real it breaks every argument you've ever built against it. Their voices came in a ragged chorus, not organized, not rehearsed — raw and broken and honest:
+Every person on the mountain was on the ground. Not kneeling — *fallen.* Face-down on the ground, the way you drop when you've been hit by something so real it breaks every argument you've ever built against it. Their voices came in a ragged chorus, not organized, not rehearsed — raw and broken and honest:
 
 "The Lord — He is God. The Lord — He is God."
 
@@ -458,13 +462,13 @@ And in the center of the fire, where the altar had stood, something glowed.
 
 *From the journal of Professor Hector Castillo:*
 *April 13, 2017 — En route to airport*
-*I leave Carmel today, and I cannot stop thinking about what comes after the fire. The crowd falls on their faces. The prophets of Baal are dealt with. And then — then Elijah climbs to the top of the mountain and prays for rain. Seven times he sends his servant to look toward the sea. Six times: nothing. The seventh time: a cloud the size of a man's hand. After three years of drought. After fire from heaven. After the most dramatic display of God's power in recorded history — Elijah still has to pray seven times for rain and wait for a cloud the size of a fist. God's power is overwhelming. But His timing is still His own.*
+*After the fire, Elijah prays for rain. Seven times he sends his helper to look toward the sea. Six times: nothing. The seventh time: a cloud the size of a fist. After fire from heaven, he still has to wait. God's power is overwhelming, but His timing is still His own.*
 
 ---
 
 The fire dimmed but did not die.
 
-The white-gold blaze that had consumed the altar and everything on it had shrunk to a low, steady glow — a pool of heat and light where twelve stones and a soaked sacrifice had stood moments before. The ground around it was scorched black. The air smelled like ozone and hot metal and something older, something that didn't have a name.
+The white-gold blaze that had consumed the altar and everything on it had shrunk to a low, steady glow — a pool of heat and light where twelve stones and a soaked sacrifice had stood moments before. The ground around it was scorched black. The air smelled like ozone — that sharp, electric smell you get after a lightning strike — and hot metal and something older, something that didn't have a name.
 
 The crowd remained face-down. Some were weeping. Some were praying. Some were simply still, pressed against the earth like people holding on to the only solid thing left in a world that had just been turned inside out.
 
@@ -472,7 +476,7 @@ And then the grey crept back.
 
 Not the fog itself. Not the thick, rolling mist that drained color and muffled sound. Something subtler. Eli felt it first as a whisper in his own mind — not words, not a voice, but an impulse. A reframing.
 
-*Lightning. That was lightning. A freak strike from the upper atmosphere. It happens — dry lightning in drought conditions. There are documented cases. The water on the altar created a conductive surface. The altitude of Carmel, the thermal updrafts from the valley — it's unusual, but it's not impossible. It's not —*
+*It was just lightning. A freak storm. You've seen lightning before. The water on the altar — that just made it easier for lightning to hit. This mountain is tall. Lightning hits tall things. It's unusual, but it's not impossible. It's not —*
 
 "Stop," Eli said out loud.
 
@@ -480,7 +484,7 @@ Elena looked at him. "What?"
 
 "Can you feel it? The Fade — it's not gone. It's just — it changed."
 
-Jordan's face was tight. He was pressing his palms against his temples, squinting. "Something's — I keep thinking about atmospheric conditions. Electrical discharge patterns. I don't even know atmospheric science, and suddenly I'm an expert? That's not me. Something is feeding me explanations."
+Jordan's face was tight. He was pressing his palms against his temples, squinting. "Something's — I keep thinking 'it was just lightning, it was just a freak storm.' Over and over, like a voice in my head on repeat. That's not me. Something is feeding me explanations."
 
 "Coincidence," Elena said, but her voice was strange. She shook her head hard, like shaking off water. "No. No, that's it talking. It's trying to make me think it was just coincidence. Weather. Bad luck for the other side, good luck for ours."
 
@@ -500,7 +504,7 @@ It sat at the edge of the scorch mark, half-buried in ash and blackened earth. I
 
 Not with fire. With the warm amber light he'd seen six times before. The light of a relic.
 
-The Fade pressed harder. Eli felt the explanations crowding his mind — *volcanic rock, heat-resistant mineral, an optical illusion caused by thermal distortion* — rational, reasonable, relentless.
+The Fade pressed harder. Eli felt the explanations crowding his mind — *it's just a special kind of rock, it didn't really glow, your eyes are playing tricks* — rational, reasonable, relentless.
 
 He knelt beside the stone.
 
@@ -538,7 +542,7 @@ The world went white.
 
 *From the journal of Professor Hector Castillo:*
 *December 2, 2020 — Hospital room, afternoon*
-*The kids called today. Eli asked me something I wasn't ready for: "Abuelo, how do you stand up for something when you're the only one standing?" I told him I'd spent my whole career doing exactly that — defending research that my colleagues dismissed, chasing artifacts that other archaeologists said didn't exist. But that wasn't what he was asking. He wasn't asking about professional courage. He was asking about the kind of faith that has no backup plan. The kind where you pour water on the altar because either God shows up or nothing matters. I didn't have a good answer. I told him: "Mijo, I think that's the kind of courage you can't understand until you need it. And I think you're closer to needing it than you know." He was quiet for a long time after that.*
+*Eli asked me today: "Abuelo, how do you stand up for something when you're the only one standing?" He wasn't asking about professional courage. He was asking about the kind of faith that has no backup plan. I told him: "Mijo, that's the kind of courage you can't understand until you need it. And I think you're closer to needing it than you know." He was quiet for a long time.*
 
 ---
 
@@ -576,13 +580,13 @@ He turned the Pathfinder in his hands. The seven glowing symbols caught the ligh
 
 "But he didn't *know* that. Not the way we know it. We've read the story. Elijah was living it. He poured water on the altar because he was betting everything on a God he couldn't see. In front of everyone. Alone."
 
-Elena pulled herself up and sat on the edge of the desk next to him. She was quiet for a moment — Elena, quiet — and when she spoke, her voice was gentler than usual.
+Elena stood up. She planted her feet and looked straight at Eli, the way she looked at things she was absolutely sure about.
 
-"Eli. You keep saying you couldn't do what he did. But you already have."
+"Eli. You keep saying you couldn't do what he did." She jabbed a finger at him. "But you already have."
 
 He looked at her.
 
-"Every time you pick up the Pathfinder. Every time the Fade shows up and you stay anyway. Every time you walk into a story where you don't know what's going to happen and you can't control the outcome and you do it anyway because you believe it matters." She pointed at the seven glowing symbols. "That's your altar. You've been building it for seven adventures and you didn't even notice."
+"Every time you pick up the Pathfinder." She took a step closer. "Every time the Fade shows up and you stay anyway. Every time you walk into a story where you don't know what's going to happen and you do it anyway because you believe it matters." She swung her arm and pointed at the seven glowing symbols. "*That's* your altar. You've been building it for seven adventures and you didn't even notice."
 
 Eli stared at the Pathfinder. Seven symbols. Seven moments when God showed up and the Fade tried to erase it and three kids from the twenty-first century stood in the gap and said *no, we were there, we saw it, we remember.*
 

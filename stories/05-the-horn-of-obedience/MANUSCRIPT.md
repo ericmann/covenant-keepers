@@ -10,7 +10,7 @@
 
 *From the journal of Professor Hector Castillo:*
 *March 14, 2019 — Tell es-Sultan, Jericho*
-*The walls here are older than anyone wants to admit. Bronze Age, certainly, but the foundation stones feel earlier. I spent the morning arguing with Dr. Feldman about the acoustic properties of the tell — whether concentrated sound at specific frequencies could destabilize mudbrick construction. She thinks I'm reaching. Maybe I am. But I keep thinking about those trumpets. Seven priests. Seven days. Seven times on the seventh day. There's a precision to it that doesn't feel ceremonial. It feels engineered. Sometimes God's blueprints look like nonsense until the building is finished.*
+*The walls here are older than anyone wants to admit. I spent the morning arguing with Dr. Feldman about whether concentrated sound — how sound bounced off the walls — could crack mudbrick. Seven priests, seven days, seven times on the seventh day. Sometimes God's blueprints look like nonsense until the building is finished.*
 
 ---
 
@@ -68,7 +68,7 @@ Eli opened his eyes. The light was so bright he had to squint. His sneakers were
 
 *From the journal of Professor Hector Castillo:*
 *March 15, 2019 — Tell es-Sultan, Jericho*
-*I measured the foundation today. The original walls were double — an outer wall six feet thick, an inner wall twelve feet thick, with houses built across the gap on top. The whole structure rose five stories in some sections. Standing at the base looking up, the word that comes to mind isn't "fortification." It's "statement." These walls said: We are permanent. We are immovable. Nothing gets in. The people of Jericho had every reason to believe that was true. Walls like these had never fallen.*
+*I measured the foundation today. Double walls — the outer one six feet thick, the inner one twelve — and the whole thing rose five stories high. Standing at the base, I didn't think "fort." I thought "statement." These walls said: Nothing gets in.*
 
 ---
 
@@ -132,7 +132,7 @@ Elena turned to Eli. Her mouth was open. Her eyes were wide.
 
 *From the journal of Professor Hector Castillo:*
 *March 16, 2019 — Tell es-Sultan, Jericho*
-*I tried to walk the perimeter of the ancient tell today. Took me forty-five minutes at a steady pace. The Biblical account describes a complete circuit of the city walls — armed men, priests, the Ark, and a procession of thousands. In total silence. No war cries. No chanting. Nothing. Imagine the discipline that required. Imagine the doubt it invited. You've just spent forty years getting to this place, and God's battle plan is a parade. I think the silence was the hardest part. Not the walking. The not talking.*
+*I walked the perimeter of the old ruins today. Took me forty-five minutes. Thousands of people did this march in total silence — no war cries, no chanting, nothing. You've spent forty years getting here, and God's battle plan is a parade. I think the silence was the hardest part.*
 
 ---
 
@@ -172,51 +172,27 @@ She shot him a look that could have peeled paint. But she kept walking.
 
 They completed one circuit. Then they marched back to camp. That was it.
 
-Day two was worse.
+Days two and three were worse.
 
-The same march. The same silence. The same mocking from the walls. But now the mockers were bolder. They threw scraps of food. They made obscene gestures. One man leaned over the rampart and pretended to sleep, snoring loudly as the procession passed below.
+The mocking from the walls organized. By the third day, the people of Jericho lined the ramparts like spectators at a sporting event. They had drums now, beating out a mocking rhythm as the Israelites circled below. Children threw pebbles. Men held up a crude banner showing a broken horn.
 
-Elena's whole body was vibrating with the effort of staying quiet.
+Elena walked with her head down, fists jammed in the folds of her tunic.
 
-"This is pointless," she hissed to Eli as they walked back to camp. "We walked in a circle. For an hour. And tomorrow we're going to do it again. And the day after that. WHY are we just walking?"
-
-"It's what Joshua said to do."
-
-"Joshua said God told him to do it. But does this *look* like a battle plan to you? Does this look like anything?"
-
-Eli didn't answer. It didn't look like a battle plan. It looked like a parade with no audience. A performance with no point.
-
-Day three was the worst yet.
-
-The mocking from the walls had organized. The people of Jericho lined the ramparts like spectators at a sporting event. They had drums now, and they beat out a mocking rhythm — a parody of a march — as the Israelites circled below. Children threw pebbles. Women called down insults. A group of men near the main gate held up a crude banner showing a broken horn.
-
-Elena walked with her head down, fists jammed in the folds of her tunic. Eli could see the tendons standing out in her neck.
-
-Jordan fell into step beside Eli. He pushed his glasses up and looked at the walls, then at the silent procession ahead of them.
-
-"Can I say something?" Jordan said.
+Jordan fell into step beside Eli. "Can I say something?"
 
 "You're going to anyway."
 
-"This is either the dumbest military strategy in history or..." He stopped.
+"This is either the dumbest military strategy in history or..." He stopped. Shook his head. "I keep waiting for the part where it makes sense. And it's not happening."
 
-"Or what?"
+They walked back to camp in silence. Elena kicked a stone so hard it sailed over three rows of tents.
 
-Jordan's mouth worked, but nothing came out. He shook his head. "I don't know. I keep waiting for the part where it makes sense. And it's not happening."
-
-They walked back to camp in silence. The late afternoon light fell thick and orange across the tents, and the smell of cook fires and roasting grain drifted through the camp. Somewhere a baby cried. Soldiers sat in clusters, not talking, staring at the ground or the walls or nothing.
-
-Elena kicked a stone so hard it sailed over three rows of tents.
-
-"Three days," she said to nobody. "Three days of walking in circles while people throw garbage at us. Four more to go." She turned to Eli, and her eyes were bright with something that wasn't tears but was close. "What if nothing happens? What if we march for seven days and the walls just... stay?"
-
-Eli thought of David in the valley. Moses at the sea. The dove circling over endless water.
+"Three days," she said. "Three days of walking in circles while people throw garbage at us. Four more to go." She turned to Eli, and her eyes were bright with something that wasn't tears but was close. "What if nothing happens? What if we march for seven days and the walls just... stay?"
 
 "It'll happen," he said.
 
 "How do you know?"
 
-He didn't. Not really. He trusted, which was different from knowing and harder in every way.
+He didn't. Not really. He trusted — and trusting without knowing was the hardest thing.
 
 ---
 
@@ -224,7 +200,7 @@ He didn't. Not really. He trusted, which was different from knowing and harder i
 
 *From the journal of Professor Hector Castillo:*
 *October 3, 2020 — Home office*
-*I've been reading Rahab's account again — the woman who hid the Israelite spies in Jericho before the siege. She told them something remarkable: "The terror of you has fallen on us. All who live in this country are melting in fear because of you." The people of Jericho were afraid. The mocking was a mask. I think the most dangerous moment in any act of faith is the middle — when the beginning excitement has faded and the ending isn't visible yet. That's where doubt has the most room to grow.*
+*I've been reading about Rahab — the woman who hid the Israelite spies. She said the people of Jericho were terrified. The mocking was a mask. The hardest part of any act of faith is the middle — when the excitement has faded and the ending isn't visible yet. That's where doubt grows.*
 
 ---
 
@@ -284,7 +260,7 @@ Beside him, Elena tossed and turned. Even in sleep, her arms were wrapped around
 
 Day five was harder.
 
-The Fade had thickened overnight, pooling in every shadow, creeping along the ground like a living thing. The morning light, which should have been fierce and white, came through a haze that made everything look washed out. Flat. Like a photograph left in the sun.
+The Fade had thickened overnight. Sounds were going wrong — the morning bustle of the camp seemed muffled, like someone had stuffed cotton in Eli's ears. A soldier shouted an order ten feet away and it reached him thin and distant, as if from the far side of a valley. The morning light came through a haze that made everything look washed out.
 
 The march continued — Joshua demanded it, his voice cutting through the murmurs like a blade — but the ranks were ragged. Soldiers stumbled. Priests carrying the horns walked with their heads bowed, not in reverence but in exhaustion. The Ark bearers' shoulders sagged.
 
@@ -296,7 +272,11 @@ Elena was shivering despite the heat. She walked with her arms wrapped around he
 
 "Two more. And nothing. Not one crack. Not one stone loose. Nothing."
 
-Jordan sat on a rock outside their tent and stared at the distant walls. "I keep running the numbers," he said. "Force, resonance, structural integrity. There's no version of this where walking in circles collapses a wall like that. Even if you factor in vibration from the footsteps, even if the trumpets hit some kind of resonant frequency — the math doesn't work. That wall is solid stone and mud brick five stories high. It's not coming down because people yelled at it."
+Jordan sat on a rock outside their tent and stared at the distant walls. "I keep running the numbers," he said. "Force, resonance, structural integrity —"
+
+Elena groaned. "In *English*, Jordan."
+
+"I'm saying, even if the footsteps shook the ground a little, even if the trumpets hit exactly the right note — the math doesn't work. That wall is solid stone and mud brick five stories high. It's not coming down because people yelled at it."
 
 He took off his glasses and cleaned them on his tunic. His hands were shaking slightly.
 
@@ -308,7 +288,7 @@ Jordan put his glasses back on. "But nothing I've seen on these trips follows th
 
 He didn't finish the thought. He didn't have to.
 
-The Fade pressed closer in the gathering dark, and the camp felt smaller than it had the day before.
+The Fade pressed closer in the gathering dark. The camp's evening sounds — the crackle of fires, the murmur of families, the bleating of animals — went dim and distant, as if someone was slowly turning down the volume on the world.
 
 ---
 
@@ -316,7 +296,7 @@ The Fade pressed closer in the gathering dark, and the camp felt smaller than it
 
 *From the journal of Professor Hector Castillo:*
 *October 5, 2020 — Home office*
-*I called the kids today. Brief call — the nurses are strict about phone time. Eli asked about Jericho. I told him what I've told every student who ever asked about the siege: the hardest part wasn't the waiting. The hardest part was that waiting felt like failure. Every day those walls stood, it looked like proof that God's plan wasn't working. But "not yet" isn't the same as "no." I wish I'd understood that forty years ago. It would have saved me a lot of sleepless nights.*
+*Called the kids today. Eli asked about Jericho. I told him the hardest part wasn't the waiting — it was that waiting felt like failure. Every day those walls stood, it looked like proof that God's plan wasn't working. But "not yet" isn't the same as "no."*
 
 ---
 
@@ -368,7 +348,7 @@ Elena dropped her hands. Her eyes were red. "That's easy for you. You're the thi
 
 "It is, though."
 
-They stared at each other. Brother and sister, standing in the dust outside an ancient city, the procession flowing around them like water around stones. The Fade pressed in from every direction, draining the light, muffling the sound, turning the world grey at the edges.
+They stared at each other. Brother and sister, standing in the dust outside an ancient city, the procession flowing around them like water around stones. The Fade pressed in from every direction, draining the light, swallowing sound until Elena's shouts seemed to come from far away, turning the world grey at the edges.
 
 Elena's chin trembled. "I hate this," she whispered.
 
@@ -400,7 +380,7 @@ Eli watched his sister's stiff back disappear into the column of marchers. The F
 
 *From the journal of Professor Hector Castillo:*
 *March 18, 2019 — Tell es-Sultan, Jericho*
-*The seventh day. Seven circuits. By my calculations, that's more than eight hours of continuous marching. And then the shout. I've been thinking about what it must have felt like — that moment when the trumpet sounds the long blast and Joshua finally gives the order to raise your voice. Six days of silence. Six days of swallowed words and clenched jaws and feet aching in the dust. And then permission to release everything you've been holding. I think the shout wasn't a weapon. It was a declaration. It was every silent step converted into sound.*
+*The seventh day. Seven laps around the city — more than eight hours of walking. Then the shout. Six days of silence, of swallowed words and aching feet. And then permission to release everything you've been holding. I think the shout wasn't a weapon. It was every silent step turned into sound.*
 
 ---
 
@@ -450,9 +430,9 @@ Sixth circuit. Elena was crying. Silently, jaw clenched, tears cutting tracks th
 
 Seventh circuit. The world had gone grey. The Fade had drained nearly everything — the tents in the distance were colorless, the soldiers' armor was dull as old tin, even the golden Ark seemed to have lost its shine. The hum in Eli's chest was deafening.
 
-Elena's feet were bleeding. She could feel the blisters broken and raw inside her sandals, each step a small fire. Her legs shook. Her arms were numb from the cold. She counted her steps — one, two, three, four — because counting was something to do, and doing something, anything, was the only way she knew how to survive.
+Elena's feet were bleeding. She stopped for half a second and pulled off one sandal. The sole of her foot was raw and red, blisters broken open, blood smearing the leather. She shoved the sandal back on and kept walking.
 
-*One more step. Just one more.*
+"One more step," she whispered through her teeth. "Just one more."
 
 She'd been saying that since the fifth circuit. Hundreds of steps ago. And she was still walking.
 
@@ -488,7 +468,7 @@ And the walls of Jericho fell.
 
 *From the journal of Professor Hector Castillo:*
 *March 19, 2019 — Tell es-Sultan, Jericho*
-*I found a crack in the foundation today that runs the full width of the excavation trench. The collapse pattern is wrong for an earthquake — the stones fell outward, not inward. Dr. Feldman has no explanation. Neither do I, if I'm being honest with my archaeology. But I have one if I'm being honest with my faith. Some walls aren't brought down by force. They're brought down by obedience. And obedience that doesn't make sense is the hardest kind there is. I think that's the point. If it made sense, it wouldn't require trust.*
+*Found a crack in the foundation today — the stones fell outward, not inward. Dr. Feldman can't explain it. Neither can I, if I'm honest. Some walls aren't brought down by force. They're brought down by obedience — and if it made sense, it wouldn't require trust.*
 
 ---
 
@@ -498,9 +478,7 @@ Then the wall moved.
 
 Not crumbled. Not tilted. The wall *fell* — the entire face of it dropping outward like a door thrown open, massive blocks of stone tumbling down the slope in a cascade of dust and thunder. The ground heaved. Eli grabbed Elena, Elena grabbed Jordan, and the three of them staggered backward as the earth bucked under their feet.
 
-The noise was beyond anything Eli could have imagined. Stone struck stone in a chain reaction that raced along the perimeter — section after section collapsing outward, each fall triggering the next, the walls peeling open like the rind of a fruit split by the sun. Blocks the size of wagons bounced and rolled down the slope. The dust cloud rose fifty feet, a hundred feet, swallowing the sky.
-
-Dust exploded upward in a wall of its own — brown and thick, blotting out the sun. The sound was enormous, so vast it stopped being sound and became a physical thing, a pressure against the chest, a vibration in the bones.
+The noise was beyond anything Eli could have imagined. Stone struck stone in a chain reaction that raced along the perimeter — section after section collapsing outward, each fall triggering the next, the walls peeling open like the rind of a fruit split by the sun. Blocks the size of wagons bounced and rolled down the slope. Dust exploded upward fifty feet, a hundred feet — brown and thick, blotting out the sun. The sound was so vast it stopped being sound and became a physical thing, a pressure against the chest, a vibration in the bones.
 
 And through it all, the Fade shattered.
 
@@ -522,7 +500,17 @@ Jordan shook his head slowly. "I had... I had a whole speech prepared. About res
 
 "Okay." Jordan took a breath. "Okay."
 
-Elena was already moving. The shivering girl from five minutes ago was gone. The girl who had cried through the sixth circuit, who had counted her bleeding steps through the seventh — gone. She was Elena again, the spark, the doer, but different now. Tempered. The fire was the same but the fuel had changed.
+Elena punched him lightly on the arm. "Welcome to the club."
+
+"What club?"
+
+"The 'I can't explain it and I'm fine with that' club. Membership: three."
+
+Jordan almost smiled. "I didn't say I was fine with it."
+
+"You will be," Elena said.
+
+Elena was already moving. The shivering girl from the seventh circuit was gone. The girl who had cried through the sixth circuit, who had counted her bleeding steps through the seventh — gone. She was Elena again, the spark, the doer, but different now. Stronger in a quieter way. The fire was the same but the fuel had changed.
 
 "There." She pointed toward the rubble field, where the priests were climbing through the wreckage, horns still raised. "The relic. The horn. It has to be one of those horns."
 
@@ -566,7 +554,7 @@ The world went golden. And they went home.
 
 *From the journal of Professor Hector Castillo:*
 *December 1, 2020 — Hospital, room 412*
-*The nurse let me have my notebook today. Small victory. I've been thinking about obedience — real obedience, the kind that costs something. Not the easy kind where God's instructions make sense and the path is clear. The hard kind. The kind where you walk in circles for a week while people mock you and nothing visible changes. I think that's where faith lives — not in the miracle but in the march. Not in the shout but in the silence. Elena would hate hearing that. But I think she might be the one who understands it best, someday.*
+*The nurse let me have my notebook today. I've been thinking about the hard kind of obedience — the kind where you walk in circles for a week while people mock you and nothing changes. Faith lives not in the miracle but in the march. Elena would hate hearing that, but she might understand it best.*
 
 ---
 

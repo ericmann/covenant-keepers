@@ -17,7 +17,7 @@ Drafting workflow (see AGENTS.md):
 
 *From the journal of Professor Hector Castillo:*
 *Written for Eli, Elena, and Jordan — and no one else*
-*If you're reading this, you've gone further than I ever could. Twelve relics. Twelve promises God made and kept. I searched for them across thirty countries, and I found maps and theories and dead ends. You found the real thing. The last relic is the one that cost the most. Not to find — to understand. I have spent my whole life studying faith from the outside. You three walked into it. Whatever happens next, know this: the Pathfinder chose well. And so did I, when I left that door unlocked.*
+*If you're reading this, you've gone further than I ever could. Twelve relics. Twelve promises God made and kept. I searched for them across thirty countries and found maps and theories and dead ends — you found the real thing. The last relic is the one that cost the most. Not to find — to understand. Whatever happens next, know this: the Pathfinder chose well. And so did I, when I left that door unlocked.*
 
 ---
 
@@ -99,7 +99,7 @@ The light swallowed the room.
 
 *From the journal of Professor Hector Castillo:*
 *April 22, 2017 — Mount Moriah region, Israel*
-*The path up the ridge is steeper than the maps suggest. I climbed it at dawn and sat at the top for two hours, watching the sun turn the rock from grey to gold. This is where it happened. I'm certain now. The geological strata match. The scrubland is right. And there's a feeling here I can't put in a report — a heaviness, like the hill remembers what it was asked to hold. Abraham walked this path with his son and a bundle of wood and a question he couldn't answer. I think the hill is still holding its breath.*
+*I climbed the ridge at dawn. This is where it happened — I'm certain now. There's a feeling here I can't put in a report, like the hill remembers what it was asked to hold. Abraham walked this path with his son and a question he couldn't answer. I think the hill is still holding its breath.*
 
 ---
 
@@ -171,7 +171,7 @@ Abraham put his hand on Isaac's shoulder and they walked the last stretch togeth
 
 *From the journal of Professor Hector Castillo:*
 *April 23, 2017 — Mount Moriah region, Israel*
-*I keep returning to Isaac's question. "Father, I see the fire and the wood, but where is the lamb for the burnt offering?" Such a simple question from a boy who trusted his father enough to carry the wood up a mountain without knowing the answer. And Abraham's reply — "God will provide Himself a lamb, my son." In the Hebrew, that sentence holds at least two meanings. Abraham believed it. But believing it didn't make the walk any easier. That's the part I think we get wrong. We tell the story like faith removes the pain. It doesn't. Faith is what you have left when the pain is at its worst.*
+*Isaac's question breaks my heart every time: "Father, where is the lamb?" Abraham believed God would provide. But believing it didn't make the walk any easier. We tell the story like faith removes the pain. It doesn't. Faith is what you have left when the pain is at its worst.*
 
 ---
 
@@ -237,7 +237,7 @@ And the hilltop went cold.
 
 *From the journal of Professor Hector Castillo:*
 *Written for Eli, Elena, and Jordan*
-*The hardest part of faith is not the believing. It's what believing costs you. I have believed my whole life. It cost me years in the desert. It cost me holidays with my family. It cost me the chance to watch you grow up. I paid those prices gladly, and I'd pay them again. But I want you to know: faith didn't make it easy. Faith made it possible. There's a difference. And that difference matters more than anything I've ever written in these pages.*
+*The hardest part of faith is not the believing. It's what believing costs you. Faith didn't make it easy. Faith made it possible. There's a difference, and that difference matters more than anything I've ever written in these pages.*
 
 ---
 
@@ -281,21 +281,15 @@ Jordan didn't hear those words. He felt them. In the hollow space behind his rib
 
 He turned away from the altar. He couldn't watch. A father binding his son — pressing the cord around Isaac's wrists with careful, loving hands — and the boy just *letting* him. Trusting him. The way Jordan had trusted his own father when his father said *I'll always be there.* The way his sister still asked when Dad was coming home even though the answer hadn't changed in eighteen months.
 
-The Fade pressed the wound like it knew exactly where it was. Because it did. It always had. Jordan's vision narrowed to a pinhole — just a circle of grey light surrounded by blackness, like looking through a tube. He could barely see his own hands.
+The Fade pressed the wound like it knew exactly where it was. Because it did. It always had. Jordan's vision narrowed to a pinhole. He could barely see his own hands.
 
-Elena couldn't move. The cold had locked her muscles, frozen her in place three feet from the altar. Her teeth were chattering so hard Eli could hear them.
-
-*This will never end.*
-
-Not words. A feeling. The exhaustion of twelve adventures, twelve fights, twelve moments of terror and wonder that kept demanding more. The bone-deep weariness of a ten-year-old who had carried fear and courage in equal measure across three thousand years of history and was so, so tired.
+Elena couldn't move. The cold had locked her muscles, frozen her in place three feet from the altar.
 
 *There will always be another test. Another mountain. Another altar. You will never be done.*
 
-Elena's eyes filled with tears. Not from sadness. From sheer, crushing fatigue. The kind of tired that goes past your body into your soul.
+Elena's eyes filled with tears. Not from sadness. From sheer, crushing fatigue. The kind of tired that goes past your body into your soul. Twelve times she'd pushed forward, pushed through, pushed past fear. And now the Fade was telling her it would never be enough.
 
-She looked at the altar and saw every altar she'd ever stood beside. The streambed where David picked up stones. The mountain where fire fell from heaven. The furnace door that opened onto a fourth figure in the flames. Twelve times she'd pushed forward, pushed through, pushed past fear because standing still was worse. And now the Fade was telling her the truth she'd always been afraid to hear: it would never be enough. There would always be one more mountain.
-
-Her knees buckled. She caught herself on a rock, palms scraping against the rough stone, and stayed there — kneeling, shaking, cold to the center of herself.
+Her knees buckled. She caught herself on a rock, palms scraping against rough stone, and stayed there — kneeling, shaking, cold to the center of herself.
 
 And Eli —
 
@@ -327,7 +321,7 @@ And for one terrible, suspended moment, the hilltop was nothing but grey and sil
 
 *From the journal of Professor Hector Castillo:*
 *April 23, 2017 — Mount Moriah region, later*
-*I found a thicket on the eastern slope. Thorny. Dense. The kind of brush that would trap anything that wandered into it. I sat beside it and thought about timing. Abraham didn't find the ram after he put down the knife. It was already there. Already caught. Already waiting. God's provision wasn't a reaction to Abraham's obedience — it preceded it. The ram was in the thicket before Abraham left home. Before he loaded the donkey. Before he split the wood. Think about that. The answer was already on the mountain before the question was asked.*
+*Found a thorny thicket on the eastern slope. The ram didn't appear when the angel spoke — it was already caught in those thorns. Already waiting. The answer was already on the mountain before the question was asked.*
 
 ---
 
@@ -375,15 +369,11 @@ When it was done, Abraham stood at the altar and looked out across the hills. Th
 
 Elena looked at Eli. "What does that mean?"
 
-Eli knew. He'd read it in Abuelo's journals. He'd traced the Hebrew letters with his finger on a page covered in his grandfather's careful handwriting.
+"The Lord Will Provide," he said. Then he stopped. Something clicked. "Will. Not *did*. Not *has*. *Will.* He's not just talking about today. He's talking about every day after this. Forever."
 
-"The Lord Will Provide," he said.
+Elena stared at the altar. At the father holding his son. "A promise that doesn't stop."
 
-Will. Not *did*. Not *has*. *Will.*
-
-Future tense.
-
-A promise still being kept.
+"A promise that doesn't stop."
 
 Elena wiped her face with the back of her hand. Her cheeks were streaked with dust and tears she hadn't noticed falling. "It's over?" she asked. Not quite believing it. "It's really over?"
 
@@ -419,7 +409,7 @@ Eli didn't ask what he meant. He didn't need to. Jordan wasn't talking about Abr
 
 *From the journal of Professor Hector Castillo:*
 *April 24, 2017 — Camp near Mount Moriah*
-*I pulled thorns from my hands for an hour last night. The thickets here are brutal — long, curved spines that hook under the skin and break off if you pull too fast. But I kept thinking: the ram was caught because the thorns held it. The provision was secured by pain. A thorn is not a noble thing. It's not beautiful like an olive branch or dramatic like a stone from a sling. It's small and sharp and it draws blood. And it held the sacrifice in place until it was needed. Sometimes the most important things look like wounds.*
+*Pulled thorns from my hands for an hour last night. But I kept thinking: the ram was caught because the thorns held it. The provision was secured by pain. A thorn is small and sharp and it draws blood. And it held the sacrifice in place until it was needed. Sometimes the most important things look like wounds.*
 
 ---
 
@@ -433,13 +423,17 @@ Deep in the tangle, where the thickest branches crossed, something glowed.
 
 Not the amber light of previous relics. This was warmer. Deeper. The color of embers at the bottom of a fire that has burned all night — the kind of heat that doesn't flare or flicker but simply persists, steady and sure.
 
-Eli knelt. The thorns snagged his sleeves and pricked his forearms as he reached in. He moved slowly, carefully. The hum in his chest had quieted to a single, clear tone — the eleventh note joining the ten before it, and something building underneath. A chord waiting for its resolution.
+Eli knelt. He reached toward the thorns, but Elena was already moving. She dropped to her knees beside him and pushed her arm into the thicket before he could stop her — before she could stop herself. Thorns snagged her sleeves, scratched her forearms, drew thin lines of red across her skin. She didn't hesitate. She didn't flinch. Elena had always been the one who moved first and thought second, and this time that was exactly right.
 
-His fingers closed around a thorn.
+Her fingers closed around the thorn.
 
-It was warm. Warmer than any relic he'd held — warmer than David's stone, warmer than the furnace shard, warmer than the grain from Boaz's field. This was the warmth of something that had been waiting for a long time and knew its waiting was almost over.
+She pulled it free, thorns scraping her wrist as she drew her hand back. She opened her palm.
 
-The thorn rested in his palm. Small. Curved. Dark wood with a sharp point. A simple, brutal little thing that had held a sacrifice in place.
+"It's warm," Elena said. Her voice was quiet with wonder. "It's always warm."
+
+The thorn rested in her palm. Small. Curved. Dark wood with a sharp point. Warmer than any relic they'd found — warmer than David's stone, warmer than the furnace shard, warmer than the grain from Boaz's field. This was the warmth of something that had been waiting for a long time and knew its waiting was almost over.
+
+A simple, brutal little thing that had held a sacrifice in place.
 
 Twelve relics. Twelve promises. Courage when a shepherd boy faced a giant. A branch that said the flood was over. A thread from a coat that survived betrayal. A splinter from a staff that parted the sea. A horn that brought down walls. A seal that honored faithfulness. A stone from an altar where fire fell. A coin from a man who ran from God and was given another chance. A sheaf from a field where loyalty was rewarded. A jewel from a crown worn for such a time as this. A shard from a furnace where God walked in the fire.
 
@@ -447,13 +441,13 @@ And now a thorn. From a bush that held the ram. The substitute. The provision. T
 
 Eli understood. Not all of it — not the empty center, not the map he could feel forming, not where the lines converged. But this: God provides. He always has. Every relic was an act of provision. Courage when it was needed. Deliverance when it was impossible. Presence when it was darkest. A ram when the knife was raised.
 
-The thorn blazed. White-gold light poured through Eli's fingers and the hum became a sound — twelve notes finding each other, harmonizing, climbing toward something Eli could feel but not yet name.
+The thorn blazed in Elena's palm. White-gold light poured through her fingers and the hum became a sound — twelve notes finding each other, harmonizing, climbing toward something none of them could yet name.
 
-Elena grabbed his arm. Jordan grabbed his shoulder.
+Eli grabbed Elena's arm. Jordan grabbed his shoulder.
 
 The Pathfinder pulled them home.
 
-Not gently. Not like a tide receding. Like a hand reaching across three thousand years and *yanking*. The hilltop dissolved. The blue sky shattered. The warmth of the thorn burned in Eli's palm for one more breath — and then the light was everything, and the sound was everything, and they were falling upward through time.
+Not gently. Not like a tide receding. Like a hand reaching across three thousand years and *yanking*. The hilltop dissolved. The blue sky shattered. The warmth of the thorn burned in Elena's palm for one more breath — and then the light was everything, and the sound was everything, and they were falling upward through time.
 
 ---
 
@@ -461,7 +455,7 @@ Not gently. Not like a tide receding. Like a hand reaching across three thousand
 
 *From the journal of Professor Hector Castillo:*
 *December 31, 2020 — Home office, midnight*
-*I've drawn maps my whole life. Dig sites, trade routes, migration paths, the probable location of settlements mentioned in a single verse and never again. I love maps. They're promises that the world makes sense — that if you follow the lines, you'll arrive somewhere. But tonight I'm thinking about a different kind of map. One where the lines don't lead to a place. They lead to a person. I haven't seen it yet. But I think the Pathfinder has. I think it's been drawing this map one relic at a time, and I think the kids are going to be the first ones to see it complete. Not me. That's okay. That's maybe the most important thing I've ever written in fifty years of journals: not me. And that's okay.*
+*I love maps. They're promises that the world makes sense. But tonight I'm thinking about a map where the lines don't lead to a place — they lead to a person. The kids are going to be the first ones to see it complete. Not me. And that's okay.*
 
 ---
 
@@ -471,7 +465,7 @@ Eli's knees hit the rug in Abuelo's study. Elena stumbled into the desk. Jordan 
 
 The same room. The same lamplight. The same moment they'd left — Abuelo still standing, his hand still extended toward the space where Eli's shoulder had been.
 
-Eli opened his hand. Empty. The phantom warmth of the thorn lingered in his palm, fading like a handprint on cold glass.
+Elena opened her hand. Empty. The phantom warmth of the thorn lingered in her palm, fading like a handprint on cold glass. Thin scratches ran along her forearm from the thorns — red lines that would scar.
 
 "Eli," Abuelo said. His voice was rough. He wasn't looking at Eli's hand.
 
@@ -491,7 +485,7 @@ They moved. Slowly at first, then with purpose, each symbol finding a position i
 
 Lines of light connected them.
 
-Thin filaments, golden-white, stretched between the floating symbols — not randomly but in a pattern. Stone to branch. Branch to thread. Thread to staff. Every symbol connected to every other, the lines crisscrossing and overlapping until the air above the Pathfinder was a web of light. A constellation. A map.
+Thin threads of light, golden-white, stretched between the floating symbols — not randomly but in a pattern. Stone to branch. Branch to thread. Thread to staff. Every symbol connected to every other, the lines crisscrossing and overlapping until the air above the Pathfinder was a web of light. A constellation. A map.
 
 "Dios mio," Abuelo whispered.
 
@@ -521,7 +515,11 @@ Abuelo stared at the map for a long time. His reading glasses had fallen to the 
 
 He looked at the kids. His eyes were bright. Not with tears — with recognition. He knew this mountain. He'd climbed it. He'd sat on its summit and felt the heaviness of what it had been asked to hold. And now he was seeing what the mountain itself might not yet know — that its story wasn't over.
 
-"Something happened here today," Abuelo said. "And something will happen here again."
+"Every promise we've collected points forward," Abuelo said quietly. "To something — someone — who hasn't come yet. But He will."
+
+He looked at the empty center of the map, and his eyes were bright.
+
+"Something happened here today," he said. "And something will happen here again."
 
 ---
 
@@ -529,7 +527,7 @@ He looked at the kids. His eyes were bright. Not with tears — with recognition
 
 *From the journal of Professor Hector Castillo:*
 *Written today — this afternoon — in this room*
-*I have spent my entire career documenting the evidence of God's faithfulness. I have measured, catalogued, and cross-referenced. I have built arguments from pottery shards and linguistic analysis and stratigraphic data. And in sixty seconds, a bronze disc that never worked for me lit up a room and showed me what all of that evidence actually looks like when you put it together. It looks like a map. It looks like a song. It looks like twelve arrows all pointing at the same mountain, all saying the same thing in twelve different voices: He provides. He always has. He always will.*
+*I spent my whole career building a case from pottery shards and old documents. And in sixty seconds, a bronze disc that never worked for me showed me what all of it actually looks like when you put it together. A map. A song. Twelve arrows all pointing at the same mountain, all saying the same thing: He provides. He always has. He always will.*
 
 ---
 
@@ -545,7 +543,7 @@ Eli felt the roar building in his chest again. The old freeze threatening to loc
 
 But something was different this time.
 
-The Fade reached for the map, and the map didn't move. The twelve points of light hung steady in the air, each one anchored by a relic that had been carried across centuries. The lines between them held. The convergence point — empty, waiting, unnamed — held.
+The Fade reached for the map, and the map didn't move. The twelve points of light hung steady in the air, each one anchored by a relic that had been carried across centuries. The lines between them held. The place where all the lines met — empty, waiting, unnamed — held.
 
 The Fade pressed harder. The grey thickened at the edges of the room. Frost climbed the window. Elena's breath came in white clouds.
 
@@ -587,7 +585,7 @@ Twelve points of faithfulness. Glowing.
 
 *From the journal of Professor Hector Castillo:*
 *Written for Eli, Elena, and Jordan — the last entry in this journal*
-*I started this journal forty-seven years ago in a tent outside Jericho. I was twenty-three. I had a new degree, a secondhand trowel, and the unshakable belief that if I dug in the right place, I would find proof that God keeps His promises. I have filled forty-six journals since then. I have found pottery and coins and seals and scraps of cloth. I have found evidence. But I never found proof. Do you know who did? Three kids with a bronze disc that wouldn't work for me and the kind of faith that doesn't need a bibliography. This is my last field journal. Not because the search is over. Because the search has moved on. It belongs to you now. All of it — the maps, the journals, the questions, the wonder. It was always supposed to belong to you. Carry it well. And don't stop looking. The map isn't finished. The song isn't over. And the center of everything is still waiting for its name.*
+*This is my last field journal. Not because the search is over — because it belongs to you now. I spent forty-seven years looking for proof, and you three found it with a bronze disc that wouldn't work for me. The map isn't finished. The song isn't over. And the center of everything is still waiting for its name.*
 
 ---
 
@@ -633,21 +631,13 @@ Something at the center. Something that hadn't arrived yet.
 
 Eli didn't know what it was. And for the first time in his life, that was okay.
 
-He'd spent twelve adventures reaching for understanding the way he reached for relics — desperate to hold it, terrified of the moment his hand came up empty. The boy who froze when the answer wouldn't come. The boy who needed to figure it out before he could take the next step.
-
-But he'd held twelve relics, and every one of them had dissolved in his hands. He'd carried them home with nothing but the warmth of where they'd been. And somehow, that had been enough. Enough to complete the Pathfinder. Enough to build the map. Enough to drive back the Fade.
-
-You didn't need to hold the answer. You just needed to trust that there was one.
+He'd held twelve relics, and every one of them had dissolved in his hands. He'd carried them home with nothing but the warmth of where they'd been. And somehow, that had been enough.
 
 Eli could hold a mystery. He'd been practicing all summer.
 
-He looked at his right hand. The scar from the camping trip — thin and white, cutting across his palm in a line he could feel with his thumb. This was the hand that had held every relic. David's stone. Noah's branch. The thread from Joseph's coat. Every one of them had dissolved in this hand, leaving nothing but warmth and the faint glow sealed into the Pathfinder. Twelve times he'd reached out and taken hold of something sacred, and twelve times he'd come home with empty fingers.
+He looked at his right hand. The scar from the camping trip — thin and white, cutting across his palm. This was the hand that had held every relic. Twelve times he'd reached out and taken hold of something sacred, and twelve times he'd come home with empty fingers.
 
 But his hand wasn't really empty. It never had been.
-
-The things he'd held were in the map now — in the lines of light overhead, in the melody humming its patient note, in the bronze device sitting on the desk. They were in the way Elena grinned at the unknown instead of fearing it. In the way Jordan stood at the edge of belief and didn't walk away. In Abuelo's face when he looked at the three of them and saw the purpose of his life completed by hands smaller than his own.
-
-You carry what matters in more than your hands.
 
 Jordan hadn't moved from the doorframe.
 
@@ -655,7 +645,7 @@ He'd been quiet for a long time — not the closed-off quiet of a kid who'd shut
 
 Jordan was looking at the map. His glasses reflected twelve points of light, and his eyes moved slowly from symbol to symbol — stone to branch to thread to staff — following the lines of connection, tracing the paths inward, arriving again and again at the same empty center.
 
-The convergence point. The place where every promise met. The name that hadn't been spoken yet.
+The place where all the lines met. The place where every promise pointed. The name that hadn't been spoken yet.
 
 "I don't understand all of it," Jordan said.
 
@@ -667,11 +657,9 @@ He paused. The rubber band on his wrist was still. His hands hung at his sides, 
 
 "I think I want to keep looking, though."
 
-The words landed in the room like the last stone in a stream — small, smooth, placed with care. Not a declaration. Not a creed. Not the dramatic conversion that would have betrayed everything Jordan had fought through across twelve stories. A step. One honest, hard-won, open-eyed step toward something he didn't fully understand and wasn't ready to name.
+Eli just looked at his friend and nodded.
 
-Eli didn't push. He didn't say "that's great" or "I knew you'd get there" or any of the things that would have turned Jordan's step into someone else's victory. He just looked at his friend and nodded.
-
-Elena slid off the desk. She walked over to Jordan and put her hand on his shoulder. Didn't say anything. Didn't need to. Her hand was warm and steady and it said everything that words would have ruined.
+Elena slid off the desk. She walked over to Jordan and put her hand on his shoulder. Didn't say anything. Didn't need to.
 
 Jordan looked at her. A small, surprised almost-smile crossed his face. Then he looked at Eli. Then at Abuelo, who was watching all three of them with the expression of a man who has just seen the best thing he will ever see.
 

@@ -18,8 +18,8 @@ Drafting workflow (see AGENTS.md):
 ## Chapter 1: The Vizier's Shadow
 
 *From the journal of Professor Hector Castillo:*
-*April 9, 2017 — Avaris, Tell el-Dab'a, Egypt*
-*The excavation is slower than anyone wants. Sand and heat and the usual bureaucratic tangles. But the pottery fragments from Stratum D/2 are remarkable — Canaanite forms in an Egyptian context. A Semitic household in the heart of the Nile Delta, and a wealthy one at that. Someone from Canaan rose very high in this place. The local team keeps calling him "the foreign vizier," and I keep finding myself thinking about a boy with a colorful coat and a family that threw him away. Archaeology gives you bones and sherds and foundations. But sometimes the silence between the artifacts tells you more than the objects themselves. Something terrible happened to that boy. And something extraordinary happened after.*
+*April 9, 2017 — Avaris, Egypt*
+*We found pottery today from a wealthy household — someone from Canaan who rose very high in Egypt. The local team keeps calling him "the foreign vizier," and I keep thinking about a boy with a colorful coat and a family that threw him away. Something terrible happened to that boy. And something extraordinary happened after.*
 
 ---
 
@@ -31,7 +31,7 @@ Elena sat cross-legged on the floor, surrounded by maps she'd pulled from a draw
 
 "Find anything?" she asked without looking up.
 
-"Maybe." Eli opened the journal carefully. The binding cracked. A pressed flower fell out — something small and brown that might have been yellow once. He turned past pages of sketches and soil charts until he found the entry. Abuelo's tight handwriting, slanting to the right the way it always did when he was excited. Avaris. Tell el-Dab'a. A foreign vizier.
+"Maybe." Eli opened the journal carefully. The binding cracked. A pressed flower fell out — something small and brown that might have been yellow once. He turned past pages of sketches and soil charts until he found the entry. Abuelo's tight handwriting, slanting to the right the way it always did when he was excited. Avaris. Tell el-Dab'a. A foreign vizier — Egypt's second-in-command, answering only to Pharaoh.
 
 The front door banged.
 
@@ -110,8 +110,8 @@ Elena shivered. "This isn't going to end well."
 ## Chapter 2: The Coat
 
 *From the journal of Professor Hector Castillo:*
-*April 12, 2017 — Avaris, Tell el-Dab'a, Egypt*
-*Dr. Nassar showed me a textile fragment today — a scrap of woven fabric, multicolored, the dyes still faintly visible after millennia. Red and blue and yellow, interlocking patterns. A luxury item. Something you'd give to someone you wanted to honor. Or someone you loved more than you should have shown. I held it under the light and thought about what a gift like that costs — not in money, but in the jealousy it creates. A beautiful coat given to a favorite son. How many family wounds start with something that was meant to be love?*
+*April 12, 2017 — Avaris, Egypt*
+*We found a scrap of colorful fabric today — red and blue and yellow, the dyes still visible after thousands of years. Something you'd give to someone you loved. I held it under the light and thought about what a gift like that costs — not in money, but in the jealousy it creates. How many family wounds start with something that was meant to be love?*
 
 ---
 
@@ -171,7 +171,7 @@ They stood in silence and watched Joseph walk through the camp in his coat of ma
 
 That evening, Joseph told his brothers about a dream.
 
-The kids were close enough to hear — sitting on the ground behind a tent, eating flatbread and dried figs that someone had left near the communting fire. Joseph's voice carried easily. He wasn't whispering. He wasn't bragging, either, but he wasn't being careful, and with this audience, careful was the only thing that might have helped.
+The kids were close enough to hear — sitting on the ground behind a tent, eating flatbread and dried figs that someone had left near the cooking fire. Joseph's voice carried easily. He wasn't whispering. He wasn't bragging, either, but he wasn't being careful, and with this audience, careful was the only thing that might have helped.
 
 "I dreamed we were binding sheaves of grain in the field," Joseph said. "And my sheaf rose up and stood straight, and all of your sheaves gathered around mine and bowed down."
 
@@ -181,7 +181,7 @@ A terrible, loaded silence that stretched across the firelight like a wire pulle
 
 "Your sheaf," the broad-shouldered brother said. "Bowed down to yours."
 
-"I'm just telling you what I saw," Joseph said. And Eli could hear it — the honesty in his voice, the guilelessness. Joseph wasn't gloating. He was sharing something that felt true, the way Eli might tell Elena about a dream that seemed important.
+"I'm just telling you what I saw," Joseph said. And Eli could hear it — the honesty in his voice, the openness. Joseph wasn't gloating. He was sharing something that felt true, the way Eli might tell Elena about a dream that seemed important.
 
 But truth and timing are different things. And this was the worst possible time.
 
@@ -195,7 +195,7 @@ Joseph sat by the fire, alone in his beautiful coat, and didn't understand what 
 
 *From the journal of Professor Hector Castillo:*
 *October 3, 2018 — Home office, late*
-*I've been reading Genesis 37 again, and the detail that stops me every time is verse 25: "Then they sat down to eat." After they stripped their brother's coat. After they threw him into a pit. After he screamed for help — the text doesn't say he screamed, but of course he screamed. After all of that, they sat down and ate lunch. I've studied violence and cruelty across a dozen ancient civilizations, and nothing chills me like the ordinariness of that sentence. The banality of betrayal. They didn't rage. They didn't agonize. They ate. How does guilt disappear that fast? What kind of cold makes people forget what they just did to someone they grew up with?*
+*The detail that stops me every time: after the brothers threw Joseph into the pit, they sat down and ate lunch. After everything they'd just done to their own brother, they ate. How does guilt disappear that fast? What kind of cold makes people forget what they just did to someone they grew up with?*
 
 ---
 
@@ -265,11 +265,11 @@ Jordan didn't answer.
 
 The brothers sat down in the shade of an oak tree. Someone pulled bread from a bag. Someone else uncorked a skin of water and drank. They ate. Thirty feet from a pit where their brother was crying for help, they ate lunch.
 
-And the cold rolled in.
+And the heaviness rolled in.
 
-Not gradually this time. It came like a wave, sudden and heavy, pressing down on the hillside. The colors leached from the grass, the sky, the rocks. The air turned thick and numb. Joseph's voice, calling from the pit, seemed to thin — not quieter, but emptier, as if the words were losing their meaning before they reached anyone's ears. The brothers' faces went slack. Not guilty, not defiant — just blank. As if they'd already forgotten what they'd done. As if the memory was being drained out of them while they chewed.
+Not cold this time. Something worse — a grinding weight that pressed down on Eli's chest like a stone. Everything slowed. The brothers' movements became thick and mechanical, like people moving underwater. Joseph's voice, calling from the pit, seemed to thin — not quieter, but emptier, as if the words were losing their meaning before they reached anyone's ears. The brothers' faces went slack. Not guilty, not defiant — just blank. As if what they'd just done was already becoming normal. As if cruelty was just another chore.
 
-Elena gripped Eli's arm. Her fingers were ice.
+Elena gripped Eli's arm. Her jaw was clenched so tight Eli could see the muscles jumping.
 
 "They don't even care," she whispered. "They just *don't care*."
 
@@ -291,7 +291,7 @@ Nobody spoke. The wind moved through the dry grass. From the pit, Joseph's voice
 
 *From the journal of Professor Hector Castillo:*
 *October 5, 2018 — Home office*
-*The Midianite trade routes ran from Gilead to Egypt — a well-established caravan corridor. Ishmaelite, Midianite — the text uses both terms, which suggests a mixed caravan, common for the period. Twenty pieces of silver. The going rate for a young male slave. His brothers knew the price. They'd thought about this before today. What breaks me is the coat. After the sale, they took what was left of it and dipped it in goat's blood. They carried it home to their father and said, "We found this. Examine it. Is it your son's coat?" They didn't even say his name.*
+*Twenty pieces of silver. That was the price they sold Joseph for. His brothers knew exactly what a slave was worth — they'd thought about this before. What breaks me is the coat. After the sale, they dipped it in goat's blood and brought it to their father. "We found this. Is it your son's coat?" They didn't even say Joseph's name.*
 
 ---
 
@@ -366,56 +366,38 @@ The light settled. The hum steadied. They were standing on a stone terrace overl
 ## Chapter 5: The Vizier
 
 *From the journal of Professor Hector Castillo:*
-*April 15, 2017 — Avaris, Tell el-Dab'a, Egypt*
-*We found the administrative seal today — stamped in clay, clear as the day it was pressed. A signet ring impression belonging to a high official, a vizier of the court. The inscription is damaged but the title is unmistakable: Overseer of the Granaries of Upper and Lower Egypt. This is someone who controlled the food supply of the entire kingdom. And the name, partially legible, is Semitic. Not Egyptian. A foreigner at the pinnacle of power. I sat in the trench with the clay tablet in my hands and did the math. From slave to prisoner to second in command of the most powerful nation on earth. What happened to this man in between? What kind of suffering builds that instead of destroying it?*
+*April 15, 2017 — Avaris, Egypt*
+*We found a seal in the clay today — a signet ring mark from a vizier, Egypt's second-in-command. The name on it isn't Egyptian. It's from Canaan. A foreigner who rose to the top of the most powerful nation on earth. From slave to prisoner to second in command. What kind of suffering builds a person like that instead of destroying them?*
 
 ---
 
-The city was Memphis. Eli was almost sure.
-
-He recognized the layout from Abuelo's maps — the river cutting wide and silver through the flat Delta, the temple complexes with their massive stone columns, the administrative quarter rising on a low hill above the marketplaces. Years had passed. How many, Eli couldn't tell. The air felt different, not just the geography but the time — heavier, more established, like a world that had settled into its own weight.
+The city was Memphis — Eli recognized the layout from Abuelo's maps. Years had passed. Maybe twenty. The air felt heavier here, like a world that had settled into its own weight.
 
 "This is Egypt," Elena said. "Like, actual ancient Egypt."
 
-"The Delta," Eli said. "Near the capital."
-
-"How many years ahead are we?"
-
-"Maybe twenty. Maybe more."
-
-Jordan was staring at the city. Sunlight glanced off the stone buildings and the slow river and the irrigation channels that threaded through green fields like veins. Boats moved in the distance. People swarmed through the streets below in a constant, colorful press. The air smelled nothing like Canaan — it was thick with river water and lotus flowers and something sharp like natron salt.
-
 "If this is twenty years later," Jordan said carefully, "then Joseph is —"
 
-"Down there somewhere," Eli said. "If he survived."
+"Down there somewhere," Eli said.
 
-"He survived." Eli said it with a certainty that came from knowing the story. But standing here, looking at this enormous, foreign, indifferent city, the certainty felt thin. A boy sold by his brothers, dragged to a country where he knew no one and nothing. The distance between that pit in Canaan and this gleaming capital was more than miles.
+The city spread below them — enormous stone buildings, a wide silver river, streets packed with merchants and donkeys and officials in white linen. Elena turned in a slow circle, taking it all in. "This is the fanciest place we've been. By a lot."
 
-Elena turned in a slow circle, taking in the stone terrace, the painted columns, the carved reliefs of pharaohs and gods and processions of workers bearing grain. "This is the fanciest place we've been. By a lot."
-
-"It's one of the wealthiest civilizations in the ancient world," Eli said.
-
-"So if Joseph ended up here, as a slave, with nothing —"
+"So if Joseph ended up here, as a slave, with nothing —" she said.
 
 "He had to start at the very bottom."
 
-They found their way down from the terrace through a narrow stairway cut into the stone. The steps were worn smooth by centuries of feet, and the walls on either side were painted with faded images — birds, reeds, a man standing in a field of grain with his arms raised.
-
-The streets were packed and loud — merchants calling from stalls, donkeys laden with grain pushing through the crowd, officials in white linen striding past with servants in their wake. A group of children chased a dog through an alley, laughing. An old woman sat in a doorway grinding grain between two flat stones, her hands moving in a rhythm so practiced it looked like breathing. The smell was different from Canaan — denser, sweeter, layered with river mud and perfume and the sharp tang of beer being brewed.
-
-Nobody noticed three kids in rough tunics. The Pathfinder's effect held even here, even decades later. They moved through the crowd like water through fingers.
-
-The administrative quarter was on the hill. Larger buildings here, with guards at the doors and scribes hurrying between offices, carrying scrolls and clay tablets. The whole area hummed with efficiency — the business of running an empire, organized and relentless.
+They made their way down through the crowded streets. Nobody noticed three kids in rough tunics. The Pathfinder's effect held even here. The administrative quarter was on the hill — larger buildings with guards at the doors and scribes hurrying between offices. The whole area hummed with the business of running an empire.
 
 And in the center of it, in a courtyard surrounded by columns of polished stone, stood a man giving orders.
 
 He was tall — taller than most of the Egyptians around him. His head was shaved in the Egyptian style, and he wore fine linen and a collar of gold and lapis lazuli. A signet ring gleamed on his right hand. His voice was calm, measured, the kind of voice that expected to be obeyed and usually was. Scribes flanked him, writing as he spoke. Soldiers stood at the courtyard's edges.
 
-Eli studied his face. The lines of it. The jaw. The way he held himself — straight-backed, composed, controlled.
+Eli was still studying the man's face when Elena grabbed his arm.
 
-"That's Joseph," Eli breathed.
+"Eli. That's *him*. Look at the way he stands — the way he holds his shoulders. That's Joseph."
 
-"No way," Elena said. She was staring. "He looks — he looks *Egyptian*."
+Eli blinked. She was right. The shaved head and Egyptian clothes had fooled his eyes, but Elena had seen past all of it. The posture, the way the man tilted his chin — it was the same boy from the camp in Canaan, grown up and armored in gold.
+
+"He looks completely Egyptian," Eli said.
 
 He did. The shaved head, the clothes, the bearing — everything about him had been reshaped by twenty years in this country. He'd been sold as a slave and now he commanded the grain supply of the most powerful kingdom in the world. Pharaoh's right hand. Second only to the throne.
 
@@ -423,7 +405,7 @@ But Eli saw something the others might have missed. Joseph's composure was real,
 
 He wasn't broken. But he was marked.
 
-"He's in charge of the food," Eli said quietly. "There's a famine coming — it's already started. Joseph interpreted Pharaoh's dream about seven years of plenty followed by seven years of famine. Pharaoh put him in charge of storing grain."
+"He's the vizier," Eli said quietly. "Egypt's second-in-command — the most powerful person in the country after Pharaoh himself. And he's in charge of the food. There's a famine coming — it's already started. Joseph interpreted Pharaoh's dream about seven years of plenty followed by seven years of famine. Pharaoh put him in charge of storing grain."
 
 "So everyone comes to him for food," Jordan said.
 
@@ -431,11 +413,9 @@ He wasn't broken. But he was marked.
 
 Jordan's eyes narrowed behind his glasses. "Including his brothers."
 
-The cold touched Eli's neck. Just a brush — like a draft from a window left open. Elena's hands went to her arms. Jordan blinked and rubbed his eyes.
+A heaviness settled over the courtyard like a blanket dropped from above. Eli's thoughts went sluggish — thick and slow, as if the air itself was resisting the idea that anything could ever change. Elena stopped fidgeting and stood very still, her energy drained. Jordan's eyes went unfocused, staring at nothing.
 
-At the edges of the courtyard, the shadows seemed longer than they should have been. The sunlight on the polished stone looked a shade thinner. Not enough to notice if you weren't looking. But they were looking.
-
-Something was here. Something that had followed them through the time jump or been waiting when they arrived. It crept along the margins of the bright Egyptian afternoon like ink spreading through water, patient and purposeful and aimed at the man in the center of the courtyard.
+Something was here. It had been here a long time. It lived in the bureaucratic rhythm of the grain lines, in the mechanical efficiency of empire, in the grinding sameness of day after day. It didn't need to attack. It just had to make everything feel too heavy to move.
 
 Joseph finished giving his orders. The scribes departed. The soldiers shifted. For one moment, Joseph stood alone between the columns, and Eli saw his face without the armor — tired, distant, the face of a man carrying something that twenty years of power hadn't made lighter.
 
@@ -446,18 +426,14 @@ Then the mask slid back into place, and the vizier of Egypt turned and walked in
 ## Chapter 6: The Brothers Arrive
 
 *From the journal of Professor Hector Castillo:*
-*April 18, 2017 — Avaris, Tell el-Dab'a, Egypt*
-*The famine records are consistent across sources. Seven lean years following seven years of abundance — the cycle shows up in Nile sediment cores, in harvest records from multiple dynasties. It was real. And if the famine was real, then the migration was real too. Families from Canaan streaming south into Egypt, desperate for grain. Imagine being one of those families. Imagine walking into the court of the most powerful man in the kingdom and not knowing he's the brother you sold into slavery twenty years ago. Now imagine being him. Looking down from that throne at the faces of the men who threw you in a hole and ate lunch while you screamed. What do you do with that kind of power over the people who destroyed you?*
+*April 18, 2017 — Avaris, Egypt*
+*The famine was real — it shows up in the records everywhere. Families from Canaan came streaming south to Egypt, desperate for food. Imagine walking into the court of the most powerful man in the kingdom and not knowing he's the brother you sold into slavery twenty years ago. Now imagine being him — looking down at the faces of the men who threw you in a hole and ate lunch while you screamed. What do you do with that kind of power?*
 
 ---
 
-They came on a Tuesday.
+Days passed. Joseph distributed grain with cold efficiency — fair, organized, impersonal. The famine had spread beyond Egypt, and people came from everywhere, hollow-faced and desperate. Joseph processed them one after another without pausing or engaging. The mask never slipped.
 
-Eli didn't know how he knew it was Tuesday, but the rhythm of the grain distribution had a weekly cycle, and the largest crowds came on the second and fifth days. The courtyard was packed — families from the Delta, traders from the south, and foreigners. Lots of foreigners. The famine had spread beyond Egypt, and people came from every direction, crossing deserts and borders they wouldn't have crossed in better times. Eli could see it on their faces — the hollow look of people who had watched their fields turn to dust and their children grow thin.
-
-The kids had spent days watching the grain distributions. Joseph ran them with cold efficiency — fair, organized, impersonal. He didn't linger. He didn't engage. He counted and measured and recorded and moved to the next supplicant. The mask never slipped. Sometimes, late in the day, Eli caught Joseph standing alone in the courtyard after the crowds had gone, staring at nothing. His hands would be still at his sides. His face would be blank. Then a scribe would approach with a question, and the vizier would snap back into place like a door pulled shut by a spring.
-
-But the cold hadn't left. It hung at the edges of everything, thickening slowly. The shadows in the courtyard stayed too long. The stone columns looked greyer than they had on the first day. Something was here. It was patient.
+But the heaviness hadn't left. It hung at the edges of everything, thickening slowly. The shadows in the courtyard stayed too long. The stone columns looked greyer than they had on the first day. Something was here. It was patient.
 
 Elena noticed the brothers first.
 
@@ -493,17 +469,11 @@ Joseph knew them.
 
 His jaw tightened. The tendons in his neck stood out. His hand — the one with the signet ring — curled into a fist on the armrest of his chair.
 
-And the cold surged.
+And the weight surged.
 
-It hit Eli like a wall. The temperature in the courtyard dropped ten degrees in a second. Elena gasped and wrapped her arms around herself. Jordan's vision blurred — Eli could tell because Jordan grabbed the nearest column and squeezed his eyes shut.
+It hit Eli like a wall — not cold, but heaviness. A crushing sense that nothing good could come from this moment. That revenge was the only natural outcome, as inevitable as gravity. Elena's shoulders sagged. Jordan went rigid, his breathing shallow, as if the air had turned thick as mud.
 
-The shadows at the edges of the courtyard thickened. The stone under their feet felt like ice. The air went flat and dead, all the noise of the marketplace muffled down to a grey whisper. And in the center of it, Joseph sat on his throne with his fist clenched and his brother's faces at his feet, and something was pressing in on him — pressing against the composure, pressing against the years, pressing against the carefully built walls of his Egyptian life — whispering in the language of old wounds.
-
-*They deserve this.*
-
-Eli heard it. Not as words — the Fade didn't speak. But as a feeling, a current of thought that pushed through the cold air like a tide. A bitter, justified, undeniable truth wrapped in poison: these men had destroyed his life. They had ripped away his father's love and thrown him into darkness. They had sold him for the price of a slave and gone home and eaten dinner. They deserved whatever he gave them.
-
-*Make them pay.*
+The shadows at the edges of the courtyard thickened. The stone under their feet felt heavier. The air went flat and dead, all the noise of the marketplace muffled down to a grey whisper. And in the center of it, Joseph sat on his throne with his fist clenched and his brother's faces at his feet, and something was pressing in on him — pressing against the composure, pressing against the years, pressing against the carefully built walls of his Egyptian life — whispering in the language of old wounds.
 
 Joseph's face was a mask of stone. He spoke — harsh, clipped Egyptian, translated by an interpreter though Eli knew Joseph understood every word of Hebrew his brothers spoke. He accused them of being spies. He demanded to know where they'd come from. He interrogated them about their family — how many brothers, was their father alive, was there a youngest son.
 
@@ -531,15 +501,15 @@ Jordan heard it too. His expression didn't change, but his hand found the rubber
 
 *From the journal of Professor Hector Castillo:*
 *December 19, 2018 — Home office, midnight*
-*I keep trying to write about forgiveness as an archaeologist — to ground it in evidence and context and rational analysis. But forgiveness isn't rational. It's the most irrational act in scripture. Joseph had power. Joseph had justification. Joseph had twenty years of suffering that any reasonable person would say earned him the right to vengeance. And he chose to weep instead. "I am Joseph. Is my father still alive?" That's the first thing he says. Not "how dare you," not "do you know what you did to me." His first thought was his father. His first question was about love. I don't have an archaeological framework for that. I'm not sure I have any framework at all.*
+*Forgiveness isn't rational. Joseph had power, and every right to use it for revenge. Instead he chose to weep. "I am Joseph. Is my father still alive?" That's the first thing he says. Not "how dare you." His first thought was his father. His first question was about love. I don't have a framework for that. I'm not sure I need one.*
 
 ---
 
 The brothers came back.
 
-It took weeks. Eli lost count of the days — the Pathfinder held them in this time and place, and the days blurred into a rhythm of watching and waiting. The cold didn't leave. It settled into the city like a second climate, pressing against every bright surface, dulling every color. Joseph went about his work with mechanical precision, and the pain underneath got closer to the surface with every day. Eli saw him once, walking alone through the granary at dusk, running his hand along the jars of stored wheat with an expression that wasn't pride or satisfaction. It was remembrance. A man touching the evidence of God's provision and still not sure if it was enough to heal what had been taken from him.
+It took weeks. Eli lost count of the days — the Pathfinder held them in this time and place, and the days blurred into a rhythm of watching and waiting. The heaviness didn't leave. It settled into the city like a second climate, pressing against every bright surface, dulling every color. Joseph went about his work with mechanical precision, and the pain underneath got closer to the surface with every day. Eli saw him once, walking alone through the granary at dusk, running his hand along the jars of stored wheat with an expression that wasn't pride or satisfaction. It was remembrance. A man touching the evidence of God's provision and still not sure if it was enough to heal what had been taken from him.
 
-Elena spent the waiting days pacing. She couldn't sit still in this city, couldn't just watch and do nothing while the cold pressed in. "I hate waiting," she said, more than once. "Waiting is the worst part of every adventure."
+Elena spent the waiting days pacing. She couldn't sit still in this city, couldn't just watch and do nothing while the heaviness pressed in. "I hate waiting," she said, more than once. "Waiting is the worst part of every adventure."
 
 Jordan spent the days quietly. He asked Eli questions about the story — not skeptical questions, not "but how is this possible" questions. Real ones. "What happened to Joseph between the pit and the palace? How long was he in prison? Did he think God had forgotten him?" Eli told him what he knew, and Jordan listened with the stillness of someone collecting pieces to a puzzle he couldn't see the edges of yet.
 
@@ -555,7 +525,7 @@ Eli watched his eyes go straight to Benjamin. For one second — one heartbeat �
 
 Then the mask closed again. Joseph spoke through his interpreter, formal and distant. He directed Benjamin to a seat of honor. He served the brothers food. He watched them eat.
 
-The cold was brutal now. Elena couldn't stop shivering. Jordan's vision had narrowed to a tunnel — Eli could see him turning his head constantly, trying to track things at the edges that kept going grey. The hum in Eli's chest was sharp and dissonant, the two notes grinding against each other like gears misaligned.
+The weight was brutal now. The room felt like it was shrinking — the walls pressing inward, the ceiling lowering, the air itself becoming dense with old bitterness. Elena couldn't sit still, couldn't stay calm, her hands opening and closing at her sides. Jordan had gone very quiet, his face closed off. The hum in Eli's chest was sharp and dissonant, the two notes grinding against each other like gears out of step.
 
 Joseph stood abruptly and left the room.
 
@@ -573,11 +543,11 @@ Jordan stood against the far wall. He wasn't crying. His face had that closed lo
 
 Eli didn't know what to do. He didn't know what to feel. He stood in the corridor of an Egyptian palace and listened to the most powerful man in the kingdom cry like a lost child, and something in him understood that this was the center of the story. Not the pit. Not the slavery. Not the rise to power. This — this moment of a man alone with his grief, deciding what to do with it.
 
-The cold pressed in harder. The air in the corridor went thick and numb. The hum turned ugly — a grinding, discordant buzz that pushed against Eli's ribs like a fist.
+The heaviness pressed in harder. The air in the corridor went thick and numb. The hum turned ugly — a grinding, discordant buzz that pushed against Eli's ribs like a fist.
 
-*They don't deserve forgiveness. They never even asked for it. They don't even know who you are. Walk away. Send them home. Keep the mask. It's safer behind the mask.*
+The corridor felt narrower. The walls seemed to lean inward. The air was thick and stale, pressing against Eli's skin like something wet and heavy. Every bright surface in the palace had gone dull, as if the light itself was being slowly suffocated.
 
-Eli could feel the pull of it — the bitter logic, the justified rage. It made sense. It was fair. Justice said these men should pay.
+Eli could feel the pull of it — the weight of old wounds, the gravity of justified rage dragging everything downward. The stone under his feet felt heavier with each breath.
 
 Joseph lifted his head. His face was wrecked — swollen, tear-streaked, red. But his eyes were clear. Clearer than Eli had seen them since they'd arrived in Egypt. Like the weeping had burned something away, and what was left underneath was older than the pain.
 
@@ -605,9 +575,9 @@ They came. Stumbling, shaking, some of them weeping.
 
 He was crying again. Not the broken, private sobs from the storeroom. These tears were different — open, unstoppable, falling down his face while he spoke. And he reached for them. He pulled the nearest brother into his arms and held on with the grip of a man who had been holding himself together for twenty years and was finally, finally letting go.
 
-The cold shattered.
+The heaviness shattered.
 
-Eli felt it happen — a crack that ran through the numbness like a fault line splitting, and then a rush of warmth that poured through the room like sunlight through broken clouds. The grey at the edges of the room burned away. Colors flooded back — the rich reds of the wall hangings, the gold of the dishes, the warm brown of Benjamin's eyes as he stared at his brother. Jordan's peripheral vision snapped back into focus. Elena gasped as the cold left her bones.
+Eli felt it happen — a crack that ran through the numbness like a fault line splitting, and then a rush of warmth that poured through the room like sunlight through broken clouds. The grey at the edges of the room burned away. Colors flooded back — the rich reds of the wall hangings, the gold of the dishes, the warm brown of Benjamin's eyes as he stared at his brother. Jordan's peripheral vision snapped back into focus. Elena gasped as the weight lifted from her chest.
 
 Joseph held his brothers and wept, and the room was bright.
 
@@ -629,9 +599,7 @@ Eli knelt. The thread lay in the crack between two stones, glowing like a vein o
 
 It was warm. The same alive warmth as the stone from the creek, the same heartbeat-pulse. But this was different too — softer, more layered. The warmth of the stone had been clear and singular, like one voice singing. This warmth was complex, braided, the way forgiveness is complex — not a single act but a thousand small choices woven together.
 
-Eli understood.
-
-The thread wasn't from the moment the coat was torn. It was from this moment — the moment Joseph chose to reach for his brothers instead of pushing them away. The thread had survived the tearing and the blood and the decades because forgiveness doesn't undo the hurt. It carries the hurt forward into something new. The coat was destroyed. The thread remained. The family was broken. The love remained.
+The coat was destroyed. The thread remained. The family was broken. The love remained.
 
 The light began to build.
 
@@ -649,7 +617,7 @@ Then Egypt dissolved, and they were falling through light.
 
 *From the journal of Professor Hector Castillo:*
 *December 25, 2018 — Home office, Christmas morning*
-*Elena called this morning. She asked me what the hardest part of forgiveness is. I said it depends on who hurt you. She said, "No, Abuelo. What's the hardest part?" I think she was testing me. I told her the truth: the hardest part is that it doesn't feel fair. It shouldn't work. The person who hurt you doesn't deserve it, and you don't feel strong enough to give it, and the whole thing is upside down and backwards from what justice demands. But that's the point. If forgiveness only happened when it was deserved, it wouldn't be forgiveness. It would be a transaction. And God doesn't deal in transactions. He deals in grace. I told her that, and she was quiet for a long time. Then she said, "I think I'm going to need to remember that." I wonder what she meant.*
+*Elena asked me today what the hardest part of forgiveness is. I told her the truth: it doesn't feel fair. The person who hurt you doesn't deserve it. But if forgiveness only happened when it was deserved, it wouldn't be forgiveness. It would be a deal. And God doesn't make deals. He gives grace. She was quiet for a long time after that.*
 
 ---
 
@@ -661,7 +629,7 @@ His right hand was open. The thread was gone.
 
 But the warmth lingered — not just in his palm, this time, but in his chest, in the space behind his ribs where the hum lived. Three notes still resonated, fading slowly like the last ring of a bell.
 
-Elena stood beside him, blinking, her arms wrapped around herself out of habit. The cold was gone, but her body hadn't caught up yet. She looked at her hands. She looked at Eli. She looked at the Pathfinder.
+Elena stood beside him, blinking, her arms wrapped around herself out of habit. The heaviness was gone, but her body hadn't caught up yet. She looked at her hands. She looked at Eli. She looked at the Pathfinder.
 
 "Three," she whispered.
 
@@ -747,7 +715,7 @@ The Pathfinder hummed its three-note chord in the fading light, patient as a pra
 
 Eli closed the journal and set it on the desk. Three promises preserved. Three moments of God's faithfulness carved into bronze. Nine more waiting.
 
-He looked at his sister, who was already reaching for another notebook. He looked at Jordan, who was leaning against the doorframe with his hands in his pockets and an expression on his face that was no longer skepticism. It was something newer than that. Something that didn't have a name yet but was growing — slowly, the way real things grow — in the space between questions and answers.
+He looked at his sister, who was already reaching for another notebook. He looked at Jordan, who was leaning against the doorframe with his hands in his pockets, and for the first time, not looking like he wanted to leave.
 
 The thread was gone. The forgiveness remained.
 
