@@ -638,6 +638,12 @@ She took a breath. Let it out. Squared her shoulders the way she did before a ra
 
 "Good," she said. "Then we'd better be ready."
 
+Eli turned to set the phone back on the desk and knocked Abuelo's open journal to the floor. He picked it up and froze. The page it had fallen open to held a sketch — a rough altar made of twelve stones on a mountaintop, fire pouring down from an empty sky. In the margin, circled twice in red ink: *1 Kings 18. Mount Carmel. 450 prophets of Baal vs. one man. One prayer. One fire.*
+
+Elena leaned over his shoulder. Her breath caught. "One man against four hundred and fifty?"
+
+"Sounds about right," Eli said quietly, and closed the journal.
+
 The Pathfinder hummed its six-note chord in the fading light — patient, steady, faithful as an open window facing home.
 
 ---

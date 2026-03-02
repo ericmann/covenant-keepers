@@ -798,6 +798,12 @@ And somewhere in the space between doubt and faith, Jordan Park had said a thing
 
 The Pathfinder hummed, patient as a prayer, and waited for the next adventure.
 
+Eli paused at the door. A journal lay open on the side table — one he hadn't noticed before, turned to a page covered in Abuelo's tight pencil work. A sketch of wheat stalks, heavy with grain, bent low over a woman kneeling in a field. In the margin, circled twice in fading ink: *Ruth 2. Bethlehem. Gleaning. A woman who stayed when she had every reason to leave.*
+
+"What's that one about?" Jordan asked, glancing back over his shoulder.
+
+Eli looked at the sketch — the quiet field, the bowed stalks, the woman gathering what others had left behind. "I think it's about showing up," he said.
+
 ---
 
 *End of Book 8: The Coin of Second Chances*

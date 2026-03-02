@@ -14,7 +14,7 @@
 
 ---
 
-Eleven notes.
+Ten notes.
 
 Eli stood at Abuelo's desk, his hand resting on the Pathfinder, and listened. The hum had changed over the months — grown from a single tone in his chest to something richer, fuller. Ten symbols glowed around the bronze face in a slow, breathing pulse. Ten moments preserved. Ten promises anchored.
 
@@ -34,7 +34,7 @@ Jordan stood at the window, arms crossed, hood up. He was watching the street. T
 
 Abuelo set down his tea. His hand found the smooth stone in his pocket — the one from his first dig, the one he always rubbed when he was thinking hard. "You've been to Babylon before."
 
-"Daniel," Jordan said from the window. "The lions' den. Book 6." He still didn't turn around. "Same empire. Same kind of trap."
+"Daniel," Jordan said from the window. "The lions' den. The Daniel adventure." He still didn't turn around. "Same empire. Same kind of trap."
 
 Abuelo nodded slowly. "Same empire. Different fire." He crossed to the desk and opened his journal to a page marked with a faded ribbon. "I was in Hillah three years ago. The ruins of Babylon. There's a structure there — brick, enormous, scorched black. The locals call it the furnace."
 

@@ -52,7 +52,7 @@ Abuelo smiled. "You have the same look I had when I first studied Ruth. Confused
 
 "I wasn't —"
 
-"It's all right. Everyone does." Abuelo's gaze drifted to the Pathfinder. The eight glowing symbols cast faint colored light across his weathered hands. "Eight stories so far. A giant. A flood. A furnace. Fire from heaven. Dramatic, every one of them. And now you're about to visit a field where a woman picks up leftover grain."
+"It's all right. Everyone does." Abuelo's gaze drifted to the Pathfinder. The eight glowing symbols cast faint colored light across his weathered hands. "Eight stories so far. A giant. A flood. A prophet swallowed by a fish. Fire from heaven. Dramatic, every one of them. And now you're about to visit a field where a woman picks up leftover grain."
 
 Elena groaned softly.
 

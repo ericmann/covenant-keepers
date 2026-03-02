@@ -136,8 +136,6 @@ Jordan's eyes moved across the crowd with the observational precision that made 
 
 The road crested the ridge, and the summit of Carmel spread before them. Elena's hand found Eli's arm. Her fingers were cool.
 
-Behind the king's procession, in clusters of five and ten, came the prophets of Baal. Eli counted until he lost track. Their robes were ornate, their heads shaved in patterns, and they moved with the confidence of men who had power, resources, and numbers on their side.
-
 "How many?" Elena whispered.
 
 Eli watched the last of them crest the ridge.
@@ -623,6 +621,18 @@ The Pathfinder hummed its seven-note chord in the fading light. Almost a melody.
 Outside, the summer evening settled over Abuelo's house. The wind chimes made of old keys clinked softly from the eaves. Somewhere in the distance, the low roll of thunder moved across the sky — real thunder, natural thunder, the kind that meant rain was coming.
 
 Eli set the Pathfinder down on its leather cloth. Seven symbols glowed. Five waited.
+
+His hand brushed one of Abuelo's journals — *Field Notes, Volume 63* — and it fell open to a dog-eared page near the middle. A sketch filled the top half: a small, ancient coin rendered in careful pencil strokes, and below it, the curved hull of a merchant ship with a single square sail. Notes crowded the margins in Abuelo's tight handwriting: *Jonah 1:3. He paid the fare and boarded a ship for Tarshish — running from God.* Below the sketch, circled twice in faded ink: *Joppa harbor. A man who ran. A God who followed. The second chance no one deserved.*
+
+"A coin and a boat," Elena said, reading over his shoulder. "That doesn't sound ominous at all."
+
+Jordan leaned in, squinting at the sketch. "Is that a whale?"
+
+"It's a ship, Jordan."
+
+"The thing in the corner. With the teeth."
+
+Eli looked closer. In the bottom corner of the page, barely more than a few quick lines, Abuelo had drawn something vast and dark beneath the waves.
 
 He was already thinking about the eighth.
 
