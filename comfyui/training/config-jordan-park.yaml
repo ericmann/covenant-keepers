@@ -1,0 +1,57 @@
+# AI-Toolkit LoRA Training Config — Jordan Park
+#
+# Usage: python run.py config/config-jordan-park.yaml
+
+---
+job: lora
+config:
+  name: "jordan-park-lora"
+  process:
+    - type: "sd_trainer"
+      training_folder: "output"
+      device: "cuda:0"
+      network:
+        type: "lora"
+        linear: 32          # rank
+        linear_alpha: 16     # alpha = rank / 2
+      save:
+        dtype: "float16"
+        save_every: 250
+        max_step_saves_to_keep: 3
+      datasets:
+        - folder_path: "datasets/jordan-park"
+          caption_ext: ".txt"
+          caption_dropout_rate: 0.05
+          shuffle_tokens: false
+          cache_latents_to_disk: true
+          resolution:
+            - 768
+            - 1024
+      train:
+        batch_size: 1
+        steps: 3000           # ~12 epochs with 15 images x 15 repeats
+        gradient_accumulation_steps: 1
+        train_unet: true
+        train_text_encoder: false
+        gradient_checkpointing: true
+        noise_scheduler: "flowmatch"
+        optimizer: "adamw8bit"
+        lr: 1.0e-4
+        lr_scheduler: "cosine"
+        lr_scheduler_params:
+          T_max: 3000
+          eta_min: 1.0e-6
+      model:
+        name_or_path: "black-forest-labs/FLUX.1-dev"
+        is_flux: true
+        quantize: false       # DGX Spark has plenty of memory
+      sample:
+        sampler: "flowmatch"
+        sample_every: 250
+        width: 768
+        height: 1024
+        prompts:
+          - "jordan_park, 11-year-old Korean-American boy standing with arms crossed, light golden-brown skin, straight black hair falling over forehead, rectangular dark-framed glasses, navy hoodie, skeptical expression, vintage illustration style"
+          - "jordan_park, 11-year-old Korean-American boy sitting and reading a book, light golden-brown skin, dark-framed glasses, straight black hair, hands in hoodie pockets, vintage illustration style"
+          - "jordan_park, 11-year-old Korean-American boy looking at something with wide eyes behind rectangular glasses, light golden-brown skin, straight black hair, rubber band on wrist, vintage illustration style"
+      trigger_word: "jordan_park"

@@ -28,13 +28,16 @@ Since these are fictional illustrated characters, we bootstrap from text descrip
 
 ## Training
 
-Use AI-Toolkit with the provided `config.yaml`:
+Per-character configs are provided — one for each character:
 
 ```bash
-python run.py config/config.yaml
+python run.py config/config-eli-castillo.yaml
+python run.py config/config-elena-castillo.yaml
+python run.py config/config-jordan-park.yaml
+python run.py config/config-abuelo-castillo.yaml
 ```
 
-Or use Flux Gym for a GUI-based workflow.
+Or use Flux Gym for a GUI-based workflow. Each config has character-appropriate sample prompts for validation during training.
 
 ## Training Configuration
 

@@ -1,7 +1,12 @@
-# AI-Toolkit LoRA Training Config — Covenant Keepers Characters
+# AI-Toolkit LoRA Training Config — Eli Castillo (template/reference)
 #
-# Usage: python run.py config/config.yaml
-# Duplicate this file and update job.name, trigger_word, and folder for each character.
+# Per-character configs are provided:
+#   config-eli-castillo.yaml
+#   config-elena-castillo.yaml
+#   config-jordan-park.yaml
+#   config-abuelo-castillo.yaml
+#
+# Usage: python run.py config/config-eli-castillo.yaml
 
 ---
 job: lora
@@ -57,8 +62,8 @@ config:
           - "eli_castillo, 12-year-old Latino boy looking at an ancient artifact, warm brown skin, brown eyes wide with wonder, vintage illustration style"
       trigger_word: "eli_castillo"
 
-# To train other characters, duplicate this config and change:
-#   - job.config.name: "elena-castillo-lora" / "jordan-park-lora" / "abuelo-castillo-lora"
-#   - datasets.folder_path: "datasets/elena-castillo" / etc.
-#   - trigger_word: "elena_castillo" / "jordan_park" / "abuelo_castillo"
-#   - sample.prompts: update with character-appropriate descriptions
+# Per-character configs are already provided. See:
+#   config-eli-castillo.yaml
+#   config-elena-castillo.yaml
+#   config-jordan-park.yaml
+#   config-abuelo-castillo.yaml

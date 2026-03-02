@@ -29,8 +29,8 @@
 
 ### Illustration 1 — "The Hidden Study"
 **Placement:** Chapter 1, after the bookcase opens
-**Scene:** The three kids framed by the open bookcase doorway, peering into shadow. Eli in front, Elena pushing past, Jordan hanging back. The room beyond is suggested by a few shapes — the corner of a map, the edge of a desk, a faint glow from the Pathfinder.
-**Focus:** The kids' body language and the doorway. The study is mystery, not inventory.
+**Scene:** A bookcase swung open like a door, revealing a dark hidden room beyond. Eli stepping through the doorway, one hand on the bookcase edge, peering into shadow. A faint glow from the Pathfinder on a desk visible in the darkness ahead.
+**Focus:** Eli and the mysterious doorway. The study is mystery, not inventory. Single character.
 **Size:** Half-page
 
 ### Illustration 2 — "The Pathfinder"
@@ -47,8 +47,8 @@
 
 ### Illustration 4 — "Goliath's Challenge"
 **Placement:** Chapter 2 or 3, first clear sight of Goliath
-**Scene:** Goliath from below, seen past the shoulders of a few Israelite soldiers who are pulling back. He is massive — the size difference is the entire point. Spear over one shoulder, armor suggested with a few bold lines.
-**Focus:** The size contrast. Goliath imposing but not grotesque. The soldiers' body language tells the story — hunched, leaning away.
+**Scene:** Goliath from below, towering against an empty sky. A spear rests over one shoulder, armor suggested with a few bold lines. He is the sole figure in the frame.
+**Focus:** Goliath's overwhelming size, emphasized by the low angle and empty sky. Imposing but not grotesque. No other figures.
 **Size:** Half-page
 
 ### Illustration 5 — "David Arrives"
@@ -71,8 +71,8 @@
 
 ### Illustration 8 — "The First Symbol"
 **Placement:** Chapter 8, the symbol transforms
-**Scene:** Close-up of the Pathfinder on the desk. The first symbol — a stone — is now sharp, polished, filled with warm amber enamel, and glowing faintly. The other eleven symbols are barely-there scratches in old bronze. Eli's empty hands hover above the device. Elena and Jordan visible in the background — Elena grinning, Jordan leaning in with guarded curiosity.
-**Focus:** The transformed symbol and the contrast with the faint, unfinished ones. Warm light from the single completed symbol; the rest in shadow.
+**Scene:** Close-up of the Pathfinder on the desk. The first symbol — a stone — is now sharp, polished, and glowing with warm light. The other eleven symbols are barely-there scratches in old bronze. Eli's open, empty palm hovers above the device, fingers slightly spread.
+**Focus:** The disc and Eli's hand. The transformed symbol contrasts with the faint, unfinished ones. Warm light from the single completed symbol; the rest in shadow. No background characters.
 **Size:** Half-page
 
 ---
