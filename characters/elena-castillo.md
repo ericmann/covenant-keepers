@@ -56,7 +56,7 @@ Impatience. She wants to fix everything right now and gets frustrated when God's
 - **Book 1:** Wants to fight Goliath herself. Has to learn that this isn't her battle.
 - **Book 5:** Furious at the slow march around Jericho. Her impatience is at its peak. The walls falling is the first real crack in her "just DO something" worldview.
 - **Book 9:** The Ruth book. The quiet one. Elena watches a woman whose courage is entirely expressed through loyalty, hard work, and showing up. It fundamentally changes how she defines bravery.
-- **Book 12:** Stands firm in the darkest moment not by charging forward but by choosing to wait. The hardest thing she's ever done — and the bravest.
+- **Book 12:** Sees the incomplete map and immediately looks forward: "So there's more." Not afraid of an unfinished story — energized by it. Her growth from impatience to eager anticipation is complete.
 
 ## The Fade's Effect on Elena
 She gets cold. Physically, bone-deep cold. This is particularly effective because Elena is always warm, always in motion. The cold forces her to stop, and stopping is what she fears most.

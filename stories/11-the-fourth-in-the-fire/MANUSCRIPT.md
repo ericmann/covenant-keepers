@@ -1,4 +1,4 @@
-# Book 11: The Shepherds Light — Manuscript
+# Book 11: The Fourth in the Fire — Manuscript
 
 **Status:** Not started
 **Target word count:** 8,000–10,000

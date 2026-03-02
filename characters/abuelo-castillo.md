@@ -41,7 +41,7 @@ Abuelo speaks primarily through his journal entries, which open each chapter. Th
 - **Books 1–3:** Hospitalized after a fall. The kids find his study and the Pathfinder. He's off-page except through his journals.
 - **Books 4–7:** Recovering. Brief phone calls and hospital visits where he gives cryptic, encouraging guidance. Beginning to realize what the kids have found.
 - **Books 8–11:** Home but frail. More present. Shares knowledge he's held back. Increasingly clear that he knew about the Fade — or at least suspected.
-- **Book 12:** Fully present for the return. Sees the completed Pathfinder. His life's work completed by his grandchildren. Final line: "I always wondered who it was waiting for."
+- **Book 12:** Fully present for the return. Sees the completed Pathfinder unfold into the map. Recognizes Mount Moriah at the center. His line: "All roads lead back to this mountain. Something happened here today. And something will happen here again." Then, looking at the kids: "I spent fifty years looking for these. And it was waiting for you three the whole time." He's not bitter — he's awed. His journals, his knowledge, his lifetime of preparation — he was always part of the plan, just not the way he expected.
 
 ## Purpose in the Story
 - Provides the Indiana Jones layer — archaeological grounding
@@ -59,3 +59,4 @@ This is revealed gradually and should be managed carefully:
 - He suspected the Pathfinder was the key but couldn't activate it (revealed ~Book 4)
 - He knew something was erasing the connections between God's promises and memory — he may not have called it "the Fade" but he documented its effects in his journals (revealed ~Book 8)
 - He suspected it wasn't meant for him — that the Pathfinder needed young faith, not academic knowledge (revealed ~Book 11)
+- He recognizes the significance of Mount Moriah at the center of the map — he knows the geography, the history, what that mountain will become. He doesn't explain it fully. He lets the map speak for itself. (Revealed Book 12)

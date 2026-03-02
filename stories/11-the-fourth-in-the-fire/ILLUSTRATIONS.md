@@ -1,4 +1,4 @@
-# Book 12: The Stone Of The Empty Tomb — Illustration Specifications
+# Book 11: The Fourth in the Fire — Illustration Specifications
 
 ## Cover Art (Full Color)
 [To be specified after outline is finalized]

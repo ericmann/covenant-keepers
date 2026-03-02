@@ -11,13 +11,13 @@ Through Abuelo's journals, their mission becomes clear: twelve Covenant Relics a
 ## The Pathfinder
 
 - Bronze, heavy, warm to the touch — about the size of a dinner plate
-- Twelve symbols arranged in a circle like a clock face, each an engraving corresponding to a relic (a stone, a branch, a thread, a staff, a horn, a seal, an altar stone, a coin, a sheaf, a crown jewel, a lamp shard, a tomb chip)
+- Twelve symbols arranged in a circle like a clock face, each an engraving corresponding to a relic (a stone, a branch, a thread, a staff, a horn, a seal, an altar stone, a coin, a sheaf, a crown jewel, a furnace shard, a thorn)
 - Before completion, each symbol is a rough, faint engraving — barely visible, like an unfinished sketch in bronze
 - When the kids find the relic in the past: they pick it up, it glows, triggers the return — but their hands are empty when they arrive in the present. The relic dissolves during transport.
 - Back in the present, the corresponding symbol on the Pathfinder transforms: lines sharpen, the surface polishes smooth, color appears like enamel inlay, and a faint glow settles into the engraving (visible in dim light, like glow-in-the-dark)
 - As more symbols complete, the hum becomes a tone — almost like music. Each new symbol adds a note.
 - It is never explained what the Pathfinder is or who made it. It is old. It is purpose-built. And it chose these kids.
-- In Book 12, the twelve completed symbols together form a reflective surface — a mirror reflecting the character of God back to whoever holds it
+- In Book 12, the completed Pathfinder unfolds into an incomplete map. The twelve relics rearrange and lines of light connect them — a constellation of God's faithfulness. Every line converges on a single central point: Mount Moriah. But the center is empty. The map shows where every promise points, but what's at the convergence hasn't arrived yet. The twelve notes harmonize into a melody that resolves into a sustained note — the first note of a song not yet written. The Old Covenant map is complete. The New Covenant will complete what it points to.
 
 ## The Fade
 
@@ -31,7 +31,7 @@ The series antagonist is not a person but a force. The Fade is a creeping, cold 
 - Books 1–4: Peripheral. A creeping fog on the edges. Present but not aggressive.
 - Books 5–8: Arrives earlier in each adventure. More assertive. Forces the kids to work faster.
 - Books 9–11: Actively pursues them. Adventures become more dangerous.
-- Book 12: Strongest assault. Manifests as grief, despair, and the weight of "it's over."
+- Book 12: Changes strategy — targets the kids directly, feeding their personal doubts and wounds. Most personal assault.
 
 **Why the Fade (not Satan):** Avoids the theological complexity of personifying Satan for 8-year-olds while creating real tension. It mirrors a real spiritual concept — the enemy's primary tool isn't dramatic confrontation but quiet erosion of faith. Kids understand the feeling of forgetting something important, of doubt creeping in, of a bright memory going dim.
 
@@ -59,7 +59,7 @@ The Fade grows bolder, arriving earlier and more aggressively. The kids start fi
 The Fade actively pursues them. Adventures become more dangerous. The kids realize the relics are forming something in the Pathfinder. Abuelo, recovering slowly, shares more of what he knows.
 
 ### Book 12: Culmination
-The final relic. The Fade's strongest push. Everything the kids have learned comes together. The completed Pathfinder reveals its true purpose — not a weapon, not a map, but a mirror reflecting the character of God.
+The final relic. The Fade's most personal assault — targeting the kids' own doubts rather than the Biblical figures. Abraham and Isaac on Mount Moriah. The completed Pathfinder unfolds into a map of promises that all converge on one mountain, one empty center, one unfulfilled point. The melody completes but sustains — waiting. Series 1 closes with every promise preserved, every character arc resolved, and a map that points forward to something bigger.
 
 ## Chapter Structure Template
 
@@ -111,8 +111,8 @@ Next door to Abuelo's. Modest, with a recent move-in feel — boxes still stacke
 | 8 | The Coin of Second Chances | Jonah's fare coin | Mercy | Grace extends to all |
 | 9 | The Gleaning Sheaf | Grain from Boaz's field | Loyalty | Works through the ordinary |
 | 10 | The Crown of Courage | Jewel from Esther's crown | Purpose | Positions us for His plans |
-| 11 | The Shepherd's Light | Shard from manger lamp | Hope | Arrives humbly |
-| 12 | The Stone of the Empty Tomb | Chip from the tomb seal | Life | Conquers death |
+| 11 | The Fourth in the Fire | Shard of furnace stone | Presence | Walks with us through the fire |
+| 12 | The Thorn of Promise | Thorn from the ram's thicket | Provision | Will provide the ultimate sacrifice |
 
 ## Continuity Checkpoints
 
@@ -120,5 +120,18 @@ When drafting any book, verify:
 - How many relics have been collected so far? The Pathfinder should reflect this.
 - What is the Fade's current aggression level for this book's position in the series?
 - Where is Abuelo in his recovery? (Hospitalized books 1–3, beginning to communicate books 4–7, more present books 8–11, fully present book 12)
-- Where is Jordan in his arc? (Bewildered 1–2, curious 3–5, genuinely questioning 6–8, on the verge 9–11, choosing faith 12)
+- Where is Jordan in his arc? (Bewildered 1–2, curious 3–5, genuinely questioning 6–8, on the verge 9–11, open and seeking 12)
 - What do the kids know about the rules? (Discovering 1–3, understanding 4–6, testing limits 7–9, mastering 10–12)
+
+## Series 2 Setup (New Covenant)
+
+Series 1 is designed to stand alone. However, the incomplete map and the sustained melody are natural entry points for a second 12-book series covering New Testament events:
+
+- **Target age:** 10–14 (middle grade), following the same characters 2–3 years older
+- **Format:** 20,000–40,000 words per book, 4–6 illustrations per book
+- **Scope:** The Gospels, Acts, the apostles, and the coming of the Holy Spirit
+- **Books 1–2 of Series 2:** The Nativity and the Resurrection — the two stories that were originally in Series 1 but belong here as the fulfillment of the Old Covenant promises
+- **The Pathfinder:** Reconfigures with 12 new slots. The map gains a second layer. The melody gains harmony.
+- **The Fade:** Returns in a new form — attacking the fulfillment of promises rather than the promises themselves
+- **Jordan's arc:** Continues from honest openness into active, tested faith
+- **Central revelation:** The empty center of the map fills. The name at the convergence of every Old Testament promise is revealed. The song completes.

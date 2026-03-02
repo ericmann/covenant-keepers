@@ -79,13 +79,13 @@ At blended $4.50 avg royalty (mix of ebook and paperback):
 
 ## Future Considerations
 
-### Series 2: The Keepers (working title)
-A follow-up 12-book series targeting ages 10–14 (middle grade) following the same characters 2–3 years older. Focused on New Testament and early church stories — the apostles, Paul's journeys, persecution, the spread of the gospel. Longer books (20–40k words), fewer illustrations (4–6 per book), more complex themes. To be developed after Series 1 is complete.
+### Series 2: The New Covenant (working title)
+A follow-up 12-book series targeting ages 10–14 (middle grade) following the same characters 2–3 years older. Covers New Testament events: the Nativity, the Resurrection, the ministry of Jesus, Acts, the apostles' journeys, persecution, and the coming of the Holy Spirit. Books 1 and 2 of Series 2 are the Nativity and the Resurrection — events originally slated for Series 1 that fit more naturally as the fulfillment of the Old Covenant promises. Longer books (20–40k words), fewer illustrations (4–6 per book), more complex themes. The Pathfinder reconfigures with new slots; the incomplete map from Series 1 gains its second layer. To be developed after Series 1 is complete.
 
 ## Theological Guidelines
 
 - **Denominationally neutral.** No specific church tradition named. Focus on Biblical text and God's character.
 - **Biblically accurate.** Events follow scripture. Creative liberties are limited to the kids' interactions and the Pathfinder mechanics — not the Biblical narrative itself.
-- **Age-appropriate.** Violence is present (David and Goliath, the lions, the Flood) but not graphic. The crucifixion is referenced in Book 12 but the focus is on Resurrection morning.
+- **Age-appropriate.** Violence is present (David and Goliath, the lions, the Flood) but not graphic. Series 1 covers Old Testament events only; the crucifixion and resurrection are reserved for Series 2.
 - **Not preachy.** The theology is woven into the adventure. The kids don't deliver sermons. The lessons emerge from what they witness and experience.
 - **Honest about doubt.** Jordan's skepticism is treated respectfully. His questions are valid. His arc is gradual and earned.

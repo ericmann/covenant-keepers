@@ -54,4 +54,5 @@ He wants to control the outcome. He trusts God in theory but struggles to let go
 - **Book 1:** First to touch the Pathfinder. Terrified but doesn't run. Sets the template for his courage.
 - **Book 4:** Connects deeply with Moses' reluctance — sees himself in a leader who didn't want the job.
 - **Book 7:** His crucible. Mount Carmel forces him to stand alone for what he believes. Hardest thing he's ever done.
-- **Book 12:** Holds the completed Pathfinder and sees the mirror. Understands that faith was never about having all the answers.
+- **Book 11:** Connects with the theme of God's presence in suffering — the fourth figure in the furnace. Begins to understand that faith doesn't prevent fire, it survives fire.
+- **Book 12:** Witnesses Abraham's ultimate test of trust. Holds the completed Pathfinder as it unfolds into the incomplete map. Understands that faith was never about having all the answers — it's trusting the story isn't finished.

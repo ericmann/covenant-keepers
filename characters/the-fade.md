@@ -53,12 +53,14 @@ Specifically, the Fade:
 - Begins arriving before the kids do — they land in a place already touched by the Fade
 - The Fade seems to know which stories they're coming for
 
-### Book 12: The Siege
-- The Fade's strongest assault
-- Does not manifest as fog but as grief, despair, and the crushing weight of finality
-- The "it's over" of Saturday between crucifixion and resurrection
-- The Fade doesn't need to attack — the raw human experience of loss does its work
-- Defeated not by combat but by completion: the Pathfinder fills, the promises connect, and the Fade has nowhere left to take hold. You can't erase what's been remembered.
+### Book 12: The Personal Attack
+- The Fade changes strategy entirely — instead of attacking the Biblical story, it attacks the kids directly
+- Feeds Jordan's deepest wound: "Fathers leave. Fathers sacrifice their children for their own reasons. This God is no different."
+- Feeds Elena's impatience: "This will never end. There will always be another test."
+- Feeds Eli's need for control: "You still don't understand what the map means. You'll never have all the answers."
+- This is the Fade's most insidious form — using truth adjacent to lies, targeting real pain
+- Defeated not by combat but by accumulated remembrance: twelve promises preserved, twelve moments of faithfulness carved into the Pathfinder. The Fade thins to almost nothing. It can whisper, but it can't erase what's been carved in stone.
+- The Fade does NOT die. It retreats. The monuments stand. If Series 2 exists, it returns in a new form.
 
 ## Writing Guidelines for the Fade
 - **Show, don't name.** Don't write "the Fade was there." Write the fog, the cold, the silence. Let the reader feel it.

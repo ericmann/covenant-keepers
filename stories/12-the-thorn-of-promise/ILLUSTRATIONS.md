@@ -1,4 +1,4 @@
-# Book 11: The Shepherds Light — Illustration Specifications
+# Book 12: The Thorn of Promise — Illustration Specifications
 
 ## Cover Art (Full Color)
 [To be specified after outline is finalized]

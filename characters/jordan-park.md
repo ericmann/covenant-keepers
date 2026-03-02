@@ -45,8 +45,8 @@ This is the spine of the series. Jordan's arc is the most important thread.
 - **Books 1–2:** "This is weird and I don't understand it." Goes along because the alternative is sitting alone in his room. Treats the adventures as fascinating but explainable phenomena.
 - **Books 3–5:** "I can't explain this." Joseph's story (Book 3) hits close — betrayal, abandonment, family breaking apart. He starts asking real questions, not just skeptical ones.
 - **Books 6–8:** "Maybe there's something real here." The Jonah story (Book 8) is a turning point — he identifies with running from something you're not sure you believe in. His midpoint observation ("Maybe we're supposed to notice") surprises even him.
-- **Books 9–11:** "I think I believe this but I'm scared to say it." The Nativity (Book 11) breaks something open in him. It's not evidence. It's presence. He can't argue with what he felt.
-- **Book 12:** He chooses faith. Not loudly, not dramatically. He tells Eli and Elena he wants to keep looking. That's enough.
+- **Books 9–11:** "I think I believe this but I'm scared to say it." The fourth figure in the furnace (Book 11) shakes him — God showing up inside the suffering, not preventing it. That's the version of God he might actually trust.
+- **Book 12:** The Fade targets him directly, feeding his deepest wound — "Fathers leave. Fathers sacrifice their children." Abraham and Isaac on Moriah is almost too much. But when the ram appears and Abraham names the place "The Lord Will Provide" — future tense, a promise still being kept — Jordan arrives at honest openness. "I don't understand all of it. But I don't think I'm supposed to yet. I want to keep looking." Not conversion. Not a creed. A step.
 
 ## Core Flaw
 He holds people (and God) at arm's length because he's been hurt. His parents' divorce shattered his trust that the world is reliable. If God is real, then God let his family fall apart. He needs to reconcile that before he can believe.
@@ -60,14 +60,14 @@ He holds people (and God) at arm's length because he's been hurt. His parents' d
 - **Book 3:** Joseph's story. Abandonment. Brothers who betrayed him. Jordan connects viscerally and starts asking questions that aren't rhetorical.
 - **Book 6:** Daniel's integrity under pressure. Jordan recognizes something he respects — principled consistency — and can't dismiss it as stupidity.
 - **Book 8:** "Maybe we're supposed to notice." His first statement that sounds like it might come from inside faith rather than outside it.
-- **Book 11:** The Nativity. He's deeply moved and can't articulate why. This isn't about evidence anymore.
-- **Book 12:** Chooses faith. Simply. Quietly. "I want to keep looking."
+- **Book 11:** The fourth figure in the fire. God present inside suffering rather than preventing it. This reframes everything Jordan thought he knew about a God who "lets bad things happen."
+- **Book 12:** The Fade attacks him personally — "fathers leave, fathers sacrifice children for their own reasons." Abraham and Isaac nearly breaks him. But "The Lord Will Provide" in future tense lands differently than past tense. Jordan's closing: "I don't understand all of it. But I don't think I'm supposed to yet. I want to keep looking." A step. Not a destination.
 
 ## The Fade's Effect on Jordan
 His vision blurs at the edges. Peripheral vision goes grey, then contracts. This works metaphorically — Jordan's journey is about expanding what he's willing to see. The Fade literally narrows his sight.
 
 ## Important Notes for Writing Jordan
 - **Never mock his doubt.** His questions are valid. The story respects them.
-- **No dramatic conversion scene.** His faith is earned through 12 books of honest wrestling. A sudden altar call would betray the character.
+- **No dramatic conversion scene.** His faith is earned through 12 books of honest wrestling. A sudden altar call would betray the character. His Series 1 ending is openness, not arrival. If Series 2 exists, his journey continues. If it doesn't, "I want to keep looking" is a real and honest place to leave a kid wrestling with faith.
 - **He's not a project.** Eli and Elena don't "win him over." They're his friends who happen to believe. The experiences do the work.
 - **His pain is real.** The divorce isn't backstory decoration. It's the lens through which he processes everything about trust, faithfulness, and promises kept.
