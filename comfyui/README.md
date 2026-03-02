@@ -70,9 +70,9 @@ Since these are fictional characters, the very first batch has no reference face
 2. **DualCLIPLoader** → clip_name1: `t5xxl_fp16.safetensors`, clip_name2: `clip_l.safetensors`, type: `flux`
    - This loads the two text encoders Flux requires. **Not** PuLID — that has its own loader.
 3. **VAELoader** → `ae.safetensors`
-4. **CLIPTextEncode** (positive) → connect CLIP output from DualCLIPLoader → paste character prompt from `prompts/characters/<name>.txt` + style keywords from `prompts/covers/style-positive.txt`
-5. **CLIPTextEncode** (negative) → connect same CLIP output → paste negative from `prompts/covers/style-negative.txt`
-6. *(Optional)* **LoraLoader** → connect between Load Diffusion Model and KSampler model inputs → select vintage style LoRA, strength_model: `0.6`, strength_clip: `0.6`
+4. **CLIPTextEncode** (positive) → connect CLIP output from DualCLIPLoader → paste **only** the character prompt from `prompts/characters/<name>.txt`. Do **not** add the cover style keywords here — those overpower the character description and produce adventure scenes instead of portraits. You can optionally prepend "portrait of" and append ", plain background" to steer composition.
+5. **CLIPTextEncode** (negative) → connect same CLIP output → use a minimal negative: `blurry, low quality, deformed hands, extra fingers, deformed fingers`. Do **not** use `prompts/covers/style-negative.txt` here — save that for Phase 2/3.
+6. *(Optional, not recommended for first pass)* **LoraLoader** → connect between Load Diffusion Model and KSampler model inputs → select vintage style LoRA, strength_model: `0.6`, strength_clip: `0.6`. Style LoRAs can overpower character features — try without one first, then add if needed.
 7. **EmptyLatentImage** → width: `768`, height: `1024`, batch_size: `1`
 8. **KSampler** → connect model (from Load Diffusion Model or LoraLoader), positive/negative conditioning, latent_image from EmptyLatentImage → steps: `30`, cfg: `3.5`, sampler_name: `euler`, scheduler: `normal`, seed: vary per generation
 9. **VAEDecode** → connect samples output from KSampler + VAE from VAELoader
@@ -87,7 +87,7 @@ VAELoader ──→ VAEDecode (vae)
 EmptyLatentImage ──→ KSampler (latent_image)
 ```
 
-Generate 30-40 images per character. Pick the 1-3 best faces — these become your reference for Phase 1b.
+Generate 30-40 images per character. Keep the seed set to "randomize" and queue multiple runs. After the first 10-15 portraits, start appending pose/angle variations to the character prompt to build a diverse training set — e.g., "3/4 view", "profile view", "looking down at book", "smiling warmly", "serious expression", "outdoors in natural light", "sitting at desk". Pick the 1-3 best faces — these become your reference for Phase 1b.
 
 Save this workflow to `workflows/character-bootstrap-text-only.json` via ComfyUI's menu (Workflow → Export).
 

@@ -1,1 +1,15 @@
 elena_castillo, 10-year-old Latina girl, warm brown skin slightly darker complexion, dark brown hair in ponytail with loose strands escaping, dark brown sharp quick eyes, small compact athletic build like a soccer player, bright colored t-shirt in red or yellow or orange, athletic shorts, well-worn running shoes, braided friendship bracelet on left wrist, skinned knees with at least one bandage, half-grin expression, gap between front teeth, bouncy forward-leaning posture
+
+# Variation prompts for bootstrap (use one per generation, copy into CLIPTextEncode positive):
+
+# Close-up portrait, front-facing
+realistic portrait photograph, elena_castillo, 10-year-old Latina girl, warm brown skin slightly darker complexion, dark brown hair in ponytail with loose strands escaping, dark brown sharp quick eyes, half-grin expression, gap between front teeth, braided friendship bracelet on left wrist, head and shoulders portrait, natural daylight, soft studio lighting, neutral gray background, semi-realistic, detailed skin texture
+
+# 3/4 view, outdoor setting
+realistic photograph, three-quarter view, elena_castillo, 10-year-old Latina girl, warm brown skin, dark brown hair in ponytail with loose strands, dark brown sharp eyes, small compact athletic build, bright orange t-shirt, athletic shorts, well-worn running shoes, braided friendship bracelet on left wrist, skinned knees with bandage, standing outdoors in a park, natural sunlight, semi-realistic, detailed features
+
+# Profile view, looking away
+realistic photograph, profile view from the side, elena_castillo, 10-year-old Latina girl, warm brown skin slightly darker complexion, dark brown hair in ponytail with loose strands escaping, small nose, athletic build, bright red t-shirt, looking into the distance, natural daylight, semi-realistic, detailed skin texture, neutral blurred background
+
+# Seated, reading or studying
+realistic photograph, elena_castillo, 10-year-old Latina girl, warm brown skin, dark brown hair in ponytail, dark brown sharp quick eyes, gap between front teeth, braided friendship bracelet on left wrist, bright yellow t-shirt, sitting cross-legged on the ground, looking up at camera with half-grin, natural daylight, well-lit, semi-realistic, detailed features

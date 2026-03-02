@@ -1,1 +1,15 @@
 jordan_park, 11-year-old Korean-American boy, light golden-brown skin, straight black hair a little too long falling over forehead and ears, dark brown observant guarded eyes, rectangular dark-framed glasses, slim build still growing into his limbs, dark navy or charcoal hoodie over graphic tee, jeans, clean white sneakers, arms crossed or hands in pockets posture, skeptical resting expression with one eyebrow raised, rubber band on wrist
+
+# Variation prompts for bootstrap (use one per generation, copy into CLIPTextEncode positive):
+
+# Close-up portrait, front-facing
+realistic portrait photograph, jordan_park, 11-year-old Korean-American boy, light golden-brown skin, straight black hair a little too long falling over forehead and ears, dark brown observant guarded eyes, rectangular dark-framed glasses, skeptical expression with one eyebrow raised, head and shoulders portrait, natural daylight, soft studio lighting, neutral gray background, semi-realistic, detailed skin texture
+
+# 3/4 view, outdoor setting
+realistic photograph, three-quarter view, jordan_park, 11-year-old Korean-American boy, light golden-brown skin, straight black hair too long, dark brown eyes, rectangular dark-framed glasses, slim build, dark navy hoodie over graphic tee, jeans, clean white sneakers, rubber band on wrist, hands in pockets, standing outdoors on a sidewalk, natural sunlight, semi-realistic, detailed features
+
+# Profile view, looking away
+realistic photograph, profile view from the side, jordan_park, 11-year-old Korean-American boy, light golden-brown skin, straight black hair falling over ears, rectangular dark-framed glasses, slim build, charcoal hoodie, looking into the distance with guarded expression, natural daylight, semi-realistic, detailed skin texture, neutral blurred background
+
+# Seated, arms crossed
+realistic photograph, jordan_park, 11-year-old Korean-American boy, light golden-brown skin, straight black hair falling over forehead, dark brown observant eyes, rectangular dark-framed glasses, dark navy hoodie over graphic tee, sitting on steps outdoors, arms crossed, skeptical expression, rubber band on wrist, natural daylight, well-lit, semi-realistic, detailed features

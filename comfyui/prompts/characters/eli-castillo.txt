@@ -1,1 +1,15 @@
 eli_castillo, 12-year-old Latino boy, warm brown skin with olive undertone, thick dark brown wavy hair falling across forehead, brown expressive eyes, lean build, average height, worn khaki field jacket with many pockets over plain t-shirt, jeans, scuffed untied sneakers, small notebook visible in jacket pocket, serious thoughtful expression, thin scar on left palm, slightly hunched posture when thinking
+
+# Variation prompts for bootstrap (use one per generation, copy into CLIPTextEncode positive):
+
+# Close-up portrait, front-facing
+realistic portrait photograph, eli_castillo, 12-year-old Latino boy, warm brown skin with olive undertone, thick dark brown wavy hair falling across forehead, brown expressive eyes, serious thoughtful expression, lean face, head and shoulders portrait, natural daylight, soft studio lighting, neutral gray background, semi-realistic, detailed skin texture
+
+# 3/4 view, outdoor setting
+realistic photograph, three-quarter view, eli_castillo, 12-year-old Latino boy, warm brown skin with olive undertone, thick dark brown wavy hair, brown expressive eyes, lean build, worn khaki field jacket with many pockets over plain t-shirt, jeans, scuffed sneakers, small notebook in jacket pocket, standing outdoors on a trail, natural sunlight, semi-realistic, detailed features
+
+# Profile view, looking at notebook
+realistic photograph, profile view from the side, eli_castillo, 12-year-old Latino boy, warm brown skin with olive undertone, thick dark brown wavy hair falling across forehead, lean build, worn khaki field jacket, looking down at notebook in hands, slightly hunched posture, natural daylight, semi-realistic, detailed skin texture, neutral blurred background
+
+# Seated, thinking
+realistic photograph, eli_castillo, 12-year-old Latino boy, warm brown skin with olive undertone, thick dark brown wavy hair, brown expressive eyes, serious expression, worn khaki field jacket over plain t-shirt, sitting on a rock outdoors, chin resting on hand, thinking pose, natural daylight, well-lit, semi-realistic, detailed features

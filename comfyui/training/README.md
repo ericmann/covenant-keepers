@@ -21,9 +21,10 @@ Since these are fictional illustrated characters, we bootstrap from text descrip
 Generate initial candidates without PuLID (no reference face exists yet):
 
 1. Build the Phase 1a workflow in ComfyUI (UNETLoader + DualCLIPLoader + VAELoader + CLIPTextEncode + KSampler + VAEDecode + SaveImage — see `../README.md` for exact node wiring)
-2. Use the character prompt from `../prompts/characters/<name>.txt`
-3. Generate 30-40 candidate images per character at 768x1024
-4. Pick the 1-3 best faces — these become your reference for Pass 2
+2. Use **only** the character prompt from `../prompts/characters/<name>.txt` as the positive prompt — do not add cover style keywords (they overpower the character description). Optionally prepend "portrait of" and append ", plain background".
+3. Use a minimal negative prompt: `blurry, low quality, deformed hands, extra fingers, deformed fingers`
+4. Generate 30-40 candidate images per character at 768x1024 — vary poses/angles/expressions after the first 10-15
+5. Pick the 1-3 best faces — these become your reference for Pass 2
 
 ### Pass 2: PuLID-Guided Refinement (Phase 1b)
 
