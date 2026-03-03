@@ -19,7 +19,8 @@ config:
         save_every: 250
         max_step_saves_to_keep: 3
       datasets:
-        - folder_path: "datasets/jordan-park"
+        # UPDATE THIS PATH to match your Spark clone location
+        - folder_path: "/path/to/covenant-keepers/comfyui/training/datasets/jordan-park"
           caption_ext: ".txt"
           caption_dropout_rate: 0.05
           shuffle_tokens: false
