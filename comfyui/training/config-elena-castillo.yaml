@@ -1,51 +1,51 @@
 # AI-Toolkit LoRA Training Config — Elena Castillo
 #
-# Usage: python run.py config/config-elena-castillo.yaml
+# Usage (from ai-toolkit directory):
+#   python run.py /path/to/covenant-keepers/comfyui/training/config-elena-castillo.yaml
 
 ---
-job: lora
+job: extension
 config:
   name: "elena-castillo-lora"
   process:
     - type: "sd_trainer"
       training_folder: "output"
-      device: "cuda:0"
+      device: cuda:0
+      trigger_word: "elena_castillo"
       network:
         type: "lora"
-        linear: 32          # rank
-        linear_alpha: 16     # alpha = rank / 2
+        linear: 32
+        linear_alpha: 16
       save:
-        dtype: "float16"
+        dtype: float16
         save_every: 250
         max_step_saves_to_keep: 3
       datasets:
         # UPDATE THIS PATH to match your Spark clone location
         - folder_path: "/path/to/covenant-keepers/comfyui/training/datasets/elena-castillo"
-          caption_ext: ".txt"
+          caption_ext: "txt"
           caption_dropout_rate: 0.05
           shuffle_tokens: false
           cache_latents_to_disk: true
-          resolution:
-            - 768
-            - 1024
+          resolution: [ 768, 1024 ]
       train:
         batch_size: 1
-        steps: 3000           # ~12 epochs with 15 images x 15 repeats
+        steps: 3000
         gradient_accumulation_steps: 1
         train_unet: true
         train_text_encoder: false
         gradient_checkpointing: true
         noise_scheduler: "flowmatch"
         optimizer: "adamw8bit"
-        lr: 1.0e-4
-        lr_scheduler: "cosine"
-        lr_scheduler_params:
-          T_max: 3000
-          eta_min: 1.0e-6
+        lr: 1e-4
+        dtype: bf16
+        ema_config:
+          use_ema: true
+          ema_decay: 0.99
       model:
         name_or_path: "black-forest-labs/FLUX.1-dev"
         is_flux: true
-        quantize: false       # DGX Spark has plenty of memory
+        quantize: false
       sample:
         sampler: "flowmatch"
         sample_every: 250
@@ -55,4 +55,11 @@ config:
           - "elena_castillo, 10-year-old Latina girl running through a field, warm brown skin, dark brown ponytail flying behind her, bright red t-shirt, athletic shorts, gap-toothed grin, vintage illustration style"
           - "elena_castillo, 10-year-old Latina girl sitting on a stone wall with arms crossed, warm brown skin, dark brown sharp eyes, braided friendship bracelet, skinned knees, vintage illustration style"
           - "elena_castillo, 10-year-old Latina girl examining an ancient artifact with intense curiosity, warm brown skin, loose strands of hair escaping ponytail, half-grin, vintage illustration style"
-      trigger_word: "elena_castillo"
+        neg: ""
+        seed: 42
+        walk_seed: true
+        guidance_scale: 4
+        sample_steps: 20
+meta:
+  name: "[name]"
+  version: "1.0"

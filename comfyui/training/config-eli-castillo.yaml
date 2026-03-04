@@ -1,34 +1,33 @@
-# AI-Toolkit LoRA Training Config — Covenant Keepers Characters
+# AI-Toolkit LoRA Training Config — Eli Castillo
 #
-# Usage: python run.py config/config.yaml
-# Duplicate this file and update job.name, trigger_word, and folder for each character.
+# Usage (from ai-toolkit directory):
+#   python run.py /path/to/covenant-keepers/comfyui/training/config-eli-castillo.yaml
 
 ---
-job: lora
+job: extension
 config:
   name: "eli-castillo-lora"
   process:
     - type: "sd_trainer"
       training_folder: "output"
-      device: "cuda:0"
+      device: cuda:0
+      trigger_word: "eli_castillo"
       network:
         type: "lora"
         linear: 32          # rank
         linear_alpha: 16     # alpha = rank / 2
       save:
-        dtype: "float16"
+        dtype: float16
         save_every: 250
         max_step_saves_to_keep: 3
       datasets:
         # UPDATE THIS PATH to match your Spark clone location
         - folder_path: "/path/to/covenant-keepers/comfyui/training/datasets/eli-castillo"
-          caption_ext: ".txt"
+          caption_ext: "txt"
           caption_dropout_rate: 0.05
           shuffle_tokens: false
           cache_latents_to_disk: true
-          resolution:
-            - 768
-            - 1024
+          resolution: [ 768, 1024 ]
       train:
         batch_size: 1
         steps: 3000           # ~12 epochs with 15 images x 15 repeats
@@ -38,11 +37,11 @@ config:
         gradient_checkpointing: true
         noise_scheduler: "flowmatch"
         optimizer: "adamw8bit"
-        lr: 1.0e-4
-        lr_scheduler: "cosine"
-        lr_scheduler_params:
-          T_max: 3000
-          eta_min: 1.0e-6
+        lr: 1e-4
+        dtype: bf16
+        ema_config:
+          use_ema: true
+          ema_decay: 0.99
       model:
         name_or_path: "black-forest-labs/FLUX.1-dev"
         is_flux: true
@@ -56,10 +55,11 @@ config:
           - "eli_castillo, 12-year-old Latino boy standing in a field, warm brown skin, thick dark brown wavy hair, brown eyes, worn khaki field jacket, vintage illustration style"
           - "eli_castillo, 12-year-old Latino boy reading a book in a library, warm brown skin, serious thoughtful expression, vintage illustration style"
           - "eli_castillo, 12-year-old Latino boy looking at an ancient artifact, warm brown skin, brown eyes wide with wonder, vintage illustration style"
-      trigger_word: "eli_castillo"
-
-# To train other characters, duplicate this config and change:
-#   - job.config.name: "elena-castillo-lora" / "jordan-park-lora" / "abuelo-castillo-lora"
-#   - datasets.folder_path: "datasets/elena-castillo" / etc.
-#   - trigger_word: "elena_castillo" / "jordan_park" / "abuelo_castillo"
-#   - sample.prompts: update with character-appropriate descriptions
+        neg: ""
+        seed: 42
+        walk_seed: true
+        guidance_scale: 4
+        sample_steps: 20
+meta:
+  name: "[name]"
+  version: "1.0"

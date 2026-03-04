@@ -1,4 +1,4 @@
-# AI-Toolkit LoRA Training Config — Eli Castillo (template/reference)
+# AI-Toolkit LoRA Training Config — Template/Reference
 #
 # Per-character configs are provided:
 #   config-eli-castillo.yaml
@@ -6,65 +6,7 @@
 #   config-jordan-park.yaml
 #   config-abuelo-castillo.yaml
 #
-# Usage: python run.py config/config-eli-castillo.yaml
-
----
-job: lora
-config:
-  name: "eli-castillo-lora"
-  process:
-    - type: "sd_trainer"
-      training_folder: "output"
-      device: "cuda:0"
-      network:
-        type: "lora"
-        linear: 32          # rank
-        linear_alpha: 16     # alpha = rank / 2
-      save:
-        dtype: "float16"
-        save_every: 250
-        max_step_saves_to_keep: 3
-      datasets:
-        # UPDATE THIS PATH to match your Spark clone location
-        - folder_path: "/path/to/covenant-keepers/comfyui/training/datasets/eli-castillo"
-          caption_ext: ".txt"
-          caption_dropout_rate: 0.05
-          shuffle_tokens: false
-          cache_latents_to_disk: true
-          resolution:
-            - 768
-            - 1024
-      train:
-        batch_size: 1
-        steps: 3000           # ~12 epochs with 15 images x 15 repeats
-        gradient_accumulation_steps: 1
-        train_unet: true
-        train_text_encoder: false
-        gradient_checkpointing: true
-        noise_scheduler: "flowmatch"
-        optimizer: "adamw8bit"
-        lr: 1.0e-4
-        lr_scheduler: "cosine"
-        lr_scheduler_params:
-          T_max: 3000
-          eta_min: 1.0e-6
-      model:
-        name_or_path: "black-forest-labs/FLUX.1-dev"
-        is_flux: true
-        quantize: false       # DGX Spark has plenty of memory
-      sample:
-        sampler: "flowmatch"
-        sample_every: 250
-        width: 768
-        height: 1024
-        prompts:
-          - "eli_castillo, 12-year-old Latino boy standing in a field, warm brown skin, thick dark brown wavy hair, brown eyes, worn khaki field jacket, vintage illustration style"
-          - "eli_castillo, 12-year-old Latino boy reading a book in a library, warm brown skin, serious thoughtful expression, vintage illustration style"
-          - "eli_castillo, 12-year-old Latino boy looking at an ancient artifact, warm brown skin, brown eyes wide with wonder, vintage illustration style"
-      trigger_word: "eli_castillo"
-
-# Per-character configs are already provided. See:
-#   config-eli-castillo.yaml
-#   config-elena-castillo.yaml
-#   config-jordan-park.yaml
-#   config-abuelo-castillo.yaml
+# Usage (from ai-toolkit directory):
+#   python run.py /path/to/covenant-keepers/comfyui/training/config-eli-castillo.yaml
+#
+# This file is a reference template. Use the per-character configs for actual training.
